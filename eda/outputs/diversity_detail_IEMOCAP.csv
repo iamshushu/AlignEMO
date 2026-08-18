@@ -1,0 +1,152 @@
+dialogue_id,n_distinct,n_utterances,emotions,dominant,dominant_count,dom_pct,dataset
+dev_0,5,39,"('anger', 'frustrated', 'happy', 'neutral', 'sad')",sad,20,0.5128205128205128,IEMOCAP
+dev_1,5,50,"('anger', 'excited', 'frustrated', 'happy', 'neutral')",frustrated,20,0.4,IEMOCAP
+dev_10,1,40,"('sad',)",sad,40,1.0,IEMOCAP
+dev_11,3,50,"('excited', 'happy', 'neutral')",excited,26,0.52,IEMOCAP
+dev_12,3,52,"('frustrated', 'happy', 'neutral')",frustrated,25,0.4807692307692308,IEMOCAP
+dev_13,4,58,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,20,0.3448275862068966,IEMOCAP
+dev_14,4,32,"('anger', 'frustrated', 'neutral', 'sad')",anger,17,0.53125,IEMOCAP
+dev_15,2,20,"('happy', 'sad')",sad,15,0.75,IEMOCAP
+dev_16,4,44,"('anger', 'excited', 'frustrated', 'neutral')",excited,15,0.3409090909090909,IEMOCAP
+dev_17,5,54,"('anger', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,23,0.42592592592592593,IEMOCAP
+dev_18,4,34,"('anger', 'excited', 'neutral', 'sad')",excited,25,0.7352941176470589,IEMOCAP
+dev_19,5,94,"('anger', 'excited', 'frustrated', 'happy', 'neutral')",anger,65,0.6914893617021277,IEMOCAP
+dev_2,6,66,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,29,0.4393939393939394,IEMOCAP
+dev_3,2,26,"('excited', 'neutral')",excited,17,0.6538461538461539,IEMOCAP
+dev_4,3,60,"('anger', 'frustrated', 'neutral')",anger,49,0.8166666666666667,IEMOCAP
+dev_5,3,45,"('anger', 'frustrated', 'neutral')",frustrated,34,0.7555555555555555,IEMOCAP
+dev_6,4,56,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,51,0.9107142857142857,IEMOCAP
+dev_7,3,38,"('excited', 'happy', 'neutral')",excited,22,0.5789473684210527,IEMOCAP
+dev_8,2,39,"('frustrated', 'neutral')",neutral,20,0.5128205128205128,IEMOCAP
+dev_9,3,83,"('anger', 'frustrated', 'neutral')",frustrated,53,0.6385542168674698,IEMOCAP
+test_0,3,44,"('anger', 'frustrated', 'neutral')",frustrated,37,0.8409090909090909,IEMOCAP
+test_1,4,49,"('anger', 'frustrated', 'neutral', 'sad')",sad,33,0.673469387755102,IEMOCAP
+test_10,4,44,"('excited', 'happy', 'neutral', 'sad')",sad,21,0.4772727272727273,IEMOCAP
+test_11,3,43,"('excited', 'frustrated', 'neutral')",excited,21,0.4883720930232558,IEMOCAP
+test_12,6,59,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,23,0.3898305084745763,IEMOCAP
+test_13,3,37,"('excited', 'happy', 'neutral')",excited,29,0.7837837837837838,IEMOCAP
+test_14,3,59,"('anger', 'frustrated', 'neutral')",anger,38,0.6440677966101694,IEMOCAP
+test_15,3,40,"('anger', 'frustrated', 'neutral')",frustrated,28,0.7,IEMOCAP
+test_16,4,29,"('excited', 'frustrated', 'neutral', 'sad')",sad,22,0.7586206896551724,IEMOCAP
+test_17,3,58,"('excited', 'happy', 'neutral')",happy,36,0.6206896551724138,IEMOCAP
+test_18,4,75,"('anger', 'frustrated', 'neutral', 'sad')",neutral,38,0.5066666666666667,IEMOCAP
+test_19,2,42,"('frustrated', 'neutral')",neutral,33,0.7857142857142857,IEMOCAP
+test_2,2,83,"('excited', 'happy')",happy,42,0.5060240963855421,IEMOCAP
+test_20,1,28,"('sad',)",sad,28,1.0,IEMOCAP
+test_21,3,83,"('excited', 'happy', 'neutral')",excited,52,0.6265060240963856,IEMOCAP
+test_22,3,54,"('frustrated', 'happy', 'neutral')",neutral,41,0.7592592592592593,IEMOCAP
+test_23,4,52,"('anger', 'frustrated', 'neutral', 'sad')",anger,21,0.40384615384615385,IEMOCAP
+test_24,4,44,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,20,0.45454545454545453,IEMOCAP
+test_25,3,23,"('anger', 'frustrated', 'neutral')",frustrated,13,0.5652173913043478,IEMOCAP
+test_26,5,43,"('excited', 'frustrated', 'happy', 'neutral', 'sad')",sad,21,0.4883720930232558,IEMOCAP
+test_27,4,34,"('excited', 'frustrated', 'neutral', 'sad')",excited,22,0.6470588235294118,IEMOCAP
+test_28,6,58,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",sad,21,0.3620689655172414,IEMOCAP
+test_29,2,43,"('excited', 'neutral')",excited,35,0.813953488372093,IEMOCAP
+test_3,4,84,"('anger', 'frustrated', 'neutral', 'sad')",neutral,44,0.5238095238095238,IEMOCAP
+test_30,3,64,"('anger', 'frustrated', 'neutral')",anger,40,0.625,IEMOCAP
+test_4,3,91,"('anger', 'frustrated', 'neutral')",neutral,44,0.4835164835164835,IEMOCAP
+test_5,2,52,"('neutral', 'sad')",sad,41,0.7884615384615384,IEMOCAP
+test_6,3,67,"('excited', 'happy', 'neutral')",excited,64,0.9552238805970149,IEMOCAP
+test_7,4,59,"('anger', 'frustrated', 'happy', 'neutral')",neutral,38,0.6440677966101694,IEMOCAP
+test_8,4,53,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,22,0.41509433962264153,IEMOCAP
+test_9,4,28,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,15,0.5357142857142857,IEMOCAP
+train_0,3,26,"('anger', 'frustrated', 'neutral')",frustrated,18,0.6923076923076923,IEMOCAP
+train_1,3,30,"('frustrated', 'neutral', 'sad')",sad,21,0.7,IEMOCAP
+train_10,6,47,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",neutral,25,0.5319148936170213,IEMOCAP
+train_11,6,72,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,25,0.3472222222222222,IEMOCAP
+train_12,2,26,"('excited', 'happy')",happy,19,0.7307692307692307,IEMOCAP
+train_13,4,66,"('anger', 'frustrated', 'happy', 'neutral')",anger,43,0.6515151515151515,IEMOCAP
+train_14,3,44,"('anger', 'frustrated', 'neutral')",frustrated,25,0.5681818181818182,IEMOCAP
+train_15,3,35,"('frustrated', 'neutral', 'sad')",sad,26,0.7428571428571429,IEMOCAP
+train_16,2,48,"('excited', 'neutral')",excited,40,0.8333333333333334,IEMOCAP
+train_17,3,46,"('anger', 'frustrated', 'neutral')",neutral,25,0.5434782608695652,IEMOCAP
+train_18,3,57,"('anger', 'frustrated', 'neutral')",neutral,33,0.5789473684210527,IEMOCAP
+train_19,2,60,"('neutral', 'sad')",sad,35,0.5833333333333334,IEMOCAP
+train_2,3,40,"('excited', 'happy', 'neutral')",happy,21,0.525,IEMOCAP
+train_20,3,49,"('excited', 'happy', 'neutral')",excited,33,0.673469387755102,IEMOCAP
+train_21,4,69,"('anger', 'frustrated', 'neutral', 'sad')",anger,26,0.37681159420289856,IEMOCAP
+train_22,3,27,"('anger', 'frustrated', 'neutral')",frustrated,13,0.48148148148148145,IEMOCAP
+train_23,4,54,"('excited', 'happy', 'neutral', 'sad')",sad,34,0.6296296296296297,IEMOCAP
+train_24,5,52,"('anger', 'excited', 'frustrated', 'happy', 'neutral')",excited,17,0.3269230769230769,IEMOCAP
+train_25,6,79,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,22,0.27848101265822783,IEMOCAP
+train_26,3,43,"('excited', 'happy', 'sad')",happy,36,0.8372093023255814,IEMOCAP
+train_27,3,51,"('anger', 'frustrated', 'neutral')",anger,44,0.8627450980392157,IEMOCAP
+train_28,3,45,"('anger', 'frustrated', 'neutral')",frustrated,34,0.7555555555555555,IEMOCAP
+train_29,2,24,"('frustrated', 'sad')",sad,16,0.6666666666666666,IEMOCAP
+train_3,3,61,"('anger', 'frustrated', 'neutral')",neutral,38,0.6229508196721312,IEMOCAP
+train_30,3,41,"('excited', 'happy', 'neutral')",happy,19,0.4634146341463415,IEMOCAP
+train_31,3,36,"('frustrated', 'neutral', 'sad')",neutral,18,0.5,IEMOCAP
+train_32,3,38,"('anger', 'frustrated', 'neutral')",neutral,25,0.6578947368421053,IEMOCAP
+train_33,2,35,"('neutral', 'sad')",neutral,20,0.5714285714285714,IEMOCAP
+train_34,3,58,"('excited', 'happy', 'neutral')",excited,54,0.9310344827586207,IEMOCAP
+train_35,2,46,"('frustrated', 'neutral')",neutral,42,0.9130434782608695,IEMOCAP
+train_36,4,54,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,24,0.4444444444444444,IEMOCAP
+train_37,3,27,"('anger', 'frustrated', 'neutral')",frustrated,14,0.5185185185185185,IEMOCAP
+train_38,4,30,"('excited', 'happy', 'neutral', 'sad')",sad,23,0.7666666666666667,IEMOCAP
+train_39,3,43,"('excited', 'frustrated', 'neutral')",excited,20,0.46511627906976744,IEMOCAP
+train_4,4,59,"('anger', 'frustrated', 'happy', 'neutral')",neutral,30,0.5084745762711864,IEMOCAP
+train_40,6,74,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,21,0.28378378378378377,IEMOCAP
+train_41,3,51,"('excited', 'happy', 'neutral')",neutral,30,0.5882352941176471,IEMOCAP
+train_42,4,61,"('anger', 'excited', 'frustrated', 'neutral')",anger,33,0.5409836065573771,IEMOCAP
+train_43,3,47,"('anger', 'frustrated', 'neutral')",frustrated,26,0.5531914893617021,IEMOCAP
+train_44,3,26,"('frustrated', 'neutral', 'sad')",sad,23,0.8846153846153846,IEMOCAP
+train_45,2,41,"('excited', 'happy')",excited,31,0.7560975609756098,IEMOCAP
+train_46,4,37,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,18,0.4864864864864865,IEMOCAP
+train_47,3,51,"('anger', 'frustrated', 'neutral')",neutral,30,0.5882352941176471,IEMOCAP
+train_48,1,41,"('sad',)",sad,41,1.0,IEMOCAP
+train_49,2,53,"('excited', 'happy')",excited,34,0.6415094339622641,IEMOCAP
+train_5,2,43,"('neutral', 'sad')",sad,22,0.5116279069767442,IEMOCAP
+train_50,4,51,"('excited', 'frustrated', 'happy', 'neutral')",neutral,38,0.7450980392156863,IEMOCAP
+train_51,4,60,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,26,0.43333333333333335,IEMOCAP
+train_52,4,32,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,18,0.5625,IEMOCAP
+train_53,5,34,"('excited', 'frustrated', 'happy', 'neutral', 'sad')",sad,19,0.5588235294117647,IEMOCAP
+train_54,5,53,"('anger', 'excited', 'frustrated', 'neutral', 'sad')",excited,24,0.4528301886792453,IEMOCAP
+train_55,6,69,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,27,0.391304347826087,IEMOCAP
+train_56,3,33,"('excited', 'happy', 'sad')",happy,18,0.5454545454545454,IEMOCAP
+train_57,4,57,"('anger', 'excited', 'frustrated', 'neutral')",anger,28,0.49122807017543857,IEMOCAP
+train_58,2,18,"('frustrated', 'neutral')",frustrated,12,0.6666666666666666,IEMOCAP
+train_59,6,59,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",sad,40,0.6779661016949152,IEMOCAP
+train_6,3,27,"('excited', 'happy', 'neutral')",excited,23,0.8518518518518519,IEMOCAP
+train_60,2,27,"('excited', 'happy')",excited,20,0.7407407407407407,IEMOCAP
+train_61,3,41,"('frustrated', 'neutral', 'sad')",neutral,20,0.4878048780487805,IEMOCAP
+train_62,3,31,"('anger', 'frustrated', 'neutral')",frustrated,15,0.4838709677419355,IEMOCAP
+train_63,2,53,"('neutral', 'sad')",sad,50,0.9433962264150944,IEMOCAP
+train_64,3,50,"('excited', 'happy', 'neutral')",excited,25,0.5,IEMOCAP
+train_65,3,47,"('anger', 'frustrated', 'neutral')",neutral,28,0.5957446808510638,IEMOCAP
+train_66,4,87,"('anger', 'frustrated', 'neutral', 'sad')",neutral,42,0.4827586206896552,IEMOCAP
+train_67,4,29,"('anger', 'frustrated', 'neutral', 'sad')",anger,15,0.5172413793103449,IEMOCAP
+train_68,4,62,"('frustrated', 'happy', 'neutral', 'sad')",sad,29,0.46774193548387094,IEMOCAP
+train_69,5,37,"('anger', 'excited', 'frustrated', 'neutral', 'sad')",excited,21,0.5675675675675675,IEMOCAP
+train_7,3,74,"('anger', 'frustrated', 'neutral')",frustrated,47,0.6351351351351351,IEMOCAP
+train_70,5,77,"('anger', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,36,0.4675324675324675,IEMOCAP
+train_71,4,18,"('excited', 'happy', 'neutral', 'sad')",excited,9,0.5,IEMOCAP
+train_72,3,53,"('anger', 'frustrated', 'neutral')",anger,38,0.7169811320754716,IEMOCAP
+train_73,3,44,"('anger', 'frustrated', 'neutral')",frustrated,30,0.6818181818181818,IEMOCAP
+train_74,4,63,"('frustrated', 'happy', 'neutral', 'sad')",sad,37,0.5873015873015873,IEMOCAP
+train_75,3,45,"('excited', 'happy', 'neutral')",happy,23,0.5111111111111111,IEMOCAP
+train_76,6,53,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,29,0.5471698113207547,IEMOCAP
+train_77,4,52,"('anger', 'excited', 'frustrated', 'neutral')",anger,28,0.5384615384615384,IEMOCAP
+train_78,3,63,"('anger', 'frustrated', 'neutral')",neutral,28,0.4444444444444444,IEMOCAP
+train_79,1,53,"('sad',)",sad,53,1.0,IEMOCAP
+train_8,3,26,"('anger', 'frustrated', 'neutral')",anger,12,0.46153846153846156,IEMOCAP
+train_80,3,38,"('excited', 'happy', 'neutral')",excited,24,0.631578947368421,IEMOCAP
+train_81,3,63,"('anger', 'frustrated', 'neutral')",frustrated,31,0.49206349206349204,IEMOCAP
+train_82,3,42,"('anger', 'frustrated', 'neutral')",neutral,26,0.6190476190476191,IEMOCAP
+train_83,4,69,"('anger', 'frustrated', 'neutral', 'sad')",frustrated,24,0.34782608695652173,IEMOCAP
+train_84,4,26,"('anger', 'frustrated', 'neutral', 'sad')",anger,10,0.38461538461538464,IEMOCAP
+train_85,4,47,"('excited', 'happy', 'neutral', 'sad')",sad,25,0.5319148936170213,IEMOCAP
+train_86,3,37,"('excited', 'frustrated', 'neutral')",excited,24,0.6486486486486487,IEMOCAP
+train_87,6,78,"('anger', 'excited', 'frustrated', 'happy', 'neutral', 'sad')",frustrated,31,0.3974358974358974,IEMOCAP
+train_88,3,8,"('excited', 'neutral', 'sad')",excited,6,0.75,IEMOCAP
+train_89,3,63,"('anger', 'frustrated', 'neutral')",anger,44,0.6984126984126984,IEMOCAP
+train_9,3,54,"('happy', 'neutral', 'sad')",neutral,23,0.42592592592592593,IEMOCAP
+train_90,2,40,"('anger', 'frustrated')",frustrated,23,0.575,IEMOCAP
+train_91,3,47,"('anger', 'frustrated', 'sad')",frustrated,22,0.46808510638297873,IEMOCAP
+train_92,4,61,"('excited', 'frustrated', 'happy', 'neutral')",excited,42,0.6885245901639344,IEMOCAP
+train_93,3,62,"('anger', 'frustrated', 'neutral')",neutral,26,0.41935483870967744,IEMOCAP
+train_94,2,43,"('anger', 'frustrated')",frustrated,28,0.6511627906976745,IEMOCAP
+train_95,3,26,"('happy', 'neutral', 'sad')",sad,20,0.7692307692307693,IEMOCAP
+train_96,2,110,"('excited', 'neutral')",excited,74,0.6727272727272727,IEMOCAP
+train_97,4,47,"('anger', 'frustrated', 'happy', 'neutral')",frustrated,26,0.5531914893617021,IEMOCAP
+train_98,4,62,"('anger', 'frustrated', 'neutral', 'sad')",anger,32,0.5161290322580645,IEMOCAP
+train_99,3,34,"('anger', 'frustrated', 'neutral')",frustrated,19,0.5588235294117647,IEMOCAP

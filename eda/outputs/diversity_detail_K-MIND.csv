@@ -1,0 +1,818 @@
+dialogue_id,n_distinct,n_utterances,emotions,dominant,dominant_count,dom_pct,dataset
+dev_0,7,87,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,55,0.632183908045977,K-MIND
+dev_1,7,94,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.44680851063829785,K-MIND
+dev_10,7,54,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,37,0.6851851851851852,K-MIND
+dev_11,6,66,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.5909090909090909,K-MIND
+dev_12,7,86,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,61,0.7093023255813954,K-MIND
+dev_13,5,118,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,86,0.7288135593220338,K-MIND
+dev_14,7,226,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,123,0.5442477876106194,K-MIND
+dev_15,4,64,"('joy', 'neutral', 'sad', 'surprise')",neutral,34,0.53125,K-MIND
+dev_16,7,103,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,72,0.6990291262135923,K-MIND
+dev_17,6,128,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,91,0.7109375,K-MIND
+dev_18,6,109,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.6513761467889908,K-MIND
+dev_19,6,80,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,38,0.475,K-MIND
+dev_2,4,100,"('anger', 'fear', 'neutral', 'sad')",anger,51,0.51,K-MIND
+dev_20,5,215,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,151,0.7023255813953488,K-MIND
+dev_21,4,114,"('joy', 'neutral', 'sad', 'surprise')",neutral,96,0.8421052631578947,K-MIND
+dev_22,4,107,"('joy', 'neutral', 'sad', 'surprise')",neutral,82,0.7663551401869159,K-MIND
+dev_23,5,141,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,88,0.624113475177305,K-MIND
+dev_24,5,203,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,136,0.6699507389162561,K-MIND
+dev_25,5,67,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.6268656716417911,K-MIND
+dev_26,5,113,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,72,0.6371681415929203,K-MIND
+dev_27,5,72,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.5833333333333334,K-MIND
+dev_28,6,355,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,199,0.5605633802816902,K-MIND
+dev_29,6,121,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,65,0.5371900826446281,K-MIND
+dev_3,6,59,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",joy,21,0.3559322033898305,K-MIND
+dev_30,4,109,"('joy', 'neutral', 'sad', 'surprise')",neutral,92,0.8440366972477065,K-MIND
+dev_31,6,146,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,104,0.7123287671232876,K-MIND
+dev_32,4,130,"('joy', 'neutral', 'sad', 'surprise')",neutral,90,0.6923076923076923,K-MIND
+dev_33,3,116,"('joy', 'neutral', 'surprise')",neutral,70,0.603448275862069,K-MIND
+dev_34,3,28,"('joy', 'neutral', 'surprise')",neutral,16,0.5714285714285714,K-MIND
+dev_35,5,133,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,66,0.49624060150375937,K-MIND
+dev_36,4,38,"('joy', 'neutral', 'sad', 'surprise')",neutral,21,0.5526315789473685,K-MIND
+dev_37,3,43,"('joy', 'neutral', 'surprise')",neutral,28,0.6511627906976745,K-MIND
+dev_38,6,59,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,32,0.5423728813559322,K-MIND
+dev_39,5,50,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,25,0.5,K-MIND
+dev_4,5,71,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,62,0.8732394366197183,K-MIND
+dev_40,3,34,"('neutral', 'sad', 'surprise')",neutral,28,0.8235294117647058,K-MIND
+dev_41,5,60,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.4666666666666667,K-MIND
+dev_42,3,63,"('fear', 'neutral', 'surprise')",neutral,52,0.8253968253968254,K-MIND
+dev_43,4,91,"('joy', 'neutral', 'sad', 'surprise')",neutral,51,0.5604395604395604,K-MIND
+dev_44,3,51,"('neutral', 'sad', 'surprise')",neutral,37,0.7254901960784313,K-MIND
+dev_45,5,85,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.8352941176470589,K-MIND
+dev_46,2,71,"('neutral', 'surprise')",neutral,57,0.8028169014084507,K-MIND
+dev_47,4,44,"('joy', 'neutral', 'sad', 'surprise')",neutral,34,0.7727272727272727,K-MIND
+dev_48,4,33,"('joy', 'neutral', 'sad', 'surprise')",neutral,23,0.696969696969697,K-MIND
+dev_49,3,84,"('joy', 'neutral', 'surprise')",neutral,72,0.8571428571428571,K-MIND
+dev_5,5,110,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,45,0.4090909090909091,K-MIND
+dev_50,3,28,"('joy', 'neutral', 'surprise')",neutral,20,0.7142857142857143,K-MIND
+dev_51,4,110,"('fear', 'joy', 'neutral', 'surprise')",neutral,95,0.8636363636363636,K-MIND
+dev_52,2,72,"('neutral', 'surprise')",neutral,68,0.9444444444444444,K-MIND
+dev_53,5,64,"('fear', 'joy', 'neutral', 'sad', 'surprise')",joy,29,0.453125,K-MIND
+dev_54,4,93,"('anger', 'neutral', 'sad', 'surprise')",neutral,74,0.7956989247311828,K-MIND
+dev_55,4,64,"('joy', 'neutral', 'sad', 'surprise')",neutral,48,0.75,K-MIND
+dev_56,5,66,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,51,0.7727272727272727,K-MIND
+dev_57,4,54,"('joy', 'neutral', 'sad', 'surprise')",neutral,41,0.7592592592592593,K-MIND
+dev_58,3,78,"('joy', 'neutral', 'surprise')",neutral,64,0.8205128205128205,K-MIND
+dev_59,3,50,"('joy', 'neutral', 'surprise')",neutral,38,0.76,K-MIND
+dev_6,5,123,"('fear', 'joy', 'neutral', 'sad', 'surprise')",surprise,41,0.3333333333333333,K-MIND
+dev_60,5,48,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,25,0.5208333333333334,K-MIND
+dev_61,6,46,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,22,0.4782608695652174,K-MIND
+dev_62,4,75,"('joy', 'neutral', 'sad', 'surprise')",neutral,39,0.52,K-MIND
+dev_63,3,46,"('joy', 'neutral', 'surprise')",neutral,33,0.717391304347826,K-MIND
+dev_64,5,77,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.4675324675324675,K-MIND
+dev_7,6,122,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.5819672131147541,K-MIND
+dev_8,4,35,"('joy', 'neutral', 'sad', 'surprise')",neutral,26,0.7428571428571429,K-MIND
+dev_9,6,127,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,98,0.7716535433070866,K-MIND
+test_0,5,118,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,58,0.4915254237288136,K-MIND
+test_1,6,127,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,79,0.6220472440944882,K-MIND
+test_10,6,78,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,48,0.6153846153846154,K-MIND
+test_100,3,30,"('joy', 'neutral', 'surprise')",neutral,23,0.7666666666666667,K-MIND
+test_101,2,67,"('neutral', 'surprise')",neutral,52,0.7761194029850746,K-MIND
+test_102,7,130,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,81,0.6230769230769231,K-MIND
+test_103,7,102,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,74,0.7254901960784313,K-MIND
+test_104,4,41,"('joy', 'neutral', 'sad', 'surprise')",neutral,26,0.6341463414634146,K-MIND
+test_105,2,33,"('neutral', 'surprise')",neutral,28,0.8484848484848485,K-MIND
+test_106,4,31,"('joy', 'neutral', 'sad', 'surprise')",neutral,16,0.5161290322580645,K-MIND
+test_107,6,118,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,94,0.7966101694915254,K-MIND
+test_108,6,106,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,86,0.8113207547169812,K-MIND
+test_109,5,95,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,79,0.8315789473684211,K-MIND
+test_11,4,77,"('anger', 'joy', 'neutral', 'surprise')",neutral,49,0.6363636363636364,K-MIND
+test_110,4,40,"('fear', 'neutral', 'sad', 'surprise')",neutral,28,0.7,K-MIND
+test_111,4,44,"('fear', 'neutral', 'sad', 'surprise')",neutral,27,0.6136363636363636,K-MIND
+test_112,3,41,"('neutral', 'sad', 'surprise')",neutral,27,0.6585365853658537,K-MIND
+test_113,3,48,"('neutral', 'sad', 'surprise')",neutral,32,0.6666666666666666,K-MIND
+test_114,2,34,"('neutral', 'surprise')",neutral,30,0.8823529411764706,K-MIND
+test_115,4,71,"('joy', 'neutral', 'sad', 'surprise')",neutral,57,0.8028169014084507,K-MIND
+test_116,5,84,"('anger', 'fear', 'neutral', 'sad', 'surprise')",neutral,56,0.6666666666666666,K-MIND
+test_117,4,56,"('fear', 'neutral', 'sad', 'surprise')",neutral,43,0.7678571428571429,K-MIND
+test_118,4,96,"('fear', 'neutral', 'sad', 'surprise')",neutral,74,0.7708333333333334,K-MIND
+test_119,3,39,"('neutral', 'sad', 'surprise')",neutral,22,0.5641025641025641,K-MIND
+test_12,5,112,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,75,0.6696428571428571,K-MIND
+test_120,3,41,"('joy', 'neutral', 'surprise')",neutral,30,0.7317073170731707,K-MIND
+test_121,5,45,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,26,0.5777777777777777,K-MIND
+test_122,5,30,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,14,0.4666666666666667,K-MIND
+test_123,4,75,"('anger', 'neutral', 'sad', 'surprise')",neutral,52,0.6933333333333334,K-MIND
+test_124,4,45,"('joy', 'neutral', 'sad', 'surprise')",neutral,33,0.7333333333333333,K-MIND
+test_125,5,92,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.6195652173913043,K-MIND
+test_126,5,68,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,54,0.7941176470588235,K-MIND
+test_127,5,67,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,54,0.8059701492537313,K-MIND
+test_128,4,40,"('fear', 'joy', 'neutral', 'surprise')",neutral,31,0.775,K-MIND
+test_129,4,86,"('joy', 'neutral', 'sad', 'surprise')",neutral,40,0.46511627906976744,K-MIND
+test_13,6,252,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,166,0.6587301587301587,K-MIND
+test_130,5,81,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,50,0.6172839506172839,K-MIND
+test_131,5,22,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,12,0.5454545454545454,K-MIND
+test_132,3,84,"('joy', 'neutral', 'surprise')",neutral,38,0.4523809523809524,K-MIND
+test_133,3,91,"('joy', 'neutral', 'surprise')",neutral,44,0.4835164835164835,K-MIND
+test_134,6,128,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,104,0.8125,K-MIND
+test_135,7,100,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,51,0.51,K-MIND
+test_136,3,54,"('joy', 'neutral', 'surprise')",neutral,43,0.7962962962962963,K-MIND
+test_137,6,65,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,30,0.46153846153846156,K-MIND
+test_138,5,63,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.4444444444444444,K-MIND
+test_139,4,36,"('joy', 'neutral', 'sad', 'surprise')",neutral,20,0.5555555555555556,K-MIND
+test_14,5,96,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,64,0.6666666666666666,K-MIND
+test_140,3,43,"('joy', 'neutral', 'surprise')",neutral,33,0.7674418604651163,K-MIND
+test_141,4,49,"('joy', 'neutral', 'sad', 'surprise')",joy,13,0.2653061224489796,K-MIND
+test_142,3,33,"('neutral', 'sad', 'surprise')",neutral,22,0.6666666666666666,K-MIND
+test_143,6,44,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,22,0.5,K-MIND
+test_144,5,44,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,25,0.5681818181818182,K-MIND
+test_145,6,49,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.5714285714285714,K-MIND
+test_146,5,39,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,17,0.4358974358974359,K-MIND
+test_147,4,52,"('joy', 'neutral', 'sad', 'surprise')",neutral,23,0.4423076923076923,K-MIND
+test_148,4,85,"('joy', 'neutral', 'sad', 'surprise')",neutral,53,0.6235294117647059,K-MIND
+test_149,5,86,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.45348837209302323,K-MIND
+test_15,5,76,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.5789473684210527,K-MIND
+test_150,5,67,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,27,0.40298507462686567,K-MIND
+test_151,4,83,"('disgust', 'joy', 'neutral', 'surprise')",neutral,56,0.6746987951807228,K-MIND
+test_152,4,51,"('disgust', 'joy', 'neutral', 'surprise')",neutral,23,0.45098039215686275,K-MIND
+test_153,4,46,"('fear', 'joy', 'neutral', 'surprise')",neutral,26,0.5652173913043478,K-MIND
+test_154,2,46,"('neutral', 'surprise')",neutral,32,0.6956521739130435,K-MIND
+test_155,2,46,"('neutral', 'surprise')",neutral,33,0.717391304347826,K-MIND
+test_156,2,43,"('neutral', 'surprise')",neutral,29,0.6744186046511628,K-MIND
+test_157,5,59,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,31,0.5254237288135594,K-MIND
+test_158,4,47,"('joy', 'neutral', 'sad', 'surprise')",neutral,24,0.5106382978723404,K-MIND
+test_159,6,91,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,46,0.5054945054945055,K-MIND
+test_16,4,62,"('anger', 'disgust', 'joy', 'neutral')",neutral,37,0.5967741935483871,K-MIND
+test_160,5,65,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,24,0.36923076923076925,K-MIND
+test_161,6,47,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,19,0.40425531914893614,K-MIND
+test_162,5,69,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.6376811594202898,K-MIND
+test_163,5,51,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,33,0.6470588235294118,K-MIND
+test_17,5,162,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,106,0.654320987654321,K-MIND
+test_18,7,117,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,92,0.7863247863247863,K-MIND
+test_19,6,98,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,84,0.8571428571428571,K-MIND
+test_2,6,105,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,67,0.638095238095238,K-MIND
+test_20,5,142,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,92,0.647887323943662,K-MIND
+test_21,5,101,"('anger', 'fear', 'neutral', 'sad', 'surprise')",neutral,90,0.8910891089108911,K-MIND
+test_22,5,111,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,90,0.8108108108108109,K-MIND
+test_23,6,106,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,56,0.5283018867924528,K-MIND
+test_24,7,260,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,144,0.5538461538461539,K-MIND
+test_25,6,42,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,31,0.7380952380952381,K-MIND
+test_26,5,181,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,123,0.6795580110497238,K-MIND
+test_27,4,90,"('fear', 'joy', 'neutral', 'sad')",fear,43,0.4777777777777778,K-MIND
+test_28,5,62,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.7096774193548387,K-MIND
+test_29,4,57,"('fear', 'joy', 'neutral', 'surprise')",neutral,47,0.8245614035087719,K-MIND
+test_3,4,77,"('disgust', 'joy', 'neutral', 'surprise')",neutral,68,0.8831168831168831,K-MIND
+test_30,6,70,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.5571428571428572,K-MIND
+test_31,7,110,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,69,0.6272727272727273,K-MIND
+test_32,7,160,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,134,0.8375,K-MIND
+test_33,7,185,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,128,0.6918918918918919,K-MIND
+test_34,6,120,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,103,0.8583333333333333,K-MIND
+test_35,5,159,"('anger', 'fear', 'joy', 'neutral', 'sad')",neutral,129,0.8113207547169812,K-MIND
+test_36,5,67,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,52,0.7761194029850746,K-MIND
+test_37,4,137,"('joy', 'neutral', 'sad', 'surprise')",neutral,111,0.8102189781021898,K-MIND
+test_38,5,178,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,148,0.8314606741573034,K-MIND
+test_39,3,112,"('neutral', 'sad', 'surprise')",neutral,92,0.8214285714285714,K-MIND
+test_4,5,108,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.6574074074074074,K-MIND
+test_40,3,84,"('fear', 'neutral', 'surprise')",neutral,73,0.8690476190476191,K-MIND
+test_41,7,101,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,31,0.3069306930693069,K-MIND
+test_42,1,83,"('neutral',)",neutral,83,1.0,K-MIND
+test_43,7,200,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,115,0.575,K-MIND
+test_44,5,109,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,68,0.6238532110091743,K-MIND
+test_45,6,150,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,114,0.76,K-MIND
+test_46,4,151,"('anger', 'joy', 'neutral', 'surprise')",neutral,124,0.8211920529801324,K-MIND
+test_47,5,94,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,72,0.7659574468085106,K-MIND
+test_48,7,137,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,91,0.6642335766423357,K-MIND
+test_49,7,228,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,188,0.8245614035087719,K-MIND
+test_5,7,131,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,76,0.5801526717557252,K-MIND
+test_50,6,156,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,101,0.6474358974358975,K-MIND
+test_51,3,113,"('joy', 'neutral', 'surprise')",neutral,83,0.7345132743362832,K-MIND
+test_52,4,94,"('joy', 'neutral', 'sad', 'surprise')",neutral,71,0.7553191489361702,K-MIND
+test_53,4,103,"('joy', 'neutral', 'sad', 'surprise')",neutral,74,0.7184466019417476,K-MIND
+test_54,5,124,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,93,0.75,K-MIND
+test_55,7,110,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,60,0.5454545454545454,K-MIND
+test_56,5,107,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,80,0.7476635514018691,K-MIND
+test_57,5,83,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,55,0.6626506024096386,K-MIND
+test_58,6,152,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,105,0.6907894736842105,K-MIND
+test_59,5,63,"('anger', 'disgust', 'fear', 'joy', 'neutral')",neutral,57,0.9047619047619048,K-MIND
+test_6,6,57,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,23,0.40350877192982454,K-MIND
+test_60,6,140,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,86,0.6142857142857143,K-MIND
+test_61,5,60,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,51,0.85,K-MIND
+test_62,3,139,"('joy', 'neutral', 'surprise')",neutral,53,0.381294964028777,K-MIND
+test_63,5,103,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,60,0.5825242718446602,K-MIND
+test_64,6,129,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,85,0.6589147286821705,K-MIND
+test_65,4,97,"('fear', 'joy', 'neutral', 'surprise')",neutral,78,0.8041237113402062,K-MIND
+test_66,5,243,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,191,0.7860082304526749,K-MIND
+test_67,3,100,"('joy', 'neutral', 'surprise')",neutral,90,0.9,K-MIND
+test_68,5,157,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,105,0.6687898089171974,K-MIND
+test_69,7,231,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,161,0.696969696969697,K-MIND
+test_7,4,42,"('anger', 'joy', 'neutral', 'surprise')",neutral,19,0.4523809523809524,K-MIND
+test_70,7,121,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.5867768595041323,K-MIND
+test_71,4,160,"('joy', 'neutral', 'sad', 'surprise')",neutral,125,0.78125,K-MIND
+test_72,5,121,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,69,0.5702479338842975,K-MIND
+test_73,5,122,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,95,0.7786885245901639,K-MIND
+test_74,7,161,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,131,0.8136645962732919,K-MIND
+test_75,5,119,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,96,0.8067226890756303,K-MIND
+test_76,5,89,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,66,0.7415730337078652,K-MIND
+test_77,5,99,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,59,0.5959595959595959,K-MIND
+test_78,3,115,"('joy', 'neutral', 'surprise')",neutral,85,0.7391304347826086,K-MIND
+test_79,4,88,"('joy', 'neutral', 'sad', 'surprise')",neutral,59,0.6704545454545454,K-MIND
+test_8,4,78,"('fear', 'joy', 'neutral', 'surprise')",neutral,58,0.7435897435897436,K-MIND
+test_80,5,42,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,30,0.7142857142857143,K-MIND
+test_81,4,73,"('disgust', 'joy', 'neutral', 'surprise')",neutral,43,0.589041095890411,K-MIND
+test_82,5,95,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,56,0.5894736842105263,K-MIND
+test_83,4,24,"('joy', 'neutral', 'sad', 'surprise')",neutral,13,0.5416666666666666,K-MIND
+test_84,5,83,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.5060240963855421,K-MIND
+test_85,6,103,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,46,0.44660194174757284,K-MIND
+test_86,4,40,"('disgust', 'neutral', 'sad', 'surprise')",neutral,26,0.65,K-MIND
+test_87,3,36,"('joy', 'neutral', 'surprise')",joy,17,0.4722222222222222,K-MIND
+test_88,6,102,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,51,0.5,K-MIND
+test_89,4,121,"('disgust', 'joy', 'neutral', 'surprise')",neutral,73,0.6033057851239669,K-MIND
+test_9,5,67,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,45,0.6716417910447762,K-MIND
+test_90,5,39,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,30,0.7692307692307693,K-MIND
+test_91,4,51,"('fear', 'joy', 'neutral', 'surprise')",neutral,34,0.6666666666666666,K-MIND
+test_92,3,47,"('joy', 'neutral', 'surprise')",neutral,31,0.6595744680851063,K-MIND
+test_93,4,36,"('joy', 'neutral', 'sad', 'surprise')",neutral,23,0.6388888888888888,K-MIND
+test_94,4,60,"('joy', 'neutral', 'sad', 'surprise')",neutral,33,0.55,K-MIND
+test_95,3,52,"('joy', 'neutral', 'surprise')",neutral,30,0.5769230769230769,K-MIND
+test_96,3,41,"('joy', 'neutral', 'surprise')",neutral,30,0.7317073170731707,K-MIND
+test_97,4,33,"('fear', 'neutral', 'sad', 'surprise')",neutral,16,0.48484848484848486,K-MIND
+test_98,4,59,"('joy', 'neutral', 'sad', 'surprise')",neutral,36,0.6101694915254238,K-MIND
+test_99,3,86,"('joy', 'neutral', 'surprise')",neutral,68,0.7906976744186046,K-MIND
+train_0,6,105,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,48,0.45714285714285713,K-MIND
+train_1,6,89,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,37,0.4157303370786517,K-MIND
+train_10,7,349,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,225,0.6446991404011462,K-MIND
+train_100,7,135,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,92,0.6814814814814815,K-MIND
+train_101,6,91,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,67,0.7362637362637363,K-MIND
+train_102,5,117,"('anger', 'fear', 'joy', 'neutral', 'sad')",neutral,91,0.7777777777777778,K-MIND
+train_103,6,115,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,91,0.7913043478260869,K-MIND
+train_104,6,129,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,99,0.7674418604651163,K-MIND
+train_105,7,67,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,45,0.6716417910447762,K-MIND
+train_106,4,116,"('fear', 'joy', 'neutral', 'surprise')",neutral,90,0.7758620689655172,K-MIND
+train_107,6,81,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,75,0.9259259259259259,K-MIND
+train_108,5,93,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,65,0.6989247311827957,K-MIND
+train_109,4,103,"('anger', 'fear', 'joy', 'neutral')",neutral,84,0.8155339805825242,K-MIND
+train_11,7,322,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,207,0.6428571428571429,K-MIND
+train_110,4,136,"('anger', 'joy', 'neutral', 'surprise')",neutral,116,0.8529411764705882,K-MIND
+train_111,3,123,"('anger', 'neutral', 'surprise')",neutral,115,0.9349593495934959,K-MIND
+train_112,2,120,"('neutral', 'surprise')",neutral,116,0.9666666666666667,K-MIND
+train_113,7,81,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.7037037037037037,K-MIND
+train_114,5,81,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,53,0.654320987654321,K-MIND
+train_115,6,132,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,86,0.6515151515151515,K-MIND
+train_116,3,70,"('disgust', 'joy', 'neutral')",neutral,66,0.9428571428571428,K-MIND
+train_117,6,52,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad')",neutral,36,0.6923076923076923,K-MIND
+train_118,7,154,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,126,0.8181818181818182,K-MIND
+train_119,6,153,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,107,0.6993464052287581,K-MIND
+train_12,6,240,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,171,0.7125,K-MIND
+train_120,4,183,"('fear', 'neutral', 'sad', 'surprise')",neutral,144,0.7868852459016393,K-MIND
+train_121,4,104,"('fear', 'joy', 'neutral', 'surprise')",neutral,72,0.6923076923076923,K-MIND
+train_122,4,107,"('fear', 'neutral', 'sad', 'surprise')",neutral,85,0.794392523364486,K-MIND
+train_123,7,118,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,58,0.4915254237288136,K-MIND
+train_124,7,103,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.5533980582524272,K-MIND
+train_125,5,94,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,46,0.48936170212765956,K-MIND
+train_126,4,95,"('anger', 'neutral', 'sad', 'surprise')",neutral,49,0.5157894736842106,K-MIND
+train_127,4,69,"('anger', 'neutral', 'sad', 'surprise')",neutral,36,0.5217391304347826,K-MIND
+train_128,6,116,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,63,0.5431034482758621,K-MIND
+train_129,6,121,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,48,0.39669421487603307,K-MIND
+train_13,6,142,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",anger,44,0.30985915492957744,K-MIND
+train_130,4,32,"('fear', 'joy', 'neutral', 'sad')",neutral,23,0.71875,K-MIND
+train_131,3,45,"('fear', 'joy', 'neutral')",neutral,39,0.8666666666666667,K-MIND
+train_132,1,95,"('neutral',)",neutral,95,1.0,K-MIND
+train_133,5,93,"('fear', 'joy', 'neutral', 'sad', 'surprise')",sad,40,0.43010752688172044,K-MIND
+train_134,5,144,"('disgust', 'fear', 'neutral', 'sad', 'surprise')",neutral,62,0.4305555555555556,K-MIND
+train_135,5,89,"('fear', 'joy', 'neutral', 'sad', 'surprise')",fear,36,0.4044943820224719,K-MIND
+train_136,6,116,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,51,0.4396551724137931,K-MIND
+train_137,7,154,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,81,0.525974025974026,K-MIND
+train_138,6,93,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.4731182795698925,K-MIND
+train_139,7,218,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,107,0.4908256880733945,K-MIND
+train_14,7,179,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,111,0.6201117318435754,K-MIND
+train_140,7,230,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,126,0.5478260869565217,K-MIND
+train_141,5,199,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,126,0.6331658291457286,K-MIND
+train_142,3,76,"('joy', 'neutral', 'surprise')",neutral,65,0.8552631578947368,K-MIND
+train_143,6,100,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,78,0.78,K-MIND
+train_144,3,133,"('joy', 'neutral', 'surprise')",neutral,99,0.7443609022556391,K-MIND
+train_145,5,136,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,118,0.8676470588235294,K-MIND
+train_146,5,119,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,84,0.7058823529411765,K-MIND
+train_147,4,79,"('joy', 'neutral', 'sad', 'surprise')",neutral,58,0.7341772151898734,K-MIND
+train_148,5,213,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,175,0.8215962441314554,K-MIND
+train_149,5,154,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,122,0.7922077922077922,K-MIND
+train_15,5,119,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,54,0.453781512605042,K-MIND
+train_150,4,94,"('joy', 'neutral', 'sad', 'surprise')",neutral,82,0.8723404255319149,K-MIND
+train_151,4,69,"('anger', 'joy', 'neutral', 'surprise')",neutral,58,0.8405797101449275,K-MIND
+train_152,6,91,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,55,0.6043956043956044,K-MIND
+train_153,5,73,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,47,0.6438356164383562,K-MIND
+train_154,7,124,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,78,0.6290322580645161,K-MIND
+train_155,6,228,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,148,0.6491228070175439,K-MIND
+train_156,4,271,"('joy', 'neutral', 'sad', 'surprise')",neutral,201,0.7416974169741697,K-MIND
+train_157,6,222,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,132,0.5945945945945946,K-MIND
+train_158,6,224,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,156,0.6964285714285714,K-MIND
+train_159,7,147,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,97,0.6598639455782312,K-MIND
+train_16,6,67,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,26,0.3880597014925373,K-MIND
+train_160,7,161,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,132,0.8198757763975155,K-MIND
+train_161,5,87,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,49,0.5632183908045977,K-MIND
+train_162,4,137,"('fear', 'joy', 'neutral', 'surprise')",neutral,110,0.8029197080291971,K-MIND
+train_163,5,131,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,113,0.8625954198473282,K-MIND
+train_164,6,123,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,95,0.7723577235772358,K-MIND
+train_165,4,151,"('joy', 'neutral', 'sad', 'surprise')",neutral,133,0.8807947019867549,K-MIND
+train_166,5,73,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,62,0.8493150684931506,K-MIND
+train_167,4,80,"('joy', 'neutral', 'sad', 'surprise')",neutral,72,0.9,K-MIND
+train_168,5,120,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,94,0.7833333333333333,K-MIND
+train_169,6,94,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,79,0.8404255319148937,K-MIND
+train_17,5,84,"('anger', 'joy', 'neutral', 'sad', 'surprise')",joy,34,0.40476190476190477,K-MIND
+train_170,5,147,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,96,0.6530612244897959,K-MIND
+train_171,4,152,"('joy', 'neutral', 'sad', 'surprise')",neutral,98,0.6447368421052632,K-MIND
+train_172,3,108,"('joy', 'neutral', 'surprise')",neutral,72,0.6666666666666666,K-MIND
+train_173,5,129,"('fear', 'joy', 'neutral', 'sad', 'surprise')",surprise,68,0.5271317829457365,K-MIND
+train_174,7,179,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,104,0.5810055865921788,K-MIND
+train_175,4,105,"('fear', 'joy', 'neutral', 'surprise')",neutral,87,0.8285714285714286,K-MIND
+train_176,4,193,"('anger', 'joy', 'neutral', 'surprise')",neutral,130,0.6735751295336787,K-MIND
+train_177,6,155,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,113,0.7290322580645161,K-MIND
+train_178,6,192,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,97,0.5052083333333334,K-MIND
+train_179,5,137,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,90,0.656934306569343,K-MIND
+train_18,4,64,"('disgust', 'joy', 'neutral', 'sad')",neutral,40,0.625,K-MIND
+train_180,6,87,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,64,0.735632183908046,K-MIND
+train_181,7,114,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,94,0.8245614035087719,K-MIND
+train_182,5,127,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,100,0.7874015748031497,K-MIND
+train_183,5,169,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,96,0.5680473372781065,K-MIND
+train_184,4,171,"('fear', 'joy', 'neutral', 'surprise')",neutral,94,0.5497076023391813,K-MIND
+train_185,5,106,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,85,0.8018867924528302,K-MIND
+train_186,4,107,"('fear', 'neutral', 'sad', 'surprise')",neutral,103,0.9626168224299065,K-MIND
+train_187,4,87,"('joy', 'neutral', 'sad', 'surprise')",neutral,72,0.8275862068965517,K-MIND
+train_188,4,88,"('fear', 'joy', 'neutral', 'surprise')",neutral,74,0.8409090909090909,K-MIND
+train_189,7,133,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,105,0.7894736842105263,K-MIND
+train_19,5,47,"('anger', 'fear', 'joy', 'neutral', 'surprise')",joy,22,0.46808510638297873,K-MIND
+train_190,7,120,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,102,0.85,K-MIND
+train_191,7,115,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,93,0.808695652173913,K-MIND
+train_192,7,110,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,46,0.41818181818181815,K-MIND
+train_193,6,101,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,48,0.4752475247524752,K-MIND
+train_194,5,98,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,58,0.5918367346938775,K-MIND
+train_195,5,102,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.5588235294117647,K-MIND
+train_196,6,101,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,76,0.7524752475247525,K-MIND
+train_197,6,105,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,63,0.6,K-MIND
+train_198,6,120,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,67,0.5583333333333333,K-MIND
+train_199,5,100,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,68,0.68,K-MIND
+train_2,7,112,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.6339285714285714,K-MIND
+train_20,6,41,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,16,0.3902439024390244,K-MIND
+train_200,5,83,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.5301204819277109,K-MIND
+train_201,4,44,"('disgust', 'joy', 'neutral', 'surprise')",neutral,26,0.5909090909090909,K-MIND
+train_202,4,72,"('joy', 'neutral', 'sad', 'surprise')",neutral,38,0.5277777777777778,K-MIND
+train_203,3,64,"('joy', 'neutral', 'surprise')",neutral,47,0.734375,K-MIND
+train_204,5,78,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,59,0.7564102564102564,K-MIND
+train_205,3,143,"('joy', 'neutral', 'surprise')",neutral,121,0.8461538461538461,K-MIND
+train_206,2,49,"('neutral', 'surprise')",neutral,43,0.8775510204081632,K-MIND
+train_207,5,68,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,54,0.7941176470588235,K-MIND
+train_208,3,139,"('fear', 'neutral', 'surprise')",neutral,121,0.8705035971223022,K-MIND
+train_209,4,104,"('fear', 'joy', 'neutral', 'surprise')",neutral,86,0.8269230769230769,K-MIND
+train_21,4,69,"('fear', 'joy', 'neutral', 'surprise')",neutral,47,0.6811594202898551,K-MIND
+train_210,4,161,"('fear', 'joy', 'neutral', 'sad')",neutral,154,0.9565217391304348,K-MIND
+train_211,2,148,"('neutral', 'sad')",neutral,147,0.9932432432432432,K-MIND
+train_212,5,100,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,50,0.5,K-MIND
+train_213,4,87,"('disgust', 'joy', 'neutral', 'surprise')",neutral,58,0.6666666666666666,K-MIND
+train_214,6,106,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,88,0.8301886792452831,K-MIND
+train_215,6,57,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,40,0.7017543859649122,K-MIND
+train_216,6,129,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",joy,56,0.43410852713178294,K-MIND
+train_217,3,101,"('joy', 'neutral', 'surprise')",joy,62,0.6138613861386139,K-MIND
+train_218,5,92,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.6195652173913043,K-MIND
+train_219,6,45,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,31,0.6888888888888889,K-MIND
+train_22,2,64,"('neutral', 'surprise')",neutral,61,0.953125,K-MIND
+train_220,5,183,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,103,0.5628415300546448,K-MIND
+train_221,5,112,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,80,0.7142857142857143,K-MIND
+train_222,5,86,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.8255813953488372,K-MIND
+train_223,4,87,"('fear', 'joy', 'neutral', 'surprise')",neutral,59,0.6781609195402298,K-MIND
+train_224,4,100,"('fear', 'joy', 'neutral', 'surprise')",neutral,83,0.83,K-MIND
+train_225,4,83,"('fear', 'joy', 'neutral', 'surprise')",neutral,70,0.8433734939759037,K-MIND
+train_226,5,284,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,217,0.7640845070422535,K-MIND
+train_227,6,63,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,43,0.6825396825396826,K-MIND
+train_228,4,86,"('joy', 'neutral', 'sad', 'surprise')",neutral,69,0.8023255813953488,K-MIND
+train_229,7,127,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,92,0.7244094488188977,K-MIND
+train_23,4,86,"('fear', 'joy', 'neutral', 'surprise')",neutral,67,0.7790697674418605,K-MIND
+train_230,6,113,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,73,0.6460176991150443,K-MIND
+train_231,5,113,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,79,0.6991150442477876,K-MIND
+train_232,6,72,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.5694444444444444,K-MIND
+train_233,6,55,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,40,0.7272727272727273,K-MIND
+train_234,4,36,"('disgust', 'joy', 'neutral', 'surprise')",neutral,23,0.6388888888888888,K-MIND
+train_235,6,127,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,70,0.5511811023622047,K-MIND
+train_236,5,85,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,54,0.6352941176470588,K-MIND
+train_237,4,107,"('joy', 'neutral', 'sad', 'surprise')",neutral,68,0.6355140186915887,K-MIND
+train_238,4,73,"('joy', 'neutral', 'sad', 'surprise')",neutral,61,0.8356164383561644,K-MIND
+train_239,5,89,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,72,0.8089887640449438,K-MIND
+train_24,6,92,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad')",neutral,63,0.6847826086956522,K-MIND
+train_240,4,82,"('fear', 'joy', 'neutral', 'surprise')",neutral,69,0.8414634146341463,K-MIND
+train_241,6,97,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.5876288659793815,K-MIND
+train_242,4,112,"('joy', 'neutral', 'sad', 'surprise')",neutral,82,0.7321428571428571,K-MIND
+train_243,6,111,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,70,0.6306306306306306,K-MIND
+train_244,5,123,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,71,0.5772357723577236,K-MIND
+train_245,6,150,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,94,0.6266666666666667,K-MIND
+train_246,7,143,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,81,0.5664335664335665,K-MIND
+train_247,7,191,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,120,0.6282722513089005,K-MIND
+train_248,4,129,"('joy', 'neutral', 'sad', 'surprise')",neutral,103,0.7984496124031008,K-MIND
+train_249,5,185,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,149,0.8054054054054054,K-MIND
+train_25,6,80,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad')",neutral,30,0.375,K-MIND
+train_250,6,107,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,89,0.8317757009345794,K-MIND
+train_251,4,37,"('joy', 'neutral', 'sad', 'surprise')",neutral,25,0.6756756756756757,K-MIND
+train_252,5,122,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,93,0.7622950819672131,K-MIND
+train_253,6,157,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,125,0.7961783439490446,K-MIND
+train_254,6,88,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,46,0.5227272727272727,K-MIND
+train_255,4,73,"('joy', 'neutral', 'sad', 'surprise')",neutral,46,0.6301369863013698,K-MIND
+train_256,5,147,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,73,0.4965986394557823,K-MIND
+train_257,5,78,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,43,0.5512820512820513,K-MIND
+train_258,5,127,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,83,0.6535433070866141,K-MIND
+train_259,2,136,"('neutral', 'surprise')",neutral,99,0.7279411764705882,K-MIND
+train_26,6,77,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,41,0.5324675324675324,K-MIND
+train_260,2,104,"('neutral', 'surprise')",neutral,86,0.8269230769230769,K-MIND
+train_261,3,128,"('joy', 'neutral', 'surprise')",neutral,87,0.6796875,K-MIND
+train_262,6,113,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,72,0.6371681415929203,K-MIND
+train_263,7,138,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,106,0.7681159420289855,K-MIND
+train_264,3,89,"('joy', 'neutral', 'surprise')",neutral,60,0.6741573033707865,K-MIND
+train_265,5,152,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,101,0.6644736842105263,K-MIND
+train_266,6,156,"('anger', 'disgust', 'fear', 'neutral', 'sad', 'surprise')",neutral,101,0.6474358974358975,K-MIND
+train_267,3,124,"('joy', 'neutral', 'surprise')",neutral,74,0.5967741935483871,K-MIND
+train_268,4,90,"('fear', 'neutral', 'sad', 'surprise')",neutral,76,0.8444444444444444,K-MIND
+train_269,6,86,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,63,0.7325581395348837,K-MIND
+train_27,6,89,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,34,0.38202247191011235,K-MIND
+train_270,4,90,"('joy', 'neutral', 'sad', 'surprise')",neutral,68,0.7555555555555555,K-MIND
+train_271,3,113,"('neutral', 'sad', 'surprise')",neutral,78,0.6902654867256637,K-MIND
+train_272,5,121,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,60,0.49586776859504134,K-MIND
+train_273,7,165,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,100,0.6060606060606061,K-MIND
+train_274,5,144,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,83,0.5763888888888888,K-MIND
+train_275,5,160,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,127,0.79375,K-MIND
+train_276,6,38,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,20,0.5263157894736842,K-MIND
+train_277,6,40,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,22,0.55,K-MIND
+train_278,5,74,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,52,0.7027027027027027,K-MIND
+train_279,5,100,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,67,0.67,K-MIND
+train_28,7,96,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,33,0.34375,K-MIND
+train_280,4,116,"('joy', 'neutral', 'sad', 'surprise')",neutral,82,0.7068965517241379,K-MIND
+train_281,5,137,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,113,0.8248175182481752,K-MIND
+train_282,5,63,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,45,0.7142857142857143,K-MIND
+train_283,5,32,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,17,0.53125,K-MIND
+train_284,4,72,"('joy', 'neutral', 'sad', 'surprise')",neutral,47,0.6527777777777778,K-MIND
+train_285,3,29,"('joy', 'neutral', 'surprise')",neutral,24,0.8275862068965517,K-MIND
+train_286,5,83,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,59,0.7108433734939759,K-MIND
+train_287,3,40,"('joy', 'neutral', 'surprise')",neutral,31,0.775,K-MIND
+train_288,6,83,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.5301204819277109,K-MIND
+train_289,7,139,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,61,0.43884892086330934,K-MIND
+train_29,7,115,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.3565217391304348,K-MIND
+train_290,5,85,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,41,0.4823529411764706,K-MIND
+train_291,7,67,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,33,0.4925373134328358,K-MIND
+train_292,5,88,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.4431818181818182,K-MIND
+train_293,4,31,"('joy', 'neutral', 'sad', 'surprise')",neutral,16,0.5161290322580645,K-MIND
+train_294,5,35,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,14,0.4,K-MIND
+train_295,4,64,"('joy', 'neutral', 'sad', 'surprise')",neutral,30,0.46875,K-MIND
+train_296,5,42,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,23,0.5476190476190477,K-MIND
+train_297,6,35,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",surprise,13,0.37142857142857144,K-MIND
+train_298,7,162,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,98,0.6049382716049383,K-MIND
+train_299,5,135,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,81,0.6,K-MIND
+train_3,7,104,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,43,0.41346153846153844,K-MIND
+train_30,6,117,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,58,0.49572649572649574,K-MIND
+train_300,3,65,"('joy', 'neutral', 'surprise')",neutral,39,0.6,K-MIND
+train_301,3,58,"('joy', 'neutral', 'surprise')",neutral,42,0.7241379310344828,K-MIND
+train_302,3,111,"('joy', 'neutral', 'surprise')",neutral,72,0.6486486486486487,K-MIND
+train_303,3,71,"('joy', 'neutral', 'surprise')",neutral,46,0.647887323943662,K-MIND
+train_304,4,180,"('disgust', 'joy', 'neutral', 'surprise')",neutral,137,0.7611111111111111,K-MIND
+train_305,4,54,"('fear', 'joy', 'neutral', 'surprise')",neutral,32,0.5925925925925926,K-MIND
+train_306,3,78,"('joy', 'neutral', 'surprise')",neutral,51,0.6538461538461539,K-MIND
+train_307,5,55,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,34,0.6181818181818182,K-MIND
+train_308,3,67,"('joy', 'neutral', 'surprise')",neutral,38,0.5671641791044776,K-MIND
+train_309,3,47,"('joy', 'neutral', 'surprise')",neutral,32,0.6808510638297872,K-MIND
+train_31,5,111,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,73,0.6576576576576577,K-MIND
+train_310,3,37,"('joy', 'neutral', 'surprise')",neutral,23,0.6216216216216216,K-MIND
+train_311,3,35,"('joy', 'neutral', 'surprise')",neutral,27,0.7714285714285715,K-MIND
+train_312,3,85,"('joy', 'neutral', 'surprise')",neutral,58,0.6823529411764706,K-MIND
+train_313,3,42,"('joy', 'neutral', 'surprise')",neutral,28,0.6666666666666666,K-MIND
+train_314,4,25,"('fear', 'joy', 'neutral', 'surprise')",neutral,17,0.68,K-MIND
+train_315,3,62,"('joy', 'neutral', 'surprise')",neutral,46,0.7419354838709677,K-MIND
+train_316,4,54,"('fear', 'joy', 'neutral', 'surprise')",neutral,37,0.6851851851851852,K-MIND
+train_317,3,139,"('joy', 'neutral', 'surprise')",neutral,91,0.6546762589928058,K-MIND
+train_318,3,71,"('joy', 'neutral', 'surprise')",neutral,52,0.7323943661971831,K-MIND
+train_319,3,58,"('joy', 'neutral', 'surprise')",neutral,36,0.6206896551724138,K-MIND
+train_32,5,106,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,66,0.6226415094339622,K-MIND
+train_320,2,48,"('neutral', 'surprise')",neutral,29,0.6041666666666666,K-MIND
+train_321,2,28,"('neutral', 'surprise')",neutral,25,0.8928571428571429,K-MIND
+train_322,4,51,"('fear', 'joy', 'neutral', 'surprise')",neutral,33,0.6470588235294118,K-MIND
+train_323,3,28,"('joy', 'neutral', 'surprise')",neutral,17,0.6071428571428571,K-MIND
+train_324,4,22,"('joy', 'neutral', 'sad', 'surprise')",neutral,14,0.6363636363636364,K-MIND
+train_325,4,35,"('disgust', 'neutral', 'sad', 'surprise')",neutral,26,0.7428571428571429,K-MIND
+train_326,3,40,"('neutral', 'sad', 'surprise')",neutral,33,0.825,K-MIND
+train_327,4,46,"('fear', 'joy', 'neutral', 'surprise')",neutral,33,0.717391304347826,K-MIND
+train_328,3,92,"('joy', 'neutral', 'surprise')",neutral,72,0.782608695652174,K-MIND
+train_329,4,90,"('joy', 'neutral', 'sad', 'surprise')",neutral,61,0.6777777777777778,K-MIND
+train_33,5,95,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,51,0.5368421052631579,K-MIND
+train_330,3,35,"('neutral', 'sad', 'surprise')",neutral,27,0.7714285714285715,K-MIND
+train_331,4,78,"('joy', 'neutral', 'sad', 'surprise')",neutral,51,0.6538461538461539,K-MIND
+train_332,6,145,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,103,0.7103448275862069,K-MIND
+train_333,6,164,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,116,0.7073170731707317,K-MIND
+train_334,4,110,"('anger', 'neutral', 'sad', 'surprise')",neutral,74,0.6727272727272727,K-MIND
+train_335,4,118,"('joy', 'neutral', 'sad', 'surprise')",neutral,88,0.7457627118644068,K-MIND
+train_336,6,75,"('anger', 'disgust', 'fear', 'neutral', 'sad', 'surprise')",neutral,57,0.76,K-MIND
+train_337,4,77,"('joy', 'neutral', 'sad', 'surprise')",neutral,46,0.5974025974025974,K-MIND
+train_338,3,56,"('joy', 'neutral', 'surprise')",neutral,45,0.8035714285714286,K-MIND
+train_339,5,47,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,31,0.6595744680851063,K-MIND
+train_34,5,107,"('fear', 'joy', 'neutral', 'sad', 'surprise')",joy,36,0.3364485981308411,K-MIND
+train_340,3,45,"('joy', 'neutral', 'surprise')",neutral,30,0.6666666666666666,K-MIND
+train_341,3,64,"('joy', 'neutral', 'surprise')",neutral,32,0.5,K-MIND
+train_342,2,42,"('neutral', 'surprise')",neutral,29,0.6904761904761905,K-MIND
+train_343,4,39,"('fear', 'joy', 'neutral', 'surprise')",neutral,25,0.6410256410256411,K-MIND
+train_344,3,33,"('fear', 'neutral', 'surprise')",neutral,24,0.7272727272727273,K-MIND
+train_345,2,54,"('neutral', 'surprise')",neutral,37,0.6851851851851852,K-MIND
+train_346,3,65,"('joy', 'neutral', 'surprise')",neutral,45,0.6923076923076923,K-MIND
+train_347,4,42,"('fear', 'neutral', 'sad', 'surprise')",neutral,23,0.5476190476190477,K-MIND
+train_348,3,34,"('fear', 'neutral', 'surprise')",neutral,27,0.7941176470588235,K-MIND
+train_349,4,15,"('fear', 'joy', 'neutral', 'surprise')",neutral,9,0.6,K-MIND
+train_35,5,112,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,35,0.3125,K-MIND
+train_350,3,19,"('neutral', 'sad', 'surprise')",neutral,14,0.7368421052631579,K-MIND
+train_351,3,46,"('joy', 'neutral', 'surprise')",neutral,29,0.6304347826086957,K-MIND
+train_352,5,55,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,32,0.5818181818181818,K-MIND
+train_353,5,25,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,13,0.52,K-MIND
+train_354,5,28,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,18,0.6428571428571429,K-MIND
+train_355,4,46,"('joy', 'neutral', 'sad', 'surprise')",neutral,28,0.6086956521739131,K-MIND
+train_356,5,62,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",joy,20,0.3225806451612903,K-MIND
+train_357,4,63,"('fear', 'joy', 'neutral', 'surprise')",neutral,47,0.746031746031746,K-MIND
+train_358,6,77,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,47,0.6103896103896104,K-MIND
+train_359,4,54,"('joy', 'neutral', 'sad', 'surprise')",neutral,43,0.7962962962962963,K-MIND
+train_36,5,92,"('fear', 'joy', 'neutral', 'sad', 'surprise')",joy,37,0.40217391304347827,K-MIND
+train_360,4,48,"('joy', 'neutral', 'sad', 'surprise')",neutral,35,0.7291666666666666,K-MIND
+train_361,4,55,"('disgust', 'joy', 'neutral', 'surprise')",neutral,42,0.7636363636363637,K-MIND
+train_362,5,64,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,48,0.75,K-MIND
+train_363,6,63,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,50,0.7936507936507936,K-MIND
+train_364,5,68,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.6029411764705882,K-MIND
+train_365,4,50,"('joy', 'neutral', 'sad', 'surprise')",neutral,35,0.7,K-MIND
+train_366,4,72,"('joy', 'neutral', 'sad', 'surprise')",neutral,44,0.6111111111111112,K-MIND
+train_367,4,99,"('joy', 'neutral', 'sad', 'surprise')",neutral,52,0.5252525252525253,K-MIND
+train_368,4,84,"('joy', 'neutral', 'sad', 'surprise')",neutral,61,0.7261904761904762,K-MIND
+train_369,5,161,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,96,0.5962732919254659,K-MIND
+train_37,7,113,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,77,0.6814159292035398,K-MIND
+train_370,5,57,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,21,0.3684210526315789,K-MIND
+train_371,4,53,"('joy', 'neutral', 'sad', 'surprise')",neutral,25,0.4716981132075472,K-MIND
+train_372,5,88,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,50,0.5681818181818182,K-MIND
+train_373,5,170,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,129,0.7588235294117647,K-MIND
+train_374,7,127,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,80,0.6299212598425197,K-MIND
+train_375,4,63,"('joy', 'neutral', 'sad', 'surprise')",neutral,40,0.6349206349206349,K-MIND
+train_376,4,65,"('joy', 'neutral', 'sad', 'surprise')",neutral,50,0.7692307692307693,K-MIND
+train_377,4,85,"('joy', 'neutral', 'sad', 'surprise')",neutral,52,0.611764705882353,K-MIND
+train_378,4,32,"('joy', 'neutral', 'sad', 'surprise')",neutral,24,0.75,K-MIND
+train_379,5,96,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,66,0.6875,K-MIND
+train_38,5,128,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,98,0.765625,K-MIND
+train_380,6,112,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,73,0.6517857142857143,K-MIND
+train_381,4,68,"('fear', 'joy', 'neutral', 'surprise')",neutral,47,0.6911764705882353,K-MIND
+train_382,4,58,"('joy', 'neutral', 'sad', 'surprise')",neutral,39,0.6724137931034483,K-MIND
+train_383,3,47,"('joy', 'neutral', 'surprise')",neutral,35,0.7446808510638298,K-MIND
+train_384,3,85,"('joy', 'neutral', 'surprise')",neutral,62,0.7294117647058823,K-MIND
+train_385,2,41,"('neutral', 'surprise')",neutral,33,0.8048780487804879,K-MIND
+train_386,2,49,"('neutral', 'surprise')",neutral,36,0.7346938775510204,K-MIND
+train_387,3,65,"('joy', 'neutral', 'surprise')",neutral,48,0.7384615384615385,K-MIND
+train_388,2,89,"('neutral', 'surprise')",neutral,71,0.797752808988764,K-MIND
+train_389,3,58,"('neutral', 'sad', 'surprise')",neutral,47,0.8103448275862069,K-MIND
+train_39,5,98,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,75,0.7653061224489796,K-MIND
+train_390,3,50,"('neutral', 'sad', 'surprise')",neutral,39,0.78,K-MIND
+train_391,3,43,"('joy', 'neutral', 'surprise')",neutral,27,0.627906976744186,K-MIND
+train_392,4,28,"('fear', 'joy', 'neutral', 'surprise')",neutral,16,0.5714285714285714,K-MIND
+train_393,5,78,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,68,0.8717948717948718,K-MIND
+train_394,2,46,"('neutral', 'surprise')",neutral,41,0.8913043478260869,K-MIND
+train_395,5,81,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,67,0.8271604938271605,K-MIND
+train_396,4,75,"('joy', 'neutral', 'sad', 'surprise')",neutral,63,0.84,K-MIND
+train_397,4,56,"('joy', 'neutral', 'sad', 'surprise')",neutral,45,0.8035714285714286,K-MIND
+train_398,2,28,"('neutral', 'surprise')",neutral,25,0.8928571428571429,K-MIND
+train_399,3,37,"('joy', 'neutral', 'surprise')",neutral,26,0.7027027027027027,K-MIND
+train_4,5,84,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,64,0.7619047619047619,K-MIND
+train_40,7,370,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,200,0.5405405405405406,K-MIND
+train_400,4,72,"('fear', 'joy', 'neutral', 'surprise')",neutral,54,0.75,K-MIND
+train_401,4,85,"('disgust', 'joy', 'neutral', 'surprise')",neutral,69,0.8117647058823529,K-MIND
+train_402,4,63,"('fear', 'neutral', 'sad', 'surprise')",neutral,42,0.6666666666666666,K-MIND
+train_403,4,68,"('fear', 'neutral', 'sad', 'surprise')",neutral,34,0.5,K-MIND
+train_404,2,132,"('neutral', 'surprise')",neutral,89,0.6742424242424242,K-MIND
+train_405,2,29,"('neutral', 'surprise')",neutral,19,0.6551724137931034,K-MIND
+train_406,4,97,"('fear', 'joy', 'neutral', 'surprise')",neutral,73,0.7525773195876289,K-MIND
+train_407,2,75,"('neutral', 'surprise')",neutral,60,0.8,K-MIND
+train_408,3,28,"('neutral', 'sad', 'surprise')",neutral,20,0.7142857142857143,K-MIND
+train_409,4,71,"('joy', 'neutral', 'sad', 'surprise')",neutral,40,0.5633802816901409,K-MIND
+train_41,6,97,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.4329896907216495,K-MIND
+train_410,3,26,"('anger', 'neutral', 'surprise')",neutral,14,0.5384615384615384,K-MIND
+train_411,4,90,"('joy', 'neutral', 'sad', 'surprise')",neutral,68,0.7555555555555555,K-MIND
+train_412,5,40,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.7,K-MIND
+train_413,4,46,"('joy', 'neutral', 'sad', 'surprise')",neutral,38,0.8260869565217391,K-MIND
+train_414,5,26,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,16,0.6153846153846154,K-MIND
+train_415,5,72,"('disgust', 'fear', 'neutral', 'sad', 'surprise')",neutral,45,0.625,K-MIND
+train_416,5,87,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,59,0.6781609195402298,K-MIND
+train_417,4,75,"('joy', 'neutral', 'sad', 'surprise')",neutral,61,0.8133333333333334,K-MIND
+train_418,5,74,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,47,0.6351351351351351,K-MIND
+train_419,6,62,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,55,0.8870967741935484,K-MIND
+train_42,6,150,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,79,0.5266666666666666,K-MIND
+train_420,3,72,"('joy', 'neutral', 'surprise')",neutral,53,0.7361111111111112,K-MIND
+train_421,3,102,"('joy', 'neutral', 'surprise')",neutral,71,0.696078431372549,K-MIND
+train_422,3,85,"('joy', 'neutral', 'surprise')",neutral,66,0.7764705882352941,K-MIND
+train_423,4,134,"('joy', 'neutral', 'sad', 'surprise')",neutral,109,0.8134328358208955,K-MIND
+train_424,5,55,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.6545454545454545,K-MIND
+train_425,5,85,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,65,0.7647058823529411,K-MIND
+train_426,2,27,"('neutral', 'surprise')",neutral,18,0.6666666666666666,K-MIND
+train_427,5,58,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,40,0.6896551724137931,K-MIND
+train_428,4,101,"('joy', 'neutral', 'sad', 'surprise')",neutral,92,0.9108910891089109,K-MIND
+train_429,2,62,"('neutral', 'surprise')",neutral,48,0.7741935483870968,K-MIND
+train_43,6,201,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,116,0.5771144278606966,K-MIND
+train_430,5,94,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,60,0.6382978723404256,K-MIND
+train_431,5,64,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,32,0.5,K-MIND
+train_432,3,44,"('joy', 'neutral', 'surprise')",neutral,29,0.6590909090909091,K-MIND
+train_433,6,83,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,50,0.6024096385542169,K-MIND
+train_434,3,68,"('joy', 'neutral', 'surprise')",neutral,53,0.7794117647058824,K-MIND
+train_435,3,67,"('joy', 'neutral', 'surprise')",neutral,58,0.8656716417910447,K-MIND
+train_436,3,57,"('joy', 'neutral', 'surprise')",neutral,48,0.8421052631578947,K-MIND
+train_437,3,51,"('joy', 'neutral', 'surprise')",neutral,41,0.803921568627451,K-MIND
+train_438,3,70,"('joy', 'neutral', 'surprise')",neutral,52,0.7428571428571429,K-MIND
+train_439,3,61,"('joy', 'neutral', 'surprise')",neutral,36,0.5901639344262295,K-MIND
+train_44,6,81,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.345679012345679,K-MIND
+train_440,3,41,"('fear', 'neutral', 'surprise')",neutral,32,0.7804878048780488,K-MIND
+train_441,3,21,"('disgust', 'neutral', 'surprise')",neutral,14,0.6666666666666666,K-MIND
+train_442,4,43,"('joy', 'neutral', 'sad', 'surprise')",neutral,28,0.6511627906976745,K-MIND
+train_443,2,34,"('neutral', 'surprise')",neutral,26,0.7647058823529411,K-MIND
+train_444,5,59,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,37,0.6271186440677966,K-MIND
+train_445,4,51,"('fear', 'joy', 'neutral', 'surprise')",neutral,36,0.7058823529411765,K-MIND
+train_446,2,19,"('neutral', 'surprise')",neutral,14,0.7368421052631579,K-MIND
+train_447,3,42,"('neutral', 'sad', 'surprise')",neutral,30,0.7142857142857143,K-MIND
+train_448,4,78,"('fear', 'joy', 'neutral', 'surprise')",neutral,52,0.6666666666666666,K-MIND
+train_449,5,41,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.6829268292682927,K-MIND
+train_45,6,84,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.6785714285714286,K-MIND
+train_450,4,42,"('fear', 'joy', 'neutral', 'surprise')",neutral,29,0.6904761904761905,K-MIND
+train_451,5,74,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,62,0.8378378378378378,K-MIND
+train_452,3,43,"('joy', 'neutral', 'surprise')",neutral,36,0.8372093023255814,K-MIND
+train_453,4,50,"('joy', 'neutral', 'sad', 'surprise')",neutral,28,0.56,K-MIND
+train_454,3,31,"('joy', 'neutral', 'surprise')",neutral,21,0.6774193548387096,K-MIND
+train_455,4,40,"('joy', 'neutral', 'sad', 'surprise')",neutral,26,0.65,K-MIND
+train_456,6,26,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,15,0.5769230769230769,K-MIND
+train_457,5,46,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",joy,18,0.391304347826087,K-MIND
+train_458,6,39,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,29,0.7435897435897436,K-MIND
+train_459,3,25,"('joy', 'neutral', 'surprise')",neutral,12,0.48,K-MIND
+train_46,7,138,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.3188405797101449,K-MIND
+train_460,5,37,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,21,0.5675675675675675,K-MIND
+train_461,3,71,"('neutral', 'sad', 'surprise')",neutral,51,0.7183098591549296,K-MIND
+train_462,5,78,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.5384615384615384,K-MIND
+train_463,3,43,"('joy', 'neutral', 'surprise')",neutral,28,0.6511627906976745,K-MIND
+train_464,3,44,"('neutral', 'sad', 'surprise')",neutral,30,0.6818181818181818,K-MIND
+train_465,6,106,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,68,0.6415094339622641,K-MIND
+train_466,6,125,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,61,0.488,K-MIND
+train_467,6,85,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,54,0.6352941176470588,K-MIND
+train_468,5,55,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,38,0.6909090909090909,K-MIND
+train_469,5,63,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.6507936507936508,K-MIND
+train_47,5,104,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,64,0.6153846153846154,K-MIND
+train_470,3,55,"('joy', 'neutral', 'surprise')",neutral,37,0.6727272727272727,K-MIND
+train_471,3,35,"('joy', 'neutral', 'surprise')",neutral,29,0.8285714285714286,K-MIND
+train_472,2,34,"('neutral', 'surprise')",neutral,33,0.9705882352941176,K-MIND
+train_473,5,107,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,73,0.6822429906542056,K-MIND
+train_474,5,59,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,46,0.7796610169491526,K-MIND
+train_475,3,43,"('fear', 'neutral', 'surprise')",neutral,40,0.9302325581395349,K-MIND
+train_476,5,75,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,31,0.41333333333333333,K-MIND
+train_477,5,58,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,27,0.46551724137931033,K-MIND
+train_478,6,70,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,30,0.42857142857142855,K-MIND
+train_479,4,52,"('joy', 'neutral', 'sad', 'surprise')",neutral,30,0.5769230769230769,K-MIND
+train_48,5,92,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,66,0.717391304347826,K-MIND
+train_480,5,98,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,55,0.5612244897959183,K-MIND
+train_481,4,95,"('fear', 'joy', 'neutral', 'surprise')",neutral,67,0.7052631578947368,K-MIND
+train_482,5,83,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,32,0.3855421686746988,K-MIND
+train_483,6,92,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.42391304347826086,K-MIND
+train_484,5,78,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,52,0.6666666666666666,K-MIND
+train_485,4,135,"('joy', 'neutral', 'sad', 'surprise')",neutral,86,0.6370370370370371,K-MIND
+train_486,4,76,"('joy', 'neutral', 'sad', 'surprise')",neutral,53,0.6973684210526315,K-MIND
+train_487,4,53,"('fear', 'joy', 'neutral', 'surprise')",neutral,36,0.6792452830188679,K-MIND
+train_488,4,73,"('joy', 'neutral', 'sad', 'surprise')",neutral,48,0.6575342465753424,K-MIND
+train_489,3,77,"('joy', 'neutral', 'surprise')",neutral,59,0.7662337662337663,K-MIND
+train_49,7,163,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,76,0.4662576687116564,K-MIND
+train_490,4,53,"('joy', 'neutral', 'sad', 'surprise')",neutral,32,0.6037735849056604,K-MIND
+train_491,5,62,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.7096774193548387,K-MIND
+train_492,3,67,"('joy', 'neutral', 'surprise')",neutral,56,0.835820895522388,K-MIND
+train_493,3,29,"('joy', 'neutral', 'surprise')",neutral,21,0.7241379310344828,K-MIND
+train_494,3,64,"('joy', 'neutral', 'surprise')",neutral,47,0.734375,K-MIND
+train_495,3,80,"('joy', 'neutral', 'surprise')",neutral,68,0.85,K-MIND
+train_496,5,97,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,52,0.5360824742268041,K-MIND
+train_497,4,62,"('joy', 'neutral', 'sad', 'surprise')",neutral,53,0.8548387096774194,K-MIND
+train_498,5,69,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.5652173913043478,K-MIND
+train_499,6,65,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,34,0.5230769230769231,K-MIND
+train_5,4,65,"('disgust', 'joy', 'neutral', 'surprise')",neutral,43,0.6615384615384615,K-MIND
+train_50,7,140,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,79,0.5642857142857143,K-MIND
+train_500,4,67,"('joy', 'neutral', 'sad', 'surprise')",neutral,44,0.6567164179104478,K-MIND
+train_501,5,58,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.6206896551724138,K-MIND
+train_502,6,53,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.7735849056603774,K-MIND
+train_503,6,76,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,37,0.4868421052631579,K-MIND
+train_504,5,100,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,42,0.42,K-MIND
+train_505,6,74,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,35,0.47297297297297297,K-MIND
+train_506,5,54,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,21,0.3888888888888889,K-MIND
+train_507,4,42,"('fear', 'joy', 'neutral', 'surprise')",neutral,24,0.5714285714285714,K-MIND
+train_508,4,62,"('joy', 'neutral', 'sad', 'surprise')",neutral,38,0.6129032258064516,K-MIND
+train_509,6,48,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,16,0.3333333333333333,K-MIND
+train_51,4,70,"('joy', 'neutral', 'sad', 'surprise')",neutral,49,0.7,K-MIND
+train_510,7,69,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,32,0.463768115942029,K-MIND
+train_511,7,53,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,25,0.4716981132075472,K-MIND
+train_512,7,67,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,30,0.44776119402985076,K-MIND
+train_513,5,65,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,34,0.5230769230769231,K-MIND
+train_514,4,63,"('joy', 'neutral', 'sad', 'surprise')",neutral,36,0.5714285714285714,K-MIND
+train_515,5,59,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.6101694915254238,K-MIND
+train_516,4,63,"('fear', 'joy', 'neutral', 'surprise')",neutral,46,0.7301587301587301,K-MIND
+train_517,5,48,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,25,0.5208333333333334,K-MIND
+train_518,7,58,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.7068965517241379,K-MIND
+train_519,5,49,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,29,0.5918367346938775,K-MIND
+train_52,7,141,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,87,0.6170212765957447,K-MIND
+train_520,3,49,"('joy', 'neutral', 'surprise')",neutral,31,0.6326530612244898,K-MIND
+train_521,3,48,"('joy', 'neutral', 'surprise')",neutral,36,0.75,K-MIND
+train_522,2,39,"('neutral', 'surprise')",neutral,32,0.8205128205128205,K-MIND
+train_523,5,36,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,15,0.4166666666666667,K-MIND
+train_524,6,42,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,13,0.30952380952380953,K-MIND
+train_525,4,24,"('fear', 'joy', 'neutral', 'surprise')",neutral,12,0.5,K-MIND
+train_526,4,47,"('joy', 'neutral', 'sad', 'surprise')",neutral,25,0.5319148936170213,K-MIND
+train_527,5,52,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,24,0.46153846153846156,K-MIND
+train_528,5,64,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.5625,K-MIND
+train_529,5,66,"('anger', 'fear', 'neutral', 'sad', 'surprise')",neutral,34,0.5151515151515151,K-MIND
+train_53,6,79,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad')",neutral,63,0.7974683544303798,K-MIND
+train_530,5,56,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,23,0.4107142857142857,K-MIND
+train_531,6,62,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,32,0.5161290322580645,K-MIND
+train_532,5,50,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,20,0.4,K-MIND
+train_533,5,50,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,31,0.62,K-MIND
+train_534,4,51,"('fear', 'joy', 'neutral', 'surprise')",neutral,33,0.6470588235294118,K-MIND
+train_535,3,48,"('joy', 'neutral', 'surprise')",neutral,27,0.5625,K-MIND
+train_536,5,47,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,25,0.5319148936170213,K-MIND
+train_537,5,52,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,24,0.46153846153846156,K-MIND
+train_538,4,62,"('joy', 'neutral', 'sad', 'surprise')",neutral,28,0.45161290322580644,K-MIND
+train_539,3,53,"('joy', 'neutral', 'surprise')",neutral,40,0.7547169811320755,K-MIND
+train_54,6,101,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,57,0.5643564356435643,K-MIND
+train_540,3,65,"('joy', 'neutral', 'surprise')",neutral,52,0.8,K-MIND
+train_541,3,49,"('fear', 'neutral', 'surprise')",neutral,36,0.7346938775510204,K-MIND
+train_542,3,53,"('fear', 'neutral', 'surprise')",neutral,36,0.6792452830188679,K-MIND
+train_543,5,57,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,38,0.6666666666666666,K-MIND
+train_544,5,65,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,29,0.4461538461538462,K-MIND
+train_545,5,80,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,30,0.375,K-MIND
+train_546,6,69,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.6376811594202898,K-MIND
+train_547,7,84,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,44,0.5238095238095238,K-MIND
+train_548,4,69,"('joy', 'neutral', 'sad', 'surprise')",neutral,38,0.5507246376811594,K-MIND
+train_549,6,77,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,53,0.6883116883116883,K-MIND
+train_55,6,44,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad')",neutral,19,0.4318181818181818,K-MIND
+train_550,7,67,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,40,0.5970149253731343,K-MIND
+train_551,5,46,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,28,0.6086956521739131,K-MIND
+train_552,5,73,"('fear', 'joy', 'neutral', 'sad', 'surprise')",surprise,27,0.3698630136986301,K-MIND
+train_553,4,34,"('fear', 'joy', 'neutral', 'surprise')",neutral,18,0.5294117647058824,K-MIND
+train_554,5,64,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.5625,K-MIND
+train_555,5,46,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,17,0.3695652173913043,K-MIND
+train_556,4,49,"('joy', 'neutral', 'sad', 'surprise')",neutral,27,0.5510204081632653,K-MIND
+train_557,4,59,"('joy', 'neutral', 'sad', 'surprise')",neutral,33,0.559322033898305,K-MIND
+train_558,6,43,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,18,0.4186046511627907,K-MIND
+train_559,5,51,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,43,0.8431372549019608,K-MIND
+train_56,5,65,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,38,0.5846153846153846,K-MIND
+train_560,2,34,"('joy', 'neutral')",neutral,32,0.9411764705882353,K-MIND
+train_561,5,52,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,41,0.7884615384615384,K-MIND
+train_562,5,37,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,26,0.7027027027027027,K-MIND
+train_563,4,51,"('joy', 'neutral', 'sad', 'surprise')",neutral,46,0.9019607843137255,K-MIND
+train_564,5,55,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,29,0.5272727272727272,K-MIND
+train_565,5,49,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,21,0.42857142857142855,K-MIND
+train_566,4,47,"('joy', 'neutral', 'sad', 'surprise')",neutral,21,0.44680851063829785,K-MIND
+train_567,4,53,"('joy', 'neutral', 'sad', 'surprise')",neutral,31,0.5849056603773585,K-MIND
+train_568,4,40,"('joy', 'neutral', 'sad', 'surprise')",neutral,16,0.4,K-MIND
+train_569,4,31,"('anger', 'joy', 'neutral', 'sad')",neutral,22,0.7096774193548387,K-MIND
+train_57,5,53,"('anger', 'fear', 'neutral', 'sad', 'surprise')",neutral,47,0.8867924528301887,K-MIND
+train_570,5,27,"('anger', 'fear', 'joy', 'neutral', 'sad')",neutral,15,0.5555555555555556,K-MIND
+train_571,3,39,"('anger', 'joy', 'neutral')",neutral,33,0.8461538461538461,K-MIND
+train_572,3,32,"('joy', 'neutral', 'sad')",neutral,28,0.875,K-MIND
+train_573,3,30,"('anger', 'neutral', 'sad')",neutral,24,0.8,K-MIND
+train_574,4,50,"('joy', 'neutral', 'sad', 'surprise')",neutral,28,0.56,K-MIND
+train_575,3,41,"('joy', 'neutral', 'surprise')",neutral,26,0.6341463414634146,K-MIND
+train_576,4,57,"('joy', 'neutral', 'sad', 'surprise')",neutral,40,0.7017543859649122,K-MIND
+train_577,3,47,"('joy', 'neutral', 'surprise')",neutral,27,0.574468085106383,K-MIND
+train_578,4,47,"('joy', 'neutral', 'sad', 'surprise')",neutral,28,0.5957446808510638,K-MIND
+train_579,4,45,"('joy', 'neutral', 'sad', 'surprise')",neutral,21,0.4666666666666667,K-MIND
+train_58,5,93,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,56,0.6021505376344086,K-MIND
+train_580,4,41,"('joy', 'neutral', 'sad', 'surprise')",neutral,24,0.5853658536585366,K-MIND
+train_581,4,52,"('joy', 'neutral', 'sad', 'surprise')",surprise,20,0.38461538461538464,K-MIND
+train_582,4,85,"('joy', 'neutral', 'sad', 'surprise')",neutral,40,0.47058823529411764,K-MIND
+train_583,5,68,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,33,0.4852941176470588,K-MIND
+train_584,5,70,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,36,0.5142857142857142,K-MIND
+train_585,3,46,"('joy', 'neutral', 'surprise')",neutral,30,0.6521739130434783,K-MIND
+train_586,5,59,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,27,0.4576271186440678,K-MIND
+train_587,6,37,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,20,0.5405405405405406,K-MIND
+train_59,5,52,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,35,0.6730769230769231,K-MIND
+train_6,5,95,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,53,0.5578947368421052,K-MIND
+train_60,5,70,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,53,0.7571428571428571,K-MIND
+train_61,7,105,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,78,0.7428571428571429,K-MIND
+train_62,7,102,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,69,0.6764705882352942,K-MIND
+train_63,6,151,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,102,0.6754966887417219,K-MIND
+train_64,6,99,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,61,0.6161616161616161,K-MIND
+train_65,5,56,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,34,0.6071428571428571,K-MIND
+train_66,4,51,"('joy', 'neutral', 'sad', 'surprise')",neutral,36,0.7058823529411765,K-MIND
+train_67,5,142,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,110,0.7746478873239436,K-MIND
+train_68,3,49,"('disgust', 'neutral', 'surprise')",neutral,46,0.9387755102040817,K-MIND
+train_69,4,95,"('joy', 'neutral', 'sad', 'surprise')",neutral,65,0.6842105263157895,K-MIND
+train_7,5,70,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,40,0.5714285714285714,K-MIND
+train_70,4,89,"('joy', 'neutral', 'sad', 'surprise')",neutral,71,0.797752808988764,K-MIND
+train_71,4,139,"('joy', 'neutral', 'sad', 'surprise')",neutral,99,0.7122302158273381,K-MIND
+train_72,6,160,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,128,0.8,K-MIND
+train_73,3,69,"('neutral', 'sad', 'surprise')",neutral,61,0.8840579710144928,K-MIND
+train_74,6,108,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,87,0.8055555555555556,K-MIND
+train_75,4,98,"('fear', 'neutral', 'sad', 'surprise')",neutral,84,0.8571428571428571,K-MIND
+train_76,6,99,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,78,0.7878787878787878,K-MIND
+train_77,4,71,"('disgust', 'fear', 'neutral', 'sad')",neutral,60,0.8450704225352113,K-MIND
+train_78,4,93,"('anger', 'joy', 'neutral', 'surprise')",neutral,69,0.7419354838709677,K-MIND
+train_79,6,154,"('anger', 'disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,123,0.7987012987012987,K-MIND
+train_8,5,198,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,113,0.5707070707070707,K-MIND
+train_80,5,104,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,63,0.6057692307692307,K-MIND
+train_81,5,74,"('disgust', 'joy', 'neutral', 'sad', 'surprise')",neutral,61,0.8243243243243243,K-MIND
+train_82,6,97,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,62,0.6391752577319587,K-MIND
+train_83,7,182,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,121,0.6648351648351648,K-MIND
+train_84,5,188,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,115,0.6117021276595744,K-MIND
+train_85,5,116,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,67,0.5775862068965517,K-MIND
+train_86,4,64,"('joy', 'neutral', 'sad', 'surprise')",neutral,47,0.734375,K-MIND
+train_87,4,106,"('disgust', 'joy', 'neutral', 'surprise')",neutral,86,0.8113207547169812,K-MIND
+train_88,5,105,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,77,0.7333333333333333,K-MIND
+train_89,5,187,"('anger', 'joy', 'neutral', 'sad', 'surprise')",neutral,104,0.5561497326203209,K-MIND
+train_9,4,184,"('joy', 'neutral', 'sad', 'surprise')",neutral,146,0.7934782608695652,K-MIND
+train_90,5,79,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,21,0.26582278481012656,K-MIND
+train_91,6,155,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,72,0.4645161290322581,K-MIND
+train_92,7,138,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,59,0.427536231884058,K-MIND
+train_93,6,95,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,37,0.3894736842105263,K-MIND
+train_94,5,55,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,39,0.7090909090909091,K-MIND
+train_95,4,51,"('joy', 'neutral', 'sad', 'surprise')",neutral,37,0.7254901960784313,K-MIND
+train_96,5,56,"('fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,38,0.6785714285714286,K-MIND
+train_97,6,86,"('disgust', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,56,0.6511627906976745,K-MIND
+train_98,6,158,"('anger', 'fear', 'joy', 'neutral', 'sad', 'surprise')",neutral,91,0.5759493670886076,K-MIND
+train_99,5,93,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,71,0.7634408602150538,K-MIND

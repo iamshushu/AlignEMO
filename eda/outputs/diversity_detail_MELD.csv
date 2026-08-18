@@ -1,0 +1,1433 @@
+dialogue_id,n_distinct,n_utterances,emotions,dominant,dominant_count,dom_pct,dataset
+dev_0,2,2,"('sadness', 'surprise')",sadness,1,0.5,MELD
+dev_1,5,16,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.5625,MELD
+dev_10,4,10,"('anger', 'fear', 'joy', 'neutral')",neutral,4,0.4,MELD
+dev_100,1,1,"('neutral',)",neutral,1,1.0,MELD
+dev_101,1,1,"('sadness',)",sadness,1,1.0,MELD
+dev_102,1,2,"('neutral',)",neutral,2,1.0,MELD
+dev_103,3,5,"('joy', 'neutral', 'sadness')",neutral,2,0.4,MELD
+dev_104,6,16,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,5,0.3125,MELD
+dev_105,3,12,"('anger', 'joy', 'neutral')",neutral,5,0.4166666666666667,MELD
+dev_106,2,6,"('joy', 'neutral')",neutral,5,0.8333333333333334,MELD
+dev_107,2,4,"('neutral', 'surprise')",neutral,2,0.5,MELD
+dev_108,6,15,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",anger,4,0.26666666666666666,MELD
+dev_109,5,8,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",neutral,4,0.5,MELD
+dev_11,4,13,"('anger', 'fear', 'neutral', 'surprise')",neutral,6,0.46153846153846156,MELD
+dev_110,2,10,"('joy', 'neutral')",neutral,6,0.6,MELD
+dev_111,2,3,"('anger', 'neutral')",neutral,2,0.6666666666666666,MELD
+dev_112,3,5,"('anger', 'neutral', 'sadness')",sadness,2,0.4,MELD
+dev_113,3,14,"('neutral', 'sadness', 'surprise')",sadness,8,0.5714285714285714,MELD
+dev_12,3,5,"('neutral', 'sadness', 'surprise')",neutral,3,0.6,MELD
+dev_13,4,22,"('anger', 'joy', 'neutral', 'surprise')",surprise,10,0.45454545454545453,MELD
+dev_14,4,9,"('anger', 'joy', 'neutral', 'sadness')",neutral,3,0.3333333333333333,MELD
+dev_15,5,10,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",fear,3,0.3,MELD
+dev_16,6,19,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",anger,7,0.3684210526315789,MELD
+dev_17,1,5,"('anger',)",anger,5,1.0,MELD
+dev_18,4,14,"('anger', 'fear', 'neutral', 'surprise')",neutral,6,0.42857142857142855,MELD
+dev_19,4,23,"('anger', 'joy', 'neutral', 'sadness')",anger,9,0.391304347826087,MELD
+dev_2,3,6,"('joy', 'neutral', 'surprise')",surprise,3,0.5,MELD
+dev_20,4,8,"('disgust', 'joy', 'neutral', 'surprise')",neutral,3,0.375,MELD
+dev_21,2,7,"('neutral', 'surprise')",neutral,6,0.8571428571428571,MELD
+dev_22,3,14,"('anger', 'neutral', 'surprise')",neutral,9,0.6428571428571429,MELD
+dev_23,4,14,"('disgust', 'neutral', 'sadness', 'surprise')",sadness,8,0.5714285714285714,MELD
+dev_24,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.5555555555555556,MELD
+dev_25,3,6,"('anger', 'sadness', 'surprise')",anger,4,0.6666666666666666,MELD
+dev_26,4,17,"('anger', 'neutral', 'sadness', 'surprise')",sadness,5,0.29411764705882354,MELD
+dev_27,4,10,"('anger', 'neutral', 'sadness', 'surprise')",surprise,5,0.5,MELD
+dev_28,4,11,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+dev_29,4,11,"('anger', 'joy', 'neutral', 'sadness')",neutral,5,0.45454545454545453,MELD
+dev_3,3,3,"('joy', 'neutral', 'surprise')",neutral,1,0.3333333333333333,MELD
+dev_30,6,19,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",anger,6,0.3157894736842105,MELD
+dev_31,5,13,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",joy,6,0.46153846153846156,MELD
+dev_32,3,14,"('anger', 'neutral', 'surprise')",neutral,12,0.8571428571428571,MELD
+dev_33,2,2,"('neutral', 'sadness')",sadness,1,0.5,MELD
+dev_34,5,11,"('disgust', 'fear', 'joy', 'neutral', 'sadness')",neutral,7,0.6363636363636364,MELD
+dev_35,1,1,"('neutral',)",neutral,1,1.0,MELD
+dev_36,5,12,"('disgust', 'fear', 'neutral', 'sadness', 'surprise')",neutral,6,0.5,MELD
+dev_37,4,11,"('disgust', 'fear', 'neutral', 'surprise')",fear,4,0.36363636363636365,MELD
+dev_38,1,1,"('anger',)",anger,1,1.0,MELD
+dev_39,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+dev_4,3,15,"('anger', 'neutral', 'surprise')",neutral,9,0.6,MELD
+dev_40,7,11,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",surprise,3,0.2727272727272727,MELD
+dev_41,1,3,"('neutral',)",neutral,3,1.0,MELD
+dev_42,2,5,"('anger', 'neutral')",anger,3,0.6,MELD
+dev_43,1,2,"('neutral',)",neutral,2,1.0,MELD
+dev_44,4,12,"('anger', 'joy', 'neutral', 'sadness')",neutral,7,0.5833333333333334,MELD
+dev_45,3,12,"('fear', 'neutral', 'surprise')",neutral,9,0.75,MELD
+dev_46,3,10,"('fear', 'neutral', 'surprise')",neutral,7,0.7,MELD
+dev_47,3,11,"('joy', 'neutral', 'surprise')",neutral,7,0.6363636363636364,MELD
+dev_48,5,8,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.375,MELD
+dev_49,3,13,"('anger', 'neutral', 'surprise')",anger,9,0.6923076923076923,MELD
+dev_5,2,13,"('anger', 'surprise')",anger,12,0.9230769230769231,MELD
+dev_50,3,4,"('anger', 'neutral', 'surprise')",surprise,2,0.5,MELD
+dev_51,3,7,"('anger', 'joy', 'neutral')",neutral,5,0.7142857142857143,MELD
+dev_52,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+dev_53,2,9,"('joy', 'neutral')",neutral,5,0.5555555555555556,MELD
+dev_54,5,13,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.5384615384615384,MELD
+dev_55,1,1,"('sadness',)",sadness,1,1.0,MELD
+dev_56,3,17,"('anger', 'neutral', 'sadness')",sadness,11,0.6470588235294118,MELD
+dev_57,3,13,"('joy', 'neutral', 'surprise')",neutral,8,0.6153846153846154,MELD
+dev_58,4,12,"('disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.5,MELD
+dev_59,1,5,"('neutral',)",neutral,5,1.0,MELD
+dev_6,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.5,MELD
+dev_60,4,7,"('anger', 'joy', 'neutral', 'surprise')",joy,3,0.42857142857142855,MELD
+dev_61,2,6,"('joy', 'neutral')",joy,3,0.5,MELD
+dev_62,3,6,"('joy', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+dev_63,5,21,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.5238095238095238,MELD
+dev_64,3,5,"('joy', 'neutral', 'surprise')",neutral,3,0.6,MELD
+dev_65,4,11,"('fear', 'joy', 'neutral', 'surprise')",neutral,5,0.45454545454545453,MELD
+dev_66,4,10,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.6,MELD
+dev_67,3,11,"('joy', 'neutral', 'surprise')",neutral,6,0.5454545454545454,MELD
+dev_68,5,12,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.3333333333333333,MELD
+dev_69,4,20,"('joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5,MELD
+dev_7,5,11,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",joy,5,0.45454545454545453,MELD
+dev_70,4,6,"('anger', 'joy', 'neutral', 'surprise')",joy,3,0.5,MELD
+dev_71,3,6,"('joy', 'neutral', 'surprise')",joy,2,0.3333333333333333,MELD
+dev_72,4,19,"('anger', 'neutral', 'sadness', 'surprise')",anger,12,0.631578947368421,MELD
+dev_73,1,3,"('anger',)",anger,3,1.0,MELD
+dev_74,5,20,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.55,MELD
+dev_75,1,1,"('neutral',)",neutral,1,1.0,MELD
+dev_76,5,17,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.35294117647058826,MELD
+dev_77,4,20,"('joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.55,MELD
+dev_78,4,9,"('anger', 'fear', 'joy', 'neutral')",neutral,3,0.3333333333333333,MELD
+dev_79,4,11,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+dev_8,2,15,"('joy', 'neutral')",neutral,13,0.8666666666666667,MELD
+dev_80,3,10,"('joy', 'neutral', 'surprise')",neutral,8,0.8,MELD
+dev_81,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+dev_82,4,19,"('anger', 'joy', 'neutral', 'surprise')",neutral,10,0.5263157894736842,MELD
+dev_83,4,8,"('anger', 'joy', 'neutral', 'surprise')",neutral,3,0.375,MELD
+dev_84,3,8,"('neutral', 'sadness', 'surprise')",surprise,3,0.375,MELD
+dev_85,4,17,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.35294117647058826,MELD
+dev_86,1,4,"('neutral',)",neutral,4,1.0,MELD
+dev_87,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+dev_88,4,6,"('anger', 'neutral', 'sadness', 'surprise')",surprise,2,0.3333333333333333,MELD
+dev_89,5,11,"('anger', 'fear', 'joy', 'neutral', 'sadness')",neutral,4,0.36363636363636365,MELD
+dev_9,3,8,"('joy', 'neutral', 'sadness')",neutral,6,0.75,MELD
+dev_90,5,7,"('anger', 'fear', 'joy', 'neutral', 'sadness')",neutral,3,0.42857142857142855,MELD
+dev_91,4,11,"('anger', 'disgust', 'neutral', 'surprise')",neutral,5,0.45454545454545453,MELD
+dev_92,5,12,"('anger', 'disgust', 'fear', 'joy', 'surprise')",surprise,5,0.4166666666666667,MELD
+dev_93,2,8,"('neutral', 'sadness')",sadness,4,0.5,MELD
+dev_94,5,12,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.5,MELD
+dev_95,3,11,"('anger', 'neutral', 'surprise')",neutral,5,0.45454545454545453,MELD
+dev_96,3,4,"('joy', 'neutral', 'surprise')",neutral,2,0.5,MELD
+dev_97,4,22,"('fear', 'joy', 'neutral', 'surprise')",joy,9,0.4090909090909091,MELD
+dev_98,3,5,"('anger', 'disgust', 'joy')",anger,3,0.6,MELD
+dev_99,3,9,"('joy', 'neutral', 'surprise')",joy,3,0.3333333333333333,MELD
+test_0,3,3,"('anger', 'neutral', 'surprise')",surprise,1,0.3333333333333333,MELD
+test_1,2,8,"('joy', 'neutral')",joy,7,0.875,MELD
+test_10,2,4,"('anger', 'neutral')",neutral,3,0.75,MELD
+test_100,3,20,"('fear', 'neutral', 'sadness')",neutral,13,0.65,MELD
+test_101,3,4,"('joy', 'neutral', 'sadness')",neutral,2,0.5,MELD
+test_102,5,10,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,3,0.3,MELD
+test_103,5,6,"('anger', 'fear', 'joy', 'neutral', 'surprise')",surprise,2,0.3333333333333333,MELD
+test_104,3,3,"('joy', 'neutral', 'surprise')",joy,1,0.3333333333333333,MELD
+test_105,2,3,"('anger', 'fear')",anger,2,0.6666666666666666,MELD
+test_106,4,4,"('anger', 'disgust', 'neutral', 'sadness')",anger,1,0.25,MELD
+test_107,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.5384615384615384,MELD
+test_108,4,8,"('anger', 'disgust', 'joy', 'surprise')",joy,3,0.375,MELD
+test_109,4,8,"('anger', 'joy', 'neutral', 'surprise')",joy,2,0.25,MELD
+test_11,3,5,"('fear', 'neutral', 'sadness')",neutral,3,0.6,MELD
+test_110,5,9,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.3333333333333333,MELD
+test_111,6,15,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.3333333333333333,MELD
+test_112,5,22,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,10,0.45454545454545453,MELD
+test_113,5,17,"('anger', 'fear', 'joy', 'neutral', 'surprise')",anger,7,0.4117647058823529,MELD
+test_114,3,6,"('joy', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+test_115,4,6,"('anger', 'disgust', 'joy', 'neutral')",neutral,3,0.5,MELD
+test_116,3,12,"('anger', 'neutral', 'sadness')",neutral,8,0.6666666666666666,MELD
+test_117,5,9,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,5,0.5555555555555556,MELD
+test_118,5,12,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",sadness,4,0.3333333333333333,MELD
+test_119,4,7,"('fear', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+test_12,4,20,"('anger', 'joy', 'neutral', 'sadness')",neutral,9,0.45,MELD
+test_120,5,19,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,7,0.3684210526315789,MELD
+test_121,2,6,"('joy', 'neutral')",joy,4,0.6666666666666666,MELD
+test_122,3,5,"('joy', 'neutral', 'surprise')",neutral,3,0.6,MELD
+test_123,5,16,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",neutral,8,0.5,MELD
+test_124,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.3333333333333333,MELD
+test_125,5,23,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,12,0.5217391304347826,MELD
+test_126,5,16,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,8,0.5,MELD
+test_127,2,6,"('anger', 'neutral')",neutral,5,0.8333333333333334,MELD
+test_128,5,10,"('anger', 'disgust', 'fear', 'neutral', 'surprise')",neutral,5,0.5,MELD
+test_129,4,8,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.625,MELD
+test_13,3,8,"('anger', 'neutral', 'surprise')",neutral,4,0.5,MELD
+test_130,6,18,"('disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.6111111111111112,MELD
+test_131,2,9,"('joy', 'neutral')",neutral,5,0.5555555555555556,MELD
+test_132,4,20,"('anger', 'joy', 'neutral', 'surprise')",neutral,15,0.75,MELD
+test_133,5,16,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.375,MELD
+test_134,4,4,"('anger', 'joy', 'sadness', 'surprise')",surprise,1,0.25,MELD
+test_135,3,6,"('joy', 'neutral', 'surprise')",joy,3,0.5,MELD
+test_136,1,1,"('joy',)",joy,1,1.0,MELD
+test_137,3,15,"('anger', 'neutral', 'surprise')",neutral,9,0.6,MELD
+test_138,3,4,"('disgust', 'neutral', 'surprise')",surprise,2,0.5,MELD
+test_139,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.5,MELD
+test_14,3,11,"('joy', 'neutral', 'surprise')",joy,6,0.5454545454545454,MELD
+test_140,4,17,"('anger', 'joy', 'neutral', 'sadness')",neutral,9,0.5294117647058824,MELD
+test_141,1,5,"('neutral',)",neutral,5,1.0,MELD
+test_142,1,2,"('neutral',)",neutral,2,1.0,MELD
+test_143,6,9,"('anger', 'disgust', 'fear', 'neutral', 'sadness', 'surprise')",neutral,4,0.4444444444444444,MELD
+test_144,4,15,"('anger', 'joy', 'neutral', 'surprise')",anger,8,0.5333333333333333,MELD
+test_145,2,13,"('neutral', 'surprise')",neutral,10,0.7692307692307693,MELD
+test_146,4,7,"('joy', 'neutral', 'sadness', 'surprise')",joy,3,0.42857142857142855,MELD
+test_147,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,4,0.36363636363636365,MELD
+test_148,1,1,"('sadness',)",sadness,1,1.0,MELD
+test_149,1,3,"('sadness',)",sadness,3,1.0,MELD
+test_15,3,6,"('anger', 'joy', 'neutral')",joy,3,0.5,MELD
+test_150,3,6,"('anger', 'neutral', 'sadness')",sadness,4,0.6666666666666666,MELD
+test_151,2,4,"('disgust', 'neutral')",neutral,3,0.75,MELD
+test_152,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+test_153,3,12,"('fear', 'joy', 'neutral')",neutral,8,0.6666666666666666,MELD
+test_154,4,21,"('anger', 'joy', 'neutral', 'surprise')",joy,11,0.5238095238095238,MELD
+test_155,4,9,"('anger', 'neutral', 'sadness', 'surprise')",neutral,4,0.4444444444444444,MELD
+test_156,4,16,"('anger', 'joy', 'neutral', 'sadness')",neutral,6,0.375,MELD
+test_157,2,8,"('anger', 'neutral')",neutral,7,0.875,MELD
+test_158,4,7,"('anger', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+test_159,1,2,"('anger',)",anger,2,1.0,MELD
+test_16,3,10,"('anger', 'neutral', 'surprise')",neutral,8,0.8,MELD
+test_160,2,14,"('anger', 'sadness')",anger,8,0.5714285714285714,MELD
+test_161,3,12,"('joy', 'neutral', 'surprise')",neutral,7,0.5833333333333334,MELD
+test_162,3,6,"('anger', 'joy', 'neutral')",neutral,4,0.6666666666666666,MELD
+test_163,5,10,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.4,MELD
+test_164,2,9,"('anger', 'neutral')",neutral,8,0.8888888888888888,MELD
+test_165,5,5,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",anger,1,0.2,MELD
+test_166,4,14,"('anger', 'neutral', 'sadness', 'surprise')",neutral,8,0.5714285714285714,MELD
+test_167,4,17,"('anger', 'joy', 'neutral', 'sadness')",neutral,10,0.5882352941176471,MELD
+test_168,4,19,"('anger', 'fear', 'neutral', 'surprise')",neutral,11,0.5789473684210527,MELD
+test_169,5,23,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",surprise,9,0.391304347826087,MELD
+test_17,6,33,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",neutral,12,0.36363636363636365,MELD
+test_170,3,5,"('disgust', 'neutral', 'surprise')",surprise,2,0.4,MELD
+test_171,3,9,"('anger', 'joy', 'neutral')",joy,5,0.5555555555555556,MELD
+test_172,1,3,"('neutral',)",neutral,3,1.0,MELD
+test_173,5,19,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.3684210526315789,MELD
+test_174,5,19,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,12,0.631578947368421,MELD
+test_175,6,23,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",anger,8,0.34782608695652173,MELD
+test_176,1,2,"('neutral',)",neutral,2,1.0,MELD
+test_177,1,3,"('neutral',)",neutral,3,1.0,MELD
+test_178,4,10,"('fear', 'joy', 'neutral', 'surprise')",neutral,7,0.7,MELD
+test_179,3,4,"('anger', 'neutral', 'surprise')",anger,2,0.5,MELD
+test_18,1,3,"('neutral',)",neutral,3,1.0,MELD
+test_180,4,10,"('anger', 'disgust', 'joy', 'neutral')",neutral,5,0.5,MELD
+test_181,3,6,"('joy', 'neutral', 'surprise')",neutral,3,0.5,MELD
+test_182,4,10,"('anger', 'fear', 'joy', 'surprise')",joy,3,0.3,MELD
+test_183,2,9,"('anger', 'neutral')",neutral,8,0.8888888888888888,MELD
+test_184,6,15,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.3333333333333333,MELD
+test_185,3,8,"('joy', 'neutral', 'surprise')",neutral,4,0.5,MELD
+test_186,3,4,"('disgust', 'neutral', 'sadness')",neutral,2,0.5,MELD
+test_187,2,9,"('joy', 'neutral')",neutral,7,0.7777777777777778,MELD
+test_188,2,9,"('joy', 'neutral')",neutral,8,0.8888888888888888,MELD
+test_189,4,10,"('anger', 'joy', 'neutral', 'surprise')",joy,4,0.4,MELD
+test_19,1,1,"('surprise',)",surprise,1,1.0,MELD
+test_190,2,5,"('neutral', 'surprise')",neutral,3,0.6,MELD
+test_191,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.6,MELD
+test_192,4,12,"('anger', 'joy', 'neutral', 'surprise')",neutral,5,0.4166666666666667,MELD
+test_193,2,5,"('joy', 'neutral')",neutral,3,0.6,MELD
+test_194,3,5,"('anger', 'neutral', 'surprise')",neutral,3,0.6,MELD
+test_195,5,12,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.5,MELD
+test_196,4,18,"('anger', 'disgust', 'neutral', 'sadness')",anger,10,0.5555555555555556,MELD
+test_197,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+test_198,4,13,"('anger', 'joy', 'neutral', 'surprise')",neutral,5,0.38461538461538464,MELD
+test_199,3,16,"('joy', 'neutral', 'sadness')",sadness,12,0.75,MELD
+test_2,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.36363636363636365,MELD
+test_20,3,8,"('anger', 'joy', 'neutral')",neutral,6,0.75,MELD
+test_200,2,5,"('anger', 'surprise')",anger,4,0.8,MELD
+test_201,4,12,"('anger', 'joy', 'neutral', 'surprise')",neutral,7,0.5833333333333334,MELD
+test_202,2,8,"('joy', 'neutral')",joy,7,0.875,MELD
+test_203,4,13,"('anger', 'joy', 'neutral', 'surprise')",neutral,5,0.38461538461538464,MELD
+test_204,4,10,"('anger', 'neutral', 'sadness', 'surprise')",anger,7,0.7,MELD
+test_205,5,8,"('anger', 'disgust', 'fear', 'neutral', 'surprise')",surprise,3,0.375,MELD
+test_206,3,5,"('anger', 'joy', 'neutral')",neutral,3,0.6,MELD
+test_207,1,2,"('sadness',)",sadness,2,1.0,MELD
+test_208,3,14,"('neutral', 'sadness', 'surprise')",neutral,7,0.5,MELD
+test_209,2,2,"('joy', 'surprise')",surprise,1,0.5,MELD
+test_21,4,7,"('joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.5714285714285714,MELD
+test_210,5,10,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,4,0.4,MELD
+test_211,3,8,"('anger', 'neutral', 'surprise')",anger,4,0.5,MELD
+test_212,2,7,"('neutral', 'sadness')",neutral,4,0.5714285714285714,MELD
+test_213,4,12,"('anger', 'joy', 'neutral', 'surprise')",neutral,8,0.6666666666666666,MELD
+test_214,3,8,"('joy', 'neutral', 'sadness')",sadness,3,0.375,MELD
+test_215,3,11,"('joy', 'neutral', 'sadness')",neutral,5,0.45454545454545453,MELD
+test_216,2,4,"('joy', 'neutral')",joy,2,0.5,MELD
+test_217,4,12,"('fear', 'joy', 'neutral', 'surprise')",neutral,7,0.5833333333333334,MELD
+test_218,1,3,"('neutral',)",neutral,3,1.0,MELD
+test_219,2,2,"('neutral', 'sadness')",neutral,1,0.5,MELD
+test_22,5,22,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.36363636363636365,MELD
+test_220,2,2,"('anger', 'disgust')",disgust,1,0.5,MELD
+test_221,2,5,"('neutral', 'sadness')",neutral,4,0.8,MELD
+test_222,4,14,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.42857142857142855,MELD
+test_223,4,7,"('fear', 'joy', 'neutral', 'sadness')",neutral,3,0.42857142857142855,MELD
+test_224,1,9,"('neutral',)",neutral,9,1.0,MELD
+test_225,3,6,"('joy', 'neutral', 'sadness')",neutral,4,0.6666666666666666,MELD
+test_226,4,9,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.5555555555555556,MELD
+test_227,3,4,"('fear', 'neutral', 'surprise')",neutral,2,0.5,MELD
+test_228,4,13,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.46153846153846156,MELD
+test_229,3,11,"('joy', 'neutral', 'surprise')",joy,5,0.45454545454545453,MELD
+test_23,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+test_230,3,9,"('anger', 'disgust', 'neutral')",neutral,7,0.7777777777777778,MELD
+test_231,6,14,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,5,0.35714285714285715,MELD
+test_232,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.6,MELD
+test_233,6,14,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",joy,6,0.42857142857142855,MELD
+test_234,4,15,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.4,MELD
+test_235,1,1,"('neutral',)",neutral,1,1.0,MELD
+test_236,1,1,"('joy',)",joy,1,1.0,MELD
+test_237,6,12,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.3333333333333333,MELD
+test_238,2,5,"('neutral', 'sadness')",neutral,4,0.8,MELD
+test_239,3,12,"('anger', 'neutral', 'surprise')",neutral,10,0.8333333333333334,MELD
+test_24,2,4,"('joy', 'neutral')",neutral,2,0.5,MELD
+test_240,5,17,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",surprise,5,0.29411764705882354,MELD
+test_241,3,15,"('joy', 'neutral', 'surprise')",neutral,7,0.4666666666666667,MELD
+test_242,3,8,"('anger', 'joy', 'neutral')",neutral,4,0.5,MELD
+test_243,2,6,"('anger', 'neutral')",neutral,4,0.6666666666666666,MELD
+test_244,6,22,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,15,0.6818181818181818,MELD
+test_245,4,5,"('fear', 'joy', 'neutral', 'surprise')",neutral,2,0.4,MELD
+test_246,3,14,"('anger', 'neutral', 'surprise')",neutral,12,0.8571428571428571,MELD
+test_247,3,5,"('joy', 'neutral', 'surprise')",neutral,3,0.6,MELD
+test_248,1,1,"('neutral',)",neutral,1,1.0,MELD
+test_249,2,8,"('joy', 'neutral')",neutral,5,0.625,MELD
+test_25,5,17,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5882352941176471,MELD
+test_250,4,9,"('fear', 'neutral', 'sadness', 'surprise')",neutral,6,0.6666666666666666,MELD
+test_251,2,5,"('neutral', 'surprise')",neutral,3,0.6,MELD
+test_252,4,19,"('anger', 'neutral', 'sadness', 'surprise')",anger,7,0.3684210526315789,MELD
+test_253,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.5384615384615384,MELD
+test_254,5,18,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,9,0.5,MELD
+test_255,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",joy,3,0.3333333333333333,MELD
+test_256,2,2,"('joy', 'neutral')",joy,1,0.5,MELD
+test_257,3,5,"('joy', 'neutral', 'surprise')",neutral,3,0.6,MELD
+test_258,2,13,"('joy', 'neutral')",neutral,10,0.7692307692307693,MELD
+test_259,5,16,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,6,0.375,MELD
+test_26,1,1,"('joy',)",joy,1,1.0,MELD
+test_260,4,11,"('anger', 'joy', 'neutral', 'surprise')",joy,4,0.36363636363636365,MELD
+test_261,3,9,"('joy', 'neutral', 'surprise')",neutral,5,0.5555555555555556,MELD
+test_262,3,17,"('joy', 'neutral', 'surprise')",neutral,9,0.5294117647058824,MELD
+test_263,4,10,"('fear', 'joy', 'neutral', 'sadness')",neutral,5,0.5,MELD
+test_264,3,4,"('anger', 'neutral', 'surprise')",anger,2,0.5,MELD
+test_265,2,2,"('joy', 'surprise')",surprise,1,0.5,MELD
+test_266,4,17,"('anger', 'joy', 'neutral', 'surprise')",neutral,9,0.5294117647058824,MELD
+test_267,3,11,"('neutral', 'sadness', 'surprise')",neutral,8,0.7272727272727273,MELD
+test_268,3,14,"('anger', 'neutral', 'surprise')",neutral,10,0.7142857142857143,MELD
+test_269,3,5,"('anger', 'joy', 'neutral')",neutral,2,0.4,MELD
+test_27,2,2,"('joy', 'neutral')",joy,1,0.5,MELD
+test_270,3,15,"('joy', 'neutral', 'surprise')",neutral,10,0.6666666666666666,MELD
+test_271,3,6,"('fear', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+test_272,3,6,"('anger', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+test_273,2,4,"('neutral', 'surprise')",neutral,3,0.75,MELD
+test_274,3,5,"('anger', 'joy', 'neutral')",neutral,2,0.4,MELD
+test_275,1,4,"('neutral',)",neutral,4,1.0,MELD
+test_276,1,1,"('neutral',)",neutral,1,1.0,MELD
+test_277,1,1,"('sadness',)",sadness,1,1.0,MELD
+test_278,5,17,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.47058823529411764,MELD
+test_279,3,16,"('anger', 'neutral', 'surprise')",neutral,8,0.5,MELD
+test_28,4,17,"('anger', 'joy', 'neutral', 'sadness')",neutral,11,0.6470588235294118,MELD
+test_29,4,13,"('fear', 'joy', 'neutral', 'surprise')",neutral,4,0.3076923076923077,MELD
+test_3,4,7,"('anger', 'disgust', 'fear', 'neutral')",neutral,4,0.5714285714285714,MELD
+test_30,3,6,"('disgust', 'joy', 'surprise')",joy,3,0.5,MELD
+test_31,1,1,"('neutral',)",neutral,1,1.0,MELD
+test_32,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.38461538461538464,MELD
+test_33,4,11,"('anger', 'neutral', 'sadness', 'surprise')",neutral,4,0.36363636363636365,MELD
+test_34,5,19,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.3157894736842105,MELD
+test_35,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+test_36,2,2,"('anger', 'neutral')",neutral,1,0.5,MELD
+test_37,3,8,"('anger', 'fear', 'neutral')",anger,5,0.625,MELD
+test_38,2,5,"('joy', 'neutral')",joy,4,0.8,MELD
+test_39,3,12,"('joy', 'neutral', 'surprise')",neutral,10,0.8333333333333334,MELD
+test_4,5,9,"('anger', 'disgust', 'fear', 'neutral', 'surprise')",surprise,3,0.3333333333333333,MELD
+test_40,2,2,"('joy', 'neutral')",joy,1,0.5,MELD
+test_41,5,13,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",surprise,4,0.3076923076923077,MELD
+test_42,4,9,"('joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.3333333333333333,MELD
+test_43,1,7,"('neutral',)",neutral,7,1.0,MELD
+test_44,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+test_45,4,9,"('anger', 'joy', 'neutral', 'surprise')",neutral,4,0.4444444444444444,MELD
+test_46,2,9,"('joy', 'neutral')",joy,8,0.8888888888888888,MELD
+test_47,2,14,"('neutral', 'sadness')",neutral,10,0.7142857142857143,MELD
+test_48,2,7,"('joy', 'neutral')",joy,4,0.5714285714285714,MELD
+test_49,3,17,"('joy', 'neutral', 'surprise')",neutral,11,0.6470588235294118,MELD
+test_5,2,9,"('anger', 'neutral')",neutral,8,0.8888888888888888,MELD
+test_50,2,4,"('fear', 'neutral')",neutral,3,0.75,MELD
+test_51,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+test_52,4,12,"('anger', 'disgust', 'neutral', 'surprise')",neutral,6,0.5,MELD
+test_53,4,13,"('joy', 'neutral', 'sadness', 'surprise')",joy,6,0.46153846153846156,MELD
+test_54,4,12,"('anger', 'neutral', 'sadness', 'surprise')",neutral,7,0.5833333333333334,MELD
+test_55,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+test_56,5,12,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",joy,5,0.4166666666666667,MELD
+test_57,3,6,"('disgust', 'joy', 'neutral')",joy,3,0.5,MELD
+test_58,4,17,"('joy', 'neutral', 'sadness', 'surprise')",joy,6,0.35294117647058826,MELD
+test_59,2,3,"('anger', 'neutral')",neutral,2,0.6666666666666666,MELD
+test_6,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+test_60,6,7,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",anger,2,0.2857142857142857,MELD
+test_61,2,3,"('disgust', 'surprise')",surprise,2,0.6666666666666666,MELD
+test_62,2,2,"('anger', 'neutral')",neutral,1,0.5,MELD
+test_63,1,2,"('neutral',)",neutral,2,1.0,MELD
+test_64,4,17,"('anger', 'neutral', 'sadness', 'surprise')",neutral,11,0.6470588235294118,MELD
+test_65,4,11,"('anger', 'disgust', 'neutral', 'surprise')",neutral,6,0.5454545454545454,MELD
+test_66,2,5,"('joy', 'neutral')",joy,3,0.6,MELD
+test_67,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+test_68,4,15,"('anger', 'joy', 'neutral', 'sadness')",neutral,6,0.4,MELD
+test_69,3,6,"('anger', 'joy', 'neutral')",neutral,3,0.5,MELD
+test_7,2,9,"('neutral', 'surprise')",neutral,7,0.7777777777777778,MELD
+test_70,5,23,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",neutral,12,0.5217391304347826,MELD
+test_71,4,14,"('fear', 'joy', 'neutral', 'surprise')",neutral,6,0.42857142857142855,MELD
+test_72,4,17,"('anger', 'joy', 'neutral', 'surprise')",anger,11,0.6470588235294118,MELD
+test_73,4,11,"('anger', 'fear', 'joy', 'neutral')",neutral,6,0.5454545454545454,MELD
+test_74,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+test_75,2,6,"('anger', 'neutral')",neutral,5,0.8333333333333334,MELD
+test_76,3,19,"('joy', 'neutral', 'surprise')",neutral,16,0.8421052631578947,MELD
+test_77,4,5,"('anger', 'neutral', 'sadness', 'surprise')",anger,2,0.4,MELD
+test_78,3,10,"('joy', 'neutral', 'sadness')",neutral,6,0.6,MELD
+test_79,1,2,"('neutral',)",neutral,2,1.0,MELD
+test_8,4,7,"('joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+test_80,3,10,"('anger', 'disgust', 'neutral')",anger,5,0.5,MELD
+test_81,2,2,"('joy', 'neutral')",joy,1,0.5,MELD
+test_82,1,1,"('neutral',)",neutral,1,1.0,MELD
+test_83,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+test_84,2,3,"('anger', 'sadness')",anger,2,0.6666666666666666,MELD
+test_85,4,6,"('anger', 'disgust', 'neutral', 'surprise')",anger,3,0.5,MELD
+test_86,4,8,"('disgust', 'joy', 'neutral', 'surprise')",neutral,5,0.625,MELD
+test_87,1,2,"('neutral',)",neutral,2,1.0,MELD
+test_88,6,14,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.35714285714285715,MELD
+test_89,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+test_9,6,18,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.3888888888888889,MELD
+test_90,4,6,"('anger', 'neutral', 'sadness', 'surprise')",sadness,3,0.5,MELD
+test_91,1,1,"('neutral',)",neutral,1,1.0,MELD
+test_92,3,6,"('disgust', 'joy', 'neutral')",joy,3,0.5,MELD
+test_93,3,13,"('anger', 'neutral', 'sadness')",neutral,10,0.7692307692307693,MELD
+test_94,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+test_95,5,20,"('anger', 'fear', 'joy', 'neutral', 'surprise')",joy,8,0.4,MELD
+test_96,5,21,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,13,0.6190476190476191,MELD
+test_97,3,12,"('fear', 'joy', 'neutral')",neutral,8,0.6666666666666666,MELD
+test_98,3,12,"('anger', 'neutral', 'surprise')",anger,7,0.5833333333333334,MELD
+test_99,2,10,"('fear', 'neutral')",neutral,9,0.9,MELD
+train_0,3,14,"('fear', 'neutral', 'surprise')",neutral,11,0.7857142857142857,MELD
+train_1,4,7,"('fear', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_10,2,6,"('anger', 'neutral')",anger,5,0.8333333333333334,MELD
+train_100,3,8,"('fear', 'neutral', 'surprise')",neutral,6,0.75,MELD
+train_1000,3,4,"('anger', 'disgust', 'neutral')",disgust,2,0.5,MELD
+train_1001,3,12,"('joy', 'neutral', 'sadness')",neutral,6,0.5,MELD
+train_1002,2,6,"('joy', 'neutral')",joy,4,0.6666666666666666,MELD
+train_1003,3,8,"('joy', 'neutral', 'surprise')",neutral,6,0.75,MELD
+train_1004,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_1005,4,22,"('anger', 'disgust', 'joy', 'neutral')",neutral,11,0.5,MELD
+train_1006,3,6,"('joy', 'neutral', 'sadness')",neutral,3,0.5,MELD
+train_1007,4,16,"('anger', 'joy', 'neutral', 'sadness')",sadness,9,0.5625,MELD
+train_1008,3,10,"('joy', 'neutral', 'surprise')",neutral,6,0.6,MELD
+train_1009,4,19,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.3157894736842105,MELD
+train_101,2,2,"('neutral', 'surprise')",neutral,1,0.5,MELD
+train_1010,4,12,"('disgust', 'joy', 'neutral', 'sadness')",neutral,5,0.4166666666666667,MELD
+train_1011,4,13,"('anger', 'joy', 'neutral', 'surprise')",neutral,9,0.6923076923076923,MELD
+train_1012,4,12,"('anger', 'joy', 'neutral', 'surprise')",joy,4,0.3333333333333333,MELD
+train_1013,2,4,"('anger', 'neutral')",neutral,2,0.5,MELD
+train_1014,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_1015,2,10,"('joy', 'neutral')",neutral,8,0.8,MELD
+train_1016,6,22,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",anger,8,0.36363636363636365,MELD
+train_1017,4,14,"('anger', 'joy', 'neutral', 'sadness')",anger,6,0.42857142857142855,MELD
+train_1018,6,17,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",anger,8,0.47058823529411764,MELD
+train_1019,4,17,"('anger', 'neutral', 'sadness', 'surprise')",neutral,13,0.7647058823529411,MELD
+train_102,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_1020,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_1021,3,7,"('disgust', 'neutral', 'sadness')",neutral,4,0.5714285714285714,MELD
+train_1022,4,16,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.375,MELD
+train_1023,5,8,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.375,MELD
+train_1024,3,16,"('joy', 'neutral', 'sadness')",neutral,10,0.625,MELD
+train_1025,7,18,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",anger,8,0.4444444444444444,MELD
+train_1026,5,16,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",joy,6,0.375,MELD
+train_1027,5,7,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",sadness,3,0.42857142857142855,MELD
+train_1028,2,6,"('joy', 'neutral')",neutral,5,0.8333333333333334,MELD
+train_1029,3,15,"('joy', 'neutral', 'surprise')",neutral,7,0.4666666666666667,MELD
+train_103,3,8,"('joy', 'neutral', 'surprise')",joy,4,0.5,MELD
+train_1030,3,6,"('neutral', 'sadness', 'surprise')",sadness,3,0.5,MELD
+train_1031,2,4,"('joy', 'neutral')",neutral,2,0.5,MELD
+train_1032,3,12,"('joy', 'neutral', 'surprise')",neutral,10,0.8333333333333334,MELD
+train_1033,3,4,"('joy', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_1034,3,3,"('joy', 'neutral', 'surprise')",neutral,1,0.3333333333333333,MELD
+train_1035,3,7,"('anger', 'joy', 'neutral')",anger,3,0.42857142857142855,MELD
+train_1036,5,21,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.5238095238095238,MELD
+train_1037,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_1038,4,18,"('disgust', 'joy', 'neutral', 'surprise')",neutral,9,0.5,MELD
+train_104,2,2,"('joy', 'surprise')",surprise,1,0.5,MELD
+train_105,2,2,"('fear', 'surprise')",fear,1,0.5,MELD
+train_106,3,6,"('fear', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_107,2,10,"('joy', 'neutral')",neutral,9,0.9,MELD
+train_108,2,7,"('joy', 'neutral')",neutral,5,0.7142857142857143,MELD
+train_109,7,21,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.2857142857142857,MELD
+train_11,3,10,"('anger', 'joy', 'neutral')",joy,5,0.5,MELD
+train_110,4,6,"('anger', 'joy', 'neutral', 'surprise')",neutral,2,0.3333333333333333,MELD
+train_111,5,18,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,6,0.3333333333333333,MELD
+train_112,3,5,"('anger', 'disgust', 'surprise')",surprise,2,0.4,MELD
+train_113,3,11,"('anger', 'joy', 'neutral')",neutral,9,0.8181818181818182,MELD
+train_114,3,5,"('joy', 'neutral', 'surprise')",neutral,2,0.4,MELD
+train_115,3,8,"('anger', 'neutral', 'surprise')",neutral,5,0.625,MELD
+train_116,3,8,"('neutral', 'sadness', 'surprise')",neutral,5,0.625,MELD
+train_117,2,4,"('joy', 'neutral')",joy,2,0.5,MELD
+train_118,4,6,"('anger', 'joy', 'neutral', 'surprise')",neutral,2,0.3333333333333333,MELD
+train_119,4,13,"('anger', 'neutral', 'sadness', 'surprise')",neutral,9,0.6923076923076923,MELD
+train_12,6,12,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,3,0.25,MELD
+train_120,4,14,"('fear', 'joy', 'neutral', 'surprise')",neutral,10,0.7142857142857143,MELD
+train_121,5,7,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",neutral,2,0.2857142857142857,MELD
+train_122,5,16,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,9,0.5625,MELD
+train_123,3,11,"('anger', 'neutral', 'surprise')",anger,7,0.6363636363636364,MELD
+train_124,5,12,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",joy,4,0.3333333333333333,MELD
+train_125,3,9,"('joy', 'neutral', 'surprise')",neutral,7,0.7777777777777778,MELD
+train_126,4,13,"('anger', 'joy', 'neutral', 'sadness')",neutral,5,0.38461538461538464,MELD
+train_127,3,5,"('disgust', 'fear', 'neutral')",fear,2,0.4,MELD
+train_128,2,10,"('joy', 'neutral')",joy,6,0.6,MELD
+train_129,6,15,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.26666666666666666,MELD
+train_13,3,4,"('joy', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_130,4,18,"('disgust', 'joy', 'neutral', 'surprise')",neutral,12,0.6666666666666666,MELD
+train_131,2,3,"('neutral', 'sadness')",neutral,2,0.6666666666666666,MELD
+train_132,3,11,"('neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_133,1,1,"('fear',)",fear,1,1.0,MELD
+train_134,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_135,1,8,"('neutral',)",neutral,8,1.0,MELD
+train_136,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_137,2,8,"('joy', 'neutral')",neutral,6,0.75,MELD
+train_138,5,17,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,5,0.29411764705882354,MELD
+train_139,4,6,"('anger', 'joy', 'neutral', 'surprise')",neutral,2,0.3333333333333333,MELD
+train_14,2,6,"('neutral', 'surprise')",neutral,5,0.8333333333333334,MELD
+train_140,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+train_141,1,8,"('neutral',)",neutral,8,1.0,MELD
+train_142,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_143,3,5,"('joy', 'neutral', 'sadness')",neutral,3,0.6,MELD
+train_144,3,6,"('joy', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_145,6,19,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",anger,5,0.2631578947368421,MELD
+train_146,3,13,"('anger', 'neutral', 'sadness')",neutral,7,0.5384615384615384,MELD
+train_147,6,12,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,5,0.4166666666666667,MELD
+train_148,6,21,"('anger', 'disgust', 'fear', 'neutral', 'sadness', 'surprise')",neutral,9,0.42857142857142855,MELD
+train_149,3,4,"('joy', 'neutral', 'sadness')",neutral,2,0.5,MELD
+train_15,5,23,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.391304347826087,MELD
+train_150,4,4,"('anger', 'fear', 'neutral', 'sadness')",fear,1,0.25,MELD
+train_151,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.4,MELD
+train_152,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.4,MELD
+train_153,5,13,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_154,4,9,"('anger', 'joy', 'neutral', 'surprise')",anger,4,0.4444444444444444,MELD
+train_155,3,13,"('joy', 'neutral', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_156,6,12,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_157,1,3,"('joy',)",joy,3,1.0,MELD
+train_158,4,7,"('disgust', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_159,3,10,"('joy', 'neutral', 'surprise')",joy,7,0.7,MELD
+train_16,4,6,"('disgust', 'joy', 'neutral', 'surprise')",joy,2,0.3333333333333333,MELD
+train_160,4,18,"('fear', 'joy', 'neutral', 'sadness')",neutral,10,0.5555555555555556,MELD
+train_161,3,6,"('joy', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_162,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_163,3,11,"('anger', 'neutral', 'surprise')",neutral,4,0.36363636363636365,MELD
+train_164,5,10,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.4,MELD
+train_165,4,20,"('fear', 'joy', 'neutral', 'surprise')",neutral,10,0.5,MELD
+train_166,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_167,5,13,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.5384615384615384,MELD
+train_168,3,15,"('anger', 'neutral', 'surprise')",neutral,12,0.8,MELD
+train_169,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+train_17,4,11,"('anger', 'fear', 'joy', 'neutral')",joy,5,0.45454545454545453,MELD
+train_170,4,12,"('disgust', 'neutral', 'sadness', 'surprise')",neutral,5,0.4166666666666667,MELD
+train_171,3,8,"('joy', 'neutral', 'surprise')",neutral,4,0.5,MELD
+train_172,2,9,"('joy', 'neutral')",neutral,6,0.6666666666666666,MELD
+train_173,4,10,"('anger', 'joy', 'neutral', 'surprise')",anger,4,0.4,MELD
+train_174,4,8,"('joy', 'neutral', 'sadness', 'surprise')",joy,4,0.5,MELD
+train_175,5,12,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_176,3,10,"('joy', 'neutral', 'surprise')",surprise,5,0.5,MELD
+train_177,4,11,"('fear', 'joy', 'neutral', 'sadness')",joy,5,0.45454545454545453,MELD
+train_178,3,3,"('joy', 'neutral', 'surprise')",joy,1,0.3333333333333333,MELD
+train_179,3,20,"('anger', 'joy', 'neutral')",neutral,18,0.9,MELD
+train_18,5,11,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_180,5,13,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",surprise,5,0.38461538461538464,MELD
+train_181,3,5,"('anger', 'neutral', 'surprise')",neutral,3,0.6,MELD
+train_182,3,16,"('anger', 'neutral', 'sadness')",neutral,8,0.5,MELD
+train_183,3,20,"('joy', 'neutral', 'surprise')",neutral,14,0.7,MELD
+train_184,5,22,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.36363636363636365,MELD
+train_185,4,14,"('fear', 'neutral', 'sadness', 'surprise')",surprise,9,0.6428571428571429,MELD
+train_186,3,6,"('joy', 'neutral', 'surprise')",joy,4,0.6666666666666666,MELD
+train_187,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.4,MELD
+train_188,2,6,"('anger', 'neutral')",neutral,3,0.5,MELD
+train_189,5,15,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,8,0.5333333333333333,MELD
+train_19,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_190,2,8,"('joy', 'neutral')",neutral,5,0.625,MELD
+train_191,3,7,"('anger', 'joy', 'neutral')",neutral,5,0.7142857142857143,MELD
+train_192,4,8,"('disgust', 'joy', 'neutral', 'sadness')",joy,3,0.375,MELD
+train_193,3,8,"('joy', 'neutral', 'surprise')",neutral,5,0.625,MELD
+train_194,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_195,5,20,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,11,0.55,MELD
+train_196,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+train_197,3,8,"('joy', 'neutral', 'surprise')",joy,3,0.375,MELD
+train_198,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_199,4,12,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.4166666666666667,MELD
+train_2,5,13,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_20,3,17,"('joy', 'neutral', 'surprise')",joy,10,0.5882352941176471,MELD
+train_200,4,10,"('anger', 'joy', 'neutral', 'surprise')",anger,4,0.4,MELD
+train_201,5,10,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,3,0.3,MELD
+train_202,4,15,"('anger', 'joy', 'neutral', 'surprise')",neutral,9,0.6,MELD
+train_203,3,6,"('joy', 'neutral', 'surprise')",joy,4,0.6666666666666666,MELD
+train_204,4,14,"('joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.7142857142857143,MELD
+train_205,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_206,3,19,"('anger', 'neutral', 'surprise')",anger,11,0.5789473684210527,MELD
+train_207,4,20,"('anger', 'joy', 'neutral', 'surprise')",neutral,12,0.6,MELD
+train_208,6,16,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",surprise,5,0.3125,MELD
+train_209,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_21,5,14,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.42857142857142855,MELD
+train_210,4,11,"('anger', 'joy', 'neutral', 'surprise')",anger,5,0.45454545454545453,MELD
+train_211,5,14,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",joy,4,0.2857142857142857,MELD
+train_212,5,10,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,4,0.4,MELD
+train_213,3,5,"('joy', 'neutral', 'sadness')",neutral,3,0.6,MELD
+train_214,4,11,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_215,1,1,"('joy',)",joy,1,1.0,MELD
+train_216,2,3,"('neutral', 'sadness')",neutral,2,0.6666666666666666,MELD
+train_217,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_218,2,12,"('neutral', 'sadness')",neutral,10,0.8333333333333334,MELD
+train_219,4,13,"('anger', 'joy', 'neutral', 'sadness')",neutral,5,0.38461538461538464,MELD
+train_22,3,4,"('disgust', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_220,3,7,"('joy', 'neutral', 'sadness')",neutral,5,0.7142857142857143,MELD
+train_221,3,6,"('fear', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_222,4,19,"('disgust', 'joy', 'neutral', 'sadness')",joy,7,0.3684210526315789,MELD
+train_223,3,15,"('neutral', 'sadness', 'surprise')",neutral,13,0.8666666666666667,MELD
+train_224,2,6,"('joy', 'neutral')",neutral,4,0.6666666666666666,MELD
+train_225,4,12,"('disgust', 'joy', 'neutral', 'sadness')",neutral,7,0.5833333333333334,MELD
+train_226,5,19,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5263157894736842,MELD
+train_227,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_228,5,8,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,2,0.25,MELD
+train_229,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+train_23,4,9,"('anger', 'joy', 'neutral', 'surprise')",neutral,4,0.4444444444444444,MELD
+train_230,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_231,3,15,"('anger', 'neutral', 'sadness')",neutral,12,0.8,MELD
+train_232,3,20,"('anger', 'neutral', 'surprise')",neutral,11,0.55,MELD
+train_233,2,2,"('joy', 'surprise')",joy,1,0.5,MELD
+train_234,4,10,"('anger', 'joy', 'neutral', 'surprise')",neutral,5,0.5,MELD
+train_235,5,10,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",joy,3,0.3,MELD
+train_236,5,15,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,8,0.5333333333333333,MELD
+train_237,4,12,"('anger', 'neutral', 'sadness', 'surprise')",surprise,5,0.4166666666666667,MELD
+train_238,1,7,"('neutral',)",neutral,7,1.0,MELD
+train_239,3,7,"('fear', 'joy', 'neutral')",neutral,3,0.42857142857142855,MELD
+train_24,4,9,"('fear', 'joy', 'neutral', 'surprise')",neutral,5,0.5555555555555556,MELD
+train_240,2,7,"('fear', 'neutral')",neutral,6,0.8571428571428571,MELD
+train_241,5,14,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",anger,4,0.2857142857142857,MELD
+train_242,4,7,"('joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_243,2,2,"('joy', 'surprise')",joy,1,0.5,MELD
+train_244,2,6,"('fear', 'neutral')",neutral,5,0.8333333333333334,MELD
+train_245,5,17,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",joy,7,0.4117647058823529,MELD
+train_246,3,7,"('joy', 'neutral', 'sadness')",neutral,5,0.7142857142857143,MELD
+train_247,3,3,"('joy', 'neutral', 'surprise')",neutral,1,0.3333333333333333,MELD
+train_248,3,7,"('anger', 'joy', 'neutral')",anger,3,0.42857142857142855,MELD
+train_249,3,13,"('joy', 'neutral', 'sadness')",neutral,5,0.38461538461538464,MELD
+train_25,3,14,"('joy', 'neutral', 'surprise')",neutral,9,0.6428571428571429,MELD
+train_250,3,7,"('joy', 'neutral', 'surprise')",surprise,3,0.42857142857142855,MELD
+train_251,3,7,"('anger', 'neutral', 'sadness')",neutral,5,0.7142857142857143,MELD
+train_252,3,18,"('disgust', 'joy', 'neutral')",neutral,15,0.8333333333333334,MELD
+train_253,4,12,"('fear', 'joy', 'neutral', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_254,4,10,"('anger', 'fear', 'joy', 'neutral')",anger,7,0.7,MELD
+train_255,7,16,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",disgust,4,0.25,MELD
+train_256,4,16,"('anger', 'joy', 'neutral', 'sadness')",neutral,7,0.4375,MELD
+train_257,4,7,"('fear', 'joy', 'neutral', 'sadness')",fear,4,0.5714285714285714,MELD
+train_258,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_259,2,4,"('anger', 'fear')",fear,2,0.5,MELD
+train_26,4,14,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.5714285714285714,MELD
+train_260,5,12,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",sadness,5,0.4166666666666667,MELD
+train_261,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",surprise,3,0.3333333333333333,MELD
+train_262,3,5,"('anger', 'neutral', 'sadness')",neutral,3,0.6,MELD
+train_263,4,9,"('disgust', 'joy', 'neutral', 'surprise')",surprise,3,0.3333333333333333,MELD
+train_264,5,19,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,14,0.7368421052631579,MELD
+train_265,3,5,"('anger', 'neutral', 'sadness')",anger,2,0.4,MELD
+train_266,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_267,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_268,2,2,"('neutral', 'surprise')",surprise,1,0.5,MELD
+train_269,2,2,"('neutral', 'surprise')",neutral,1,0.5,MELD
+train_27,2,2,"('joy', 'sadness')",sadness,1,0.5,MELD
+train_270,2,4,"('joy', 'neutral')",neutral,2,0.5,MELD
+train_271,4,11,"('anger', 'joy', 'neutral', 'surprise')",joy,4,0.36363636363636365,MELD
+train_272,5,9,"('anger', 'fear', 'joy', 'neutral', 'surprise')",anger,3,0.3333333333333333,MELD
+train_273,6,19,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.47368421052631576,MELD
+train_274,6,13,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",surprise,4,0.3076923076923077,MELD
+train_275,5,17,"('anger', 'disgust', 'fear', 'neutral', 'surprise')",anger,5,0.29411764705882354,MELD
+train_276,3,3,"('anger', 'joy', 'neutral')",joy,1,0.3333333333333333,MELD
+train_277,2,7,"('anger', 'neutral')",neutral,6,0.8571428571428571,MELD
+train_278,3,9,"('joy', 'neutral', 'sadness')",joy,5,0.5555555555555556,MELD
+train_279,6,16,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.375,MELD
+train_28,4,8,"('anger', 'fear', 'joy', 'sadness')",anger,3,0.375,MELD
+train_280,2,3,"('anger', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_281,4,11,"('disgust', 'joy', 'neutral', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_282,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+train_283,2,7,"('disgust', 'neutral')",neutral,4,0.5714285714285714,MELD
+train_284,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_285,4,16,"('anger', 'joy', 'neutral', 'surprise')",neutral,12,0.75,MELD
+train_286,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_287,4,13,"('anger', 'joy', 'neutral', 'sadness')",neutral,8,0.6153846153846154,MELD
+train_288,4,21,"('anger', 'joy', 'neutral', 'surprise')",neutral,10,0.47619047619047616,MELD
+train_289,3,5,"('fear', 'neutral', 'sadness')",neutral,2,0.4,MELD
+train_29,4,13,"('anger', 'joy', 'neutral', 'surprise')",anger,5,0.38461538461538464,MELD
+train_290,1,1,"('sadness',)",sadness,1,1.0,MELD
+train_291,1,2,"('sadness',)",sadness,2,1.0,MELD
+train_292,2,6,"('neutral', 'sadness')",neutral,4,0.6666666666666666,MELD
+train_293,5,13,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_294,2,2,"('joy', 'neutral')",joy,1,0.5,MELD
+train_295,5,22,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,14,0.6363636363636364,MELD
+train_296,4,21,"('anger', 'joy', 'neutral', 'surprise')",neutral,14,0.6666666666666666,MELD
+train_297,3,10,"('anger', 'joy', 'neutral')",neutral,5,0.5,MELD
+train_298,4,7,"('anger', 'joy', 'neutral', 'sadness')",anger,4,0.5714285714285714,MELD
+train_299,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_3,3,9,"('neutral', 'sadness', 'surprise')",surprise,4,0.4444444444444444,MELD
+train_30,5,16,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,8,0.5,MELD
+train_300,6,15,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,7,0.4666666666666667,MELD
+train_301,7,16,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",fear,5,0.3125,MELD
+train_302,5,11,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_303,2,2,"('anger', 'neutral')",anger,1,0.5,MELD
+train_304,3,11,"('anger', 'neutral', 'surprise')",neutral,7,0.6363636363636364,MELD
+train_305,4,15,"('fear', 'joy', 'neutral', 'surprise')",neutral,8,0.5333333333333333,MELD
+train_306,3,8,"('joy', 'neutral', 'sadness')",joy,5,0.625,MELD
+train_307,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.7692307692307693,MELD
+train_308,2,6,"('joy', 'neutral')",neutral,5,0.8333333333333334,MELD
+train_309,3,5,"('joy', 'neutral', 'surprise')",joy,2,0.4,MELD
+train_31,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_310,4,7,"('joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_311,3,13,"('joy', 'neutral', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_312,4,22,"('anger', 'neutral', 'sadness', 'surprise')",neutral,9,0.4090909090909091,MELD
+train_313,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+train_314,2,12,"('joy', 'neutral')",joy,6,0.5,MELD
+train_315,3,10,"('anger', 'joy', 'neutral')",joy,6,0.6,MELD
+train_316,5,9,"('anger', 'fear', 'joy', 'neutral', 'sadness')",neutral,5,0.5555555555555556,MELD
+train_317,4,16,"('anger', 'joy', 'neutral', 'surprise')",anger,7,0.4375,MELD
+train_318,1,5,"('neutral',)",neutral,5,1.0,MELD
+train_319,6,23,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,12,0.5217391304347826,MELD
+train_32,5,19,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,7,0.3684210526315789,MELD
+train_320,4,18,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.4444444444444444,MELD
+train_321,4,12,"('disgust', 'joy', 'neutral', 'surprise')",joy,4,0.3333333333333333,MELD
+train_322,2,2,"('disgust', 'surprise')",disgust,1,0.5,MELD
+train_323,1,1,"('sadness',)",sadness,1,1.0,MELD
+train_324,2,8,"('neutral', 'surprise')",neutral,7,0.875,MELD
+train_325,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_326,5,9,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",surprise,3,0.3333333333333333,MELD
+train_327,4,8,"('anger', 'joy', 'neutral', 'surprise')",neutral,4,0.5,MELD
+train_328,4,9,"('anger', 'joy', 'neutral', 'sadness')",anger,4,0.4444444444444444,MELD
+train_329,4,11,"('anger', 'joy', 'neutral', 'surprise')",anger,4,0.36363636363636365,MELD
+train_33,4,11,"('fear', 'joy', 'neutral', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_330,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+train_331,4,10,"('anger', 'joy', 'neutral', 'sadness')",neutral,6,0.6,MELD
+train_332,4,16,"('anger', 'joy', 'neutral', 'surprise')",neutral,9,0.5625,MELD
+train_333,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_334,3,13,"('joy', 'neutral', 'sadness')",neutral,11,0.8461538461538461,MELD
+train_335,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+train_336,7,21,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,6,0.2857142857142857,MELD
+train_337,5,20,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.45,MELD
+train_338,3,17,"('joy', 'neutral', 'surprise')",neutral,13,0.7647058823529411,MELD
+train_339,3,4,"('anger', 'joy', 'neutral')",neutral,2,0.5,MELD
+train_34,4,14,"('disgust', 'joy', 'neutral', 'surprise')",neutral,11,0.7857142857142857,MELD
+train_340,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_341,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_342,4,20,"('anger', 'joy', 'neutral', 'surprise')",neutral,12,0.6,MELD
+train_343,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_344,5,15,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",joy,5,0.3333333333333333,MELD
+train_345,2,5,"('joy', 'neutral')",neutral,3,0.6,MELD
+train_346,3,7,"('joy', 'neutral', 'surprise')",surprise,3,0.42857142857142855,MELD
+train_347,3,12,"('neutral', 'sadness', 'surprise')",sadness,5,0.4166666666666667,MELD
+train_348,2,4,"('joy', 'neutral')",joy,3,0.75,MELD
+train_349,4,12,"('joy', 'neutral', 'sadness', 'surprise')",joy,6,0.5,MELD
+train_35,2,6,"('joy', 'surprise')",joy,5,0.8333333333333334,MELD
+train_350,2,8,"('joy', 'neutral')",neutral,5,0.625,MELD
+train_351,4,16,"('anger', 'fear', 'joy', 'surprise')",anger,7,0.4375,MELD
+train_352,4,7,"('anger', 'joy', 'neutral', 'surprise')",neutral,2,0.2857142857142857,MELD
+train_353,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_354,4,18,"('anger', 'joy', 'neutral', 'surprise')",neutral,14,0.7777777777777778,MELD
+train_355,3,5,"('joy', 'neutral', 'sadness')",neutral,3,0.6,MELD
+train_356,6,23,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.4782608695652174,MELD
+train_357,2,3,"('neutral', 'surprise')",surprise,2,0.6666666666666666,MELD
+train_358,6,19,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5263157894736842,MELD
+train_359,4,6,"('joy', 'neutral', 'sadness', 'surprise')",sadness,2,0.3333333333333333,MELD
+train_36,2,6,"('neutral', 'sadness')",neutral,4,0.6666666666666666,MELD
+train_360,2,6,"('neutral', 'sadness')",neutral,4,0.6666666666666666,MELD
+train_361,4,15,"('disgust', 'joy', 'neutral', 'surprise')",neutral,9,0.6,MELD
+train_362,3,10,"('neutral', 'sadness', 'surprise')",neutral,5,0.5,MELD
+train_363,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_364,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_365,4,15,"('anger', 'neutral', 'sadness', 'surprise')",neutral,11,0.7333333333333333,MELD
+train_366,5,19,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",neutral,10,0.5263157894736842,MELD
+train_367,4,16,"('anger', 'joy', 'neutral', 'surprise')",neutral,8,0.5,MELD
+train_368,2,2,"('joy', 'sadness')",sadness,1,0.5,MELD
+train_369,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_37,3,4,"('disgust', 'joy', 'neutral')",joy,2,0.5,MELD
+train_370,3,4,"('joy', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_371,3,12,"('neutral', 'sadness', 'surprise')",neutral,9,0.75,MELD
+train_372,4,13,"('joy', 'neutral', 'sadness', 'surprise')",sadness,5,0.38461538461538464,MELD
+train_373,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_374,4,16,"('anger', 'joy', 'neutral', 'surprise')",anger,6,0.375,MELD
+train_375,3,5,"('fear', 'joy', 'neutral')",joy,3,0.6,MELD
+train_376,2,4,"('fear', 'joy')",joy,3,0.75,MELD
+train_377,3,7,"('anger', 'neutral', 'surprise')",neutral,5,0.7142857142857143,MELD
+train_378,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_379,3,11,"('neutral', 'sadness', 'surprise')",sadness,6,0.5454545454545454,MELD
+train_38,4,12,"('anger', 'joy', 'neutral', 'surprise')",surprise,6,0.5,MELD
+train_380,4,5,"('anger', 'joy', 'neutral', 'sadness')",neutral,2,0.4,MELD
+train_381,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_382,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+train_383,6,12,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,7,0.5833333333333334,MELD
+train_384,3,5,"('joy', 'neutral', 'surprise')",neutral,3,0.6,MELD
+train_385,4,6,"('anger', 'joy', 'neutral', 'sadness')",sadness,2,0.3333333333333333,MELD
+train_386,1,1,"('joy',)",joy,1,1.0,MELD
+train_387,2,5,"('joy', 'sadness')",sadness,3,0.6,MELD
+train_388,6,17,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,5,0.29411764705882354,MELD
+train_389,4,13,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_39,5,19,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,10,0.5263157894736842,MELD
+train_390,2,3,"('joy', 'surprise')",surprise,2,0.6666666666666666,MELD
+train_391,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_392,3,13,"('joy', 'neutral', 'surprise')",joy,9,0.6923076923076923,MELD
+train_393,4,8,"('anger', 'joy', 'neutral', 'surprise')",neutral,3,0.375,MELD
+train_394,2,2,"('anger', 'neutral')",anger,1,0.5,MELD
+train_395,3,9,"('anger', 'joy', 'neutral')",anger,5,0.5555555555555556,MELD
+train_396,1,1,"('disgust',)",disgust,1,1.0,MELD
+train_397,2,3,"('anger', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_398,5,14,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",neutral,4,0.2857142857142857,MELD
+train_399,1,1,"('disgust',)",disgust,1,1.0,MELD
+train_4,4,15,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.5333333333333333,MELD
+train_40,7,15,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.4,MELD
+train_400,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.3333333333333333,MELD
+train_401,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.6153846153846154,MELD
+train_402,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_403,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_404,5,19,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5263157894736842,MELD
+train_405,3,7,"('anger', 'neutral', 'surprise')",anger,4,0.5714285714285714,MELD
+train_406,1,4,"('joy',)",joy,4,1.0,MELD
+train_407,4,11,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_408,1,5,"('neutral',)",neutral,5,1.0,MELD
+train_409,3,11,"('joy', 'neutral', 'surprise')",neutral,7,0.6363636363636364,MELD
+train_41,4,16,"('disgust', 'neutral', 'sadness', 'surprise')",neutral,10,0.625,MELD
+train_410,7,19,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5263157894736842,MELD
+train_411,3,5,"('fear', 'joy', 'neutral')",neutral,3,0.6,MELD
+train_412,6,17,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.5294117647058824,MELD
+train_413,1,5,"('neutral',)",neutral,5,1.0,MELD
+train_414,3,11,"('joy', 'neutral', 'surprise')",neutral,8,0.7272727272727273,MELD
+train_415,3,11,"('disgust', 'neutral', 'surprise')",neutral,8,0.7272727272727273,MELD
+train_416,3,4,"('disgust', 'neutral', 'surprise')",surprise,2,0.5,MELD
+train_417,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_418,4,23,"('anger', 'neutral', 'sadness', 'surprise')",neutral,16,0.6956521739130435,MELD
+train_419,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_42,2,2,"('neutral', 'surprise')",neutral,1,0.5,MELD
+train_420,3,8,"('disgust', 'joy', 'neutral')",neutral,4,0.5,MELD
+train_421,2,9,"('fear', 'neutral')",neutral,5,0.5555555555555556,MELD
+train_422,2,8,"('neutral', 'surprise')",neutral,7,0.875,MELD
+train_423,4,11,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_424,4,16,"('anger', 'joy', 'neutral', 'surprise')",neutral,10,0.625,MELD
+train_425,3,6,"('neutral', 'sadness', 'surprise')",surprise,3,0.5,MELD
+train_426,3,8,"('anger', 'neutral', 'sadness')",neutral,5,0.625,MELD
+train_427,2,2,"('neutral', 'sadness')",sadness,1,0.5,MELD
+train_428,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,3,0.3333333333333333,MELD
+train_429,3,12,"('joy', 'neutral', 'surprise')",neutral,9,0.75,MELD
+train_43,1,7,"('neutral',)",neutral,7,1.0,MELD
+train_430,4,9,"('anger', 'neutral', 'sadness', 'surprise')",anger,3,0.3333333333333333,MELD
+train_431,6,20,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",anger,6,0.3,MELD
+train_432,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_433,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_434,3,15,"('joy', 'neutral', 'sadness')",neutral,9,0.6,MELD
+train_435,3,10,"('joy', 'neutral', 'surprise')",joy,5,0.5,MELD
+train_436,5,6,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",disgust,2,0.3333333333333333,MELD
+train_437,3,3,"('anger', 'neutral', 'surprise')",anger,1,0.3333333333333333,MELD
+train_438,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.6666666666666666,MELD
+train_439,4,7,"('disgust', 'joy', 'neutral', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_44,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+train_440,4,14,"('disgust', 'joy', 'neutral', 'surprise')",neutral,11,0.7857142857142857,MELD
+train_441,3,10,"('joy', 'neutral', 'sadness')",neutral,7,0.7,MELD
+train_442,4,6,"('disgust', 'joy', 'neutral', 'surprise')",neutral,3,0.5,MELD
+train_443,3,8,"('joy', 'neutral', 'surprise')",neutral,6,0.75,MELD
+train_444,2,7,"('neutral', 'surprise')",neutral,6,0.8571428571428571,MELD
+train_445,6,21,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",anger,7,0.3333333333333333,MELD
+train_446,5,20,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5,MELD
+train_447,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_448,3,12,"('anger', 'joy', 'neutral')",anger,9,0.75,MELD
+train_449,4,14,"('joy', 'neutral', 'sadness', 'surprise')",sadness,6,0.42857142857142855,MELD
+train_45,4,5,"('anger', 'disgust', 'neutral', 'sadness')",neutral,2,0.4,MELD
+train_450,4,24,"('joy', 'neutral', 'sadness', 'surprise')",neutral,15,0.625,MELD
+train_451,3,8,"('anger', 'joy', 'neutral')",neutral,4,0.5,MELD
+train_452,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_453,1,2,"('surprise',)",surprise,2,1.0,MELD
+train_454,3,3,"('anger', 'disgust', 'neutral')",neutral,1,0.3333333333333333,MELD
+train_455,7,18,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5555555555555556,MELD
+train_456,5,12,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,5,0.4166666666666667,MELD
+train_457,6,14,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.5,MELD
+train_458,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_459,4,12,"('anger', 'joy', 'neutral', 'surprise')",neutral,7,0.5833333333333334,MELD
+train_46,5,15,"('anger', 'fear', 'joy', 'neutral', 'surprise')",joy,5,0.3333333333333333,MELD
+train_460,3,4,"('fear', 'joy', 'neutral')",fear,2,0.5,MELD
+train_461,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_462,2,9,"('neutral', 'surprise')",neutral,5,0.5555555555555556,MELD
+train_463,5,14,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.42857142857142855,MELD
+train_464,5,21,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.47619047619047616,MELD
+train_465,4,6,"('disgust', 'neutral', 'sadness', 'surprise')",neutral,3,0.5,MELD
+train_466,5,16,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,6,0.375,MELD
+train_467,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_468,4,10,"('anger', 'joy', 'neutral', 'surprise')",joy,5,0.5,MELD
+train_469,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_47,3,17,"('joy', 'neutral', 'surprise')",neutral,12,0.7058823529411765,MELD
+train_470,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_471,3,7,"('disgust', 'joy', 'neutral')",neutral,4,0.5714285714285714,MELD
+train_472,2,2,"('fear', 'neutral')",neutral,1,0.5,MELD
+train_473,3,5,"('anger', 'fear', 'neutral')",neutral,3,0.6,MELD
+train_474,4,19,"('joy', 'neutral', 'sadness', 'surprise')",joy,7,0.3684210526315789,MELD
+train_475,4,17,"('anger', 'joy', 'neutral', 'surprise')",neutral,10,0.5882352941176471,MELD
+train_476,4,12,"('fear', 'neutral', 'sadness', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_477,6,19,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",neutral,11,0.5789473684210527,MELD
+train_478,5,14,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.6428571428571429,MELD
+train_479,5,12,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_48,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_480,4,10,"('anger', 'joy', 'neutral', 'surprise')",neutral,5,0.5,MELD
+train_481,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.4,MELD
+train_482,6,18,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",surprise,6,0.3333333333333333,MELD
+train_483,3,16,"('anger', 'neutral', 'surprise')",neutral,9,0.5625,MELD
+train_484,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_485,1,1,"('joy',)",joy,1,1.0,MELD
+train_486,6,18,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.5,MELD
+train_487,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_488,2,6,"('joy', 'neutral')",neutral,5,0.8333333333333334,MELD
+train_489,2,5,"('joy', 'neutral')",neutral,3,0.6,MELD
+train_49,6,22,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,12,0.5454545454545454,MELD
+train_490,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_491,2,3,"('neutral', 'sadness')",sadness,2,0.6666666666666666,MELD
+train_492,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+train_493,5,13,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.6153846153846154,MELD
+train_494,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_495,2,3,"('anger', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_496,5,15,"('anger', 'fear', 'joy', 'neutral', 'sadness')",neutral,8,0.5333333333333333,MELD
+train_497,3,3,"('anger', 'neutral', 'sadness')",neutral,1,0.3333333333333333,MELD
+train_498,4,9,"('anger', 'joy', 'neutral', 'surprise')",neutral,3,0.3333333333333333,MELD
+train_499,3,20,"('joy', 'neutral', 'surprise')",neutral,11,0.55,MELD
+train_5,2,4,"('neutral', 'surprise')",neutral,3,0.75,MELD
+train_50,6,17,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.29411764705882354,MELD
+train_500,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_501,4,13,"('disgust', 'joy', 'neutral', 'surprise')",neutral,5,0.38461538461538464,MELD
+train_502,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+train_503,4,16,"('anger', 'joy', 'neutral', 'surprise')",joy,7,0.4375,MELD
+train_504,4,14,"('anger', 'joy', 'neutral', 'surprise')",neutral,7,0.5,MELD
+train_505,4,16,"('anger', 'fear', 'neutral', 'surprise')",neutral,11,0.6875,MELD
+train_506,3,12,"('fear', 'neutral', 'sadness')",sadness,10,0.8333333333333334,MELD
+train_507,4,17,"('anger', 'joy', 'neutral', 'surprise')",neutral,10,0.5882352941176471,MELD
+train_508,5,22,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,13,0.5909090909090909,MELD
+train_509,3,17,"('anger', 'neutral', 'surprise')",neutral,11,0.6470588235294118,MELD
+train_51,4,11,"('anger', 'disgust', 'neutral', 'sadness')",anger,7,0.6363636363636364,MELD
+train_510,3,6,"('joy', 'neutral', 'surprise')",neutral,3,0.5,MELD
+train_511,4,7,"('fear', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_512,4,15,"('anger', 'fear', 'joy', 'neutral')",neutral,5,0.3333333333333333,MELD
+train_513,2,5,"('anger', 'neutral')",neutral,3,0.6,MELD
+train_514,3,8,"('joy', 'neutral', 'surprise')",neutral,6,0.75,MELD
+train_515,3,7,"('disgust', 'neutral', 'surprise')",neutral,5,0.7142857142857143,MELD
+train_516,4,6,"('anger', 'joy', 'sadness', 'surprise')",joy,3,0.5,MELD
+train_517,4,7,"('anger', 'joy', 'neutral', 'sadness')",joy,4,0.5714285714285714,MELD
+train_518,3,9,"('anger', 'joy', 'neutral')",neutral,5,0.5555555555555556,MELD
+train_519,4,5,"('anger', 'joy', 'neutral', 'surprise')",neutral,2,0.4,MELD
+train_52,2,12,"('joy', 'neutral')",neutral,11,0.9166666666666666,MELD
+train_520,2,7,"('neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_521,3,7,"('anger', 'neutral', 'sadness')",neutral,3,0.42857142857142855,MELD
+train_522,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_523,5,24,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.375,MELD
+train_524,5,17,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",neutral,10,0.5882352941176471,MELD
+train_525,4,9,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.6666666666666666,MELD
+train_526,5,21,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,13,0.6190476190476191,MELD
+train_527,5,8,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",joy,2,0.25,MELD
+train_528,3,6,"('anger', 'neutral', 'surprise')",neutral,3,0.5,MELD
+train_529,3,10,"('anger', 'neutral', 'surprise')",neutral,7,0.7,MELD
+train_53,2,9,"('joy', 'neutral')",neutral,5,0.5555555555555556,MELD
+train_530,4,24,"('anger', 'neutral', 'sadness', 'surprise')",neutral,8,0.3333333333333333,MELD
+train_531,5,16,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",neutral,6,0.375,MELD
+train_532,5,16,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.5,MELD
+train_533,3,10,"('joy', 'neutral', 'sadness')",neutral,7,0.7,MELD
+train_534,3,4,"('joy', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_535,3,4,"('anger', 'joy', 'neutral')",neutral,2,0.5,MELD
+train_536,4,16,"('joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.5625,MELD
+train_537,3,5,"('anger', 'joy', 'neutral')",neutral,3,0.6,MELD
+train_538,5,10,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",joy,5,0.5,MELD
+train_539,4,7,"('joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_54,6,24,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",joy,7,0.2916666666666667,MELD
+train_540,3,5,"('disgust', 'sadness', 'surprise')",sadness,2,0.4,MELD
+train_541,5,20,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",joy,9,0.45,MELD
+train_542,4,9,"('anger', 'joy', 'neutral', 'surprise')",surprise,5,0.5555555555555556,MELD
+train_543,3,3,"('anger', 'neutral', 'surprise')",anger,1,0.3333333333333333,MELD
+train_544,4,9,"('fear', 'joy', 'neutral', 'surprise')",neutral,6,0.6666666666666666,MELD
+train_545,5,14,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.42857142857142855,MELD
+train_546,6,19,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,12,0.631578947368421,MELD
+train_547,3,3,"('joy', 'neutral', 'surprise')",surprise,1,0.3333333333333333,MELD
+train_548,3,9,"('anger', 'joy', 'neutral')",joy,4,0.4444444444444444,MELD
+train_549,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.5,MELD
+train_55,3,17,"('joy', 'neutral', 'surprise')",joy,11,0.6470588235294118,MELD
+train_550,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_551,2,10,"('joy', 'neutral')",neutral,7,0.7,MELD
+train_552,2,5,"('disgust', 'neutral')",neutral,4,0.8,MELD
+train_553,5,21,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,13,0.6190476190476191,MELD
+train_554,5,13,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_555,3,5,"('anger', 'joy', 'sadness')",anger,3,0.6,MELD
+train_556,4,7,"('anger', 'neutral', 'sadness', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_557,4,8,"('anger', 'fear', 'joy', 'neutral')",neutral,4,0.5,MELD
+train_558,6,8,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,2,0.25,MELD
+train_559,2,8,"('neutral', 'surprise')",neutral,6,0.75,MELD
+train_56,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_560,1,8,"('joy',)",joy,8,1.0,MELD
+train_561,5,19,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,8,0.42105263157894735,MELD
+train_562,2,12,"('joy', 'neutral')",joy,6,0.5,MELD
+train_563,3,9,"('joy', 'neutral', 'surprise')",neutral,5,0.5555555555555556,MELD
+train_564,5,11,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.36363636363636365,MELD
+train_565,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+train_566,2,2,"('joy', 'surprise')",surprise,1,0.5,MELD
+train_567,1,1,"('sadness',)",sadness,1,1.0,MELD
+train_568,5,12,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_569,3,4,"('fear', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_57,2,3,"('fear', 'neutral')",fear,2,0.6666666666666666,MELD
+train_570,3,4,"('anger', 'joy', 'neutral')",neutral,2,0.5,MELD
+train_571,6,16,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,9,0.5625,MELD
+train_572,6,19,"('anger', 'disgust', 'fear', 'neutral', 'sadness', 'surprise')",anger,7,0.3684210526315789,MELD
+train_573,3,11,"('anger', 'joy', 'neutral')",joy,6,0.5454545454545454,MELD
+train_574,6,20,"('disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",surprise,8,0.4,MELD
+train_575,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_576,5,11,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,7,0.6363636363636364,MELD
+train_577,2,8,"('joy', 'neutral')",neutral,6,0.75,MELD
+train_578,3,10,"('joy', 'neutral', 'surprise')",surprise,6,0.6,MELD
+train_579,2,2,"('joy', 'surprise')",surprise,1,0.5,MELD
+train_58,3,10,"('anger', 'neutral', 'surprise')",neutral,7,0.7,MELD
+train_580,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_581,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_582,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_583,4,10,"('anger', 'fear', 'neutral', 'surprise')",neutral,5,0.5,MELD
+train_584,4,10,"('fear', 'joy', 'neutral', 'surprise')",neutral,4,0.4,MELD
+train_585,4,13,"('joy', 'neutral', 'sadness', 'surprise')",sadness,8,0.6153846153846154,MELD
+train_586,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_587,2,6,"('joy', 'surprise')",surprise,3,0.5,MELD
+train_588,3,7,"('anger', 'neutral', 'sadness')",neutral,4,0.5714285714285714,MELD
+train_589,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.2727272727272727,MELD
+train_59,2,10,"('joy', 'neutral')",joy,8,0.8,MELD
+train_590,6,18,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.3888888888888889,MELD
+train_591,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_592,4,14,"('anger', 'disgust', 'neutral', 'surprise')",neutral,7,0.5,MELD
+train_593,6,11,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",sadness,5,0.45454545454545453,MELD
+train_594,3,11,"('joy', 'neutral', 'sadness')",sadness,7,0.6363636363636364,MELD
+train_595,4,7,"('anger', 'fear', 'neutral', 'sadness')",anger,4,0.5714285714285714,MELD
+train_596,4,22,"('anger', 'fear', 'neutral', 'sadness')",neutral,11,0.5,MELD
+train_597,3,12,"('joy', 'neutral', 'surprise')",neutral,6,0.5,MELD
+train_598,3,5,"('anger', 'joy', 'neutral')",joy,2,0.4,MELD
+train_599,4,18,"('anger', 'joy', 'neutral', 'surprise')",neutral,8,0.4444444444444444,MELD
+train_6,5,22,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,8,0.36363636363636365,MELD
+train_600,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_601,3,6,"('joy', 'neutral', 'surprise')",joy,4,0.6666666666666666,MELD
+train_602,3,6,"('joy', 'neutral', 'surprise')",joy,4,0.6666666666666666,MELD
+train_603,3,14,"('joy', 'neutral', 'surprise')",neutral,8,0.5714285714285714,MELD
+train_604,4,14,"('fear', 'joy', 'neutral', 'surprise')",neutral,8,0.5714285714285714,MELD
+train_605,5,9,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,4,0.4444444444444444,MELD
+train_606,3,12,"('joy', 'neutral', 'surprise')",neutral,6,0.5,MELD
+train_607,5,16,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,7,0.4375,MELD
+train_608,4,10,"('fear', 'joy', 'neutral', 'surprise')",neutral,6,0.6,MELD
+train_609,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_61,3,9,"('joy', 'neutral', 'sadness')",joy,4,0.4444444444444444,MELD
+train_610,3,8,"('joy', 'neutral', 'surprise')",joy,5,0.625,MELD
+train_611,3,15,"('joy', 'neutral', 'surprise')",neutral,13,0.8666666666666667,MELD
+train_612,5,10,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,5,0.5,MELD
+train_613,3,11,"('anger', 'neutral', 'surprise')",neutral,8,0.7272727272727273,MELD
+train_614,4,21,"('disgust', 'joy', 'neutral', 'sadness')",joy,10,0.47619047619047616,MELD
+train_615,5,23,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,11,0.4782608695652174,MELD
+train_616,2,5,"('neutral', 'sadness')",neutral,3,0.6,MELD
+train_617,3,11,"('anger', 'disgust', 'neutral')",neutral,8,0.7272727272727273,MELD
+train_618,1,2,"('joy',)",joy,2,1.0,MELD
+train_619,3,9,"('disgust', 'neutral', 'sadness')",neutral,7,0.7777777777777778,MELD
+train_62,3,11,"('joy', 'neutral', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_620,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_621,3,8,"('anger', 'neutral', 'surprise')",neutral,5,0.625,MELD
+train_622,4,15,"('joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.7333333333333333,MELD
+train_623,6,19,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",joy,10,0.5263157894736842,MELD
+train_624,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_625,3,20,"('anger', 'joy', 'neutral')",neutral,17,0.85,MELD
+train_626,4,14,"('anger', 'joy', 'neutral', 'surprise')",neutral,9,0.6428571428571429,MELD
+train_627,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_628,4,14,"('disgust', 'joy', 'neutral', 'surprise')",neutral,8,0.5714285714285714,MELD
+train_629,3,18,"('joy', 'neutral', 'surprise')",neutral,10,0.5555555555555556,MELD
+train_63,5,8,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",joy,3,0.375,MELD
+train_630,4,15,"('disgust', 'joy', 'neutral', 'surprise')",neutral,8,0.5333333333333333,MELD
+train_631,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_632,6,18,"('anger', 'disgust', 'fear', 'neutral', 'sadness', 'surprise')",neutral,5,0.2777777777777778,MELD
+train_633,5,10,"('anger', 'fear', 'joy', 'neutral', 'surprise')",joy,4,0.4,MELD
+train_634,3,9,"('anger', 'neutral', 'sadness')",anger,4,0.4444444444444444,MELD
+train_635,2,10,"('neutral', 'surprise')",neutral,7,0.7,MELD
+train_636,2,7,"('joy', 'neutral')",neutral,4,0.5714285714285714,MELD
+train_637,4,12,"('anger', 'disgust', 'joy', 'neutral')",anger,5,0.4166666666666667,MELD
+train_638,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.6153846153846154,MELD
+train_639,3,11,"('joy', 'neutral', 'surprise')",neutral,8,0.7272727272727273,MELD
+train_64,3,13,"('anger', 'joy', 'neutral')",neutral,7,0.5384615384615384,MELD
+train_640,3,17,"('joy', 'neutral', 'surprise')",neutral,9,0.5294117647058824,MELD
+train_641,2,2,"('fear', 'neutral')",neutral,1,0.5,MELD
+train_642,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_643,3,7,"('disgust', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_644,4,11,"('anger', 'joy', 'neutral', 'surprise')",neutral,4,0.36363636363636365,MELD
+train_645,5,17,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.6470588235294118,MELD
+train_646,4,22,"('anger', 'joy', 'neutral', 'surprise')",neutral,11,0.5,MELD
+train_647,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_648,3,7,"('anger', 'neutral', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_649,4,24,"('anger', 'joy', 'neutral', 'surprise')",neutral,14,0.5833333333333334,MELD
+train_65,3,4,"('joy', 'neutral', 'surprise')",joy,2,0.5,MELD
+train_650,4,9,"('anger', 'disgust', 'joy', 'neutral')",neutral,5,0.5555555555555556,MELD
+train_651,3,13,"('anger', 'neutral', 'surprise')",neutral,8,0.6153846153846154,MELD
+train_652,6,16,"('disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,6,0.375,MELD
+train_653,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+train_654,6,9,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",neutral,3,0.3333333333333333,MELD
+train_655,4,16,"('joy', 'neutral', 'sadness', 'surprise')",joy,7,0.4375,MELD
+train_656,1,1,"('joy',)",joy,1,1.0,MELD
+train_657,5,20,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.55,MELD
+train_658,6,21,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,12,0.5714285714285714,MELD
+train_659,3,20,"('joy', 'neutral', 'sadness')",neutral,16,0.8,MELD
+train_66,4,12,"('joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.5833333333333334,MELD
+train_660,5,16,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.5,MELD
+train_661,4,10,"('anger', 'neutral', 'sadness', 'surprise')",neutral,5,0.5,MELD
+train_662,2,7,"('neutral', 'sadness')",neutral,6,0.8571428571428571,MELD
+train_663,2,10,"('joy', 'neutral')",neutral,7,0.7,MELD
+train_664,3,9,"('anger', 'neutral', 'sadness')",neutral,5,0.5555555555555556,MELD
+train_665,5,19,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,13,0.6842105263157895,MELD
+train_666,6,17,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,9,0.5294117647058824,MELD
+train_667,3,10,"('joy', 'neutral', 'sadness')",joy,4,0.4,MELD
+train_668,2,2,"('joy', 'neutral')",joy,1,0.5,MELD
+train_669,3,5,"('joy', 'neutral', 'surprise')",neutral,2,0.4,MELD
+train_67,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.4,MELD
+train_670,4,16,"('anger', 'joy', 'neutral', 'sadness')",joy,6,0.375,MELD
+train_671,4,18,"('anger', 'joy', 'neutral', 'surprise')",neutral,12,0.6666666666666666,MELD
+train_672,6,16,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.3125,MELD
+train_673,3,21,"('fear', 'neutral', 'surprise')",neutral,17,0.8095238095238095,MELD
+train_674,2,9,"('neutral', 'surprise')",neutral,8,0.8888888888888888,MELD
+train_675,2,6,"('joy', 'neutral')",neutral,5,0.8333333333333334,MELD
+train_676,5,15,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",sadness,6,0.4,MELD
+train_677,3,4,"('joy', 'neutral', 'surprise')",neutral,2,0.5,MELD
+train_678,3,19,"('joy', 'neutral', 'surprise')",neutral,13,0.6842105263157895,MELD
+train_679,5,17,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,5,0.29411764705882354,MELD
+train_68,4,4,"('anger', 'joy', 'neutral', 'surprise')",anger,1,0.25,MELD
+train_680,4,15,"('joy', 'neutral', 'sadness', 'surprise')",joy,5,0.3333333333333333,MELD
+train_681,3,6,"('disgust', 'neutral', 'sadness')",neutral,3,0.5,MELD
+train_682,3,15,"('joy', 'neutral', 'sadness')",neutral,11,0.7333333333333333,MELD
+train_683,1,1,"('joy',)",joy,1,1.0,MELD
+train_684,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_685,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_686,6,12,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.4166666666666667,MELD
+train_687,2,8,"('neutral', 'surprise')",neutral,4,0.5,MELD
+train_688,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_689,3,15,"('joy', 'neutral', 'surprise')",neutral,9,0.6,MELD
+train_69,5,7,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_690,3,10,"('joy', 'neutral', 'surprise')",surprise,6,0.6,MELD
+train_691,1,1,"('joy',)",joy,1,1.0,MELD
+train_692,2,2,"('neutral', 'sadness')",sadness,1,0.5,MELD
+train_693,2,6,"('anger', 'neutral')",anger,4,0.6666666666666666,MELD
+train_694,3,4,"('joy', 'neutral', 'sadness')",neutral,2,0.5,MELD
+train_695,4,7,"('anger', 'disgust', 'fear', 'joy')",joy,3,0.42857142857142855,MELD
+train_696,3,8,"('anger', 'neutral', 'surprise')",anger,4,0.5,MELD
+train_697,3,8,"('joy', 'neutral', 'surprise')",surprise,4,0.5,MELD
+train_698,5,8,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",anger,2,0.25,MELD
+train_699,4,15,"('anger', 'disgust', 'neutral', 'surprise')",anger,6,0.4,MELD
+train_7,2,2,"('anger', 'neutral')",neutral,1,0.5,MELD
+train_70,3,9,"('anger', 'joy', 'neutral')",neutral,5,0.5555555555555556,MELD
+train_700,3,13,"('anger', 'neutral', 'sadness')",neutral,6,0.46153846153846156,MELD
+train_701,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_702,3,3,"('joy', 'neutral', 'sadness')",joy,1,0.3333333333333333,MELD
+train_703,2,7,"('neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_704,2,5,"('anger', 'neutral')",anger,4,0.8,MELD
+train_705,2,9,"('joy', 'neutral')",joy,5,0.5555555555555556,MELD
+train_706,3,11,"('joy', 'neutral', 'surprise')",joy,6,0.5454545454545454,MELD
+train_707,4,16,"('anger', 'joy', 'neutral', 'surprise')",neutral,8,0.5,MELD
+train_708,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_709,1,2,"('joy',)",joy,2,1.0,MELD
+train_71,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_710,1,1,"('joy',)",joy,1,1.0,MELD
+train_711,1,1,"('joy',)",joy,1,1.0,MELD
+train_712,5,12,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",joy,6,0.5,MELD
+train_713,3,3,"('joy', 'neutral', 'surprise')",neutral,1,0.3333333333333333,MELD
+train_714,3,6,"('anger', 'joy', 'neutral')",anger,3,0.5,MELD
+train_715,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_716,3,6,"('anger', 'neutral', 'sadness')",anger,4,0.6666666666666666,MELD
+train_717,4,13,"('anger', 'neutral', 'sadness', 'surprise')",neutral,7,0.5384615384615384,MELD
+train_718,2,7,"('joy', 'neutral')",neutral,6,0.8571428571428571,MELD
+train_719,2,8,"('joy', 'neutral')",joy,4,0.5,MELD
+train_72,2,8,"('neutral', 'surprise')",neutral,6,0.75,MELD
+train_720,4,19,"('anger', 'fear', 'joy', 'neutral')",neutral,12,0.631578947368421,MELD
+train_721,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_722,5,17,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.29411764705882354,MELD
+train_723,4,8,"('fear', 'joy', 'neutral', 'surprise')",joy,4,0.5,MELD
+train_724,1,6,"('neutral',)",neutral,6,1.0,MELD
+train_725,2,7,"('joy', 'neutral')",joy,5,0.7142857142857143,MELD
+train_726,5,8,"('disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.375,MELD
+train_727,3,10,"('anger', 'joy', 'neutral')",neutral,8,0.8,MELD
+train_728,3,12,"('anger', 'neutral', 'surprise')",neutral,8,0.6666666666666666,MELD
+train_729,2,2,"('joy', 'surprise')",surprise,1,0.5,MELD
+train_73,3,12,"('joy', 'neutral', 'surprise')",neutral,8,0.6666666666666666,MELD
+train_730,3,14,"('joy', 'neutral', 'surprise')",neutral,10,0.7142857142857143,MELD
+train_731,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_732,2,2,"('neutral', 'surprise')",neutral,1,0.5,MELD
+train_733,4,13,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.6153846153846154,MELD
+train_734,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+train_735,4,20,"('anger', 'fear', 'joy', 'neutral')",neutral,16,0.8,MELD
+train_736,5,14,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.35714285714285715,MELD
+train_737,3,9,"('anger', 'neutral', 'surprise')",neutral,6,0.6666666666666666,MELD
+train_738,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.3333333333333333,MELD
+train_739,4,15,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.4,MELD
+train_74,4,7,"('anger', 'disgust', 'joy', 'neutral')",neutral,3,0.42857142857142855,MELD
+train_740,5,14,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.35714285714285715,MELD
+train_741,2,5,"('joy', 'surprise')",surprise,3,0.6,MELD
+train_742,1,1,"('joy',)",joy,1,1.0,MELD
+train_743,4,6,"('anger', 'fear', 'joy', 'neutral')",neutral,2,0.3333333333333333,MELD
+train_744,5,12,"('anger', 'disgust', 'fear', 'neutral', 'surprise')",neutral,6,0.5,MELD
+train_745,4,12,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.5,MELD
+train_746,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_747,5,19,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.3157894736842105,MELD
+train_748,1,1,"('joy',)",joy,1,1.0,MELD
+train_749,2,8,"('joy', 'neutral')",joy,6,0.75,MELD
+train_75,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_750,2,5,"('neutral', 'sadness')",neutral,3,0.6,MELD
+train_751,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_752,3,12,"('joy', 'neutral', 'surprise')",joy,7,0.5833333333333334,MELD
+train_753,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_754,4,5,"('anger', 'disgust', 'neutral', 'sadness')",neutral,2,0.4,MELD
+train_755,3,10,"('anger', 'joy', 'neutral')",anger,5,0.5,MELD
+train_756,3,10,"('neutral', 'sadness', 'surprise')",neutral,7,0.7,MELD
+train_757,3,11,"('joy', 'neutral', 'surprise')",neutral,8,0.7272727272727273,MELD
+train_758,2,6,"('anger', 'surprise')",anger,5,0.8333333333333334,MELD
+train_759,6,16,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.375,MELD
+train_76,3,8,"('joy', 'neutral', 'sadness')",neutral,5,0.625,MELD
+train_760,4,5,"('anger', 'fear', 'joy', 'surprise')",anger,2,0.4,MELD
+train_761,3,10,"('anger', 'joy', 'neutral')",anger,7,0.7,MELD
+train_762,3,5,"('joy', 'neutral', 'surprise')",neutral,3,0.6,MELD
+train_763,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_764,1,1,"('joy',)",joy,1,1.0,MELD
+train_765,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_766,3,7,"('anger', 'joy', 'neutral')",neutral,3,0.42857142857142855,MELD
+train_767,5,12,"('anger', 'fear', 'joy', 'neutral', 'sadness')",neutral,7,0.5833333333333334,MELD
+train_768,5,9,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.3333333333333333,MELD
+train_769,3,3,"('fear', 'sadness', 'surprise')",sadness,1,0.3333333333333333,MELD
+train_77,2,5,"('joy', 'neutral')",neutral,4,0.8,MELD
+train_770,5,18,"('anger', 'disgust', 'fear', 'neutral', 'sadness')",anger,11,0.6111111111111112,MELD
+train_771,3,18,"('anger', 'neutral', 'surprise')",neutral,15,0.8333333333333334,MELD
+train_772,4,16,"('anger', 'joy', 'neutral', 'sadness')",joy,10,0.625,MELD
+train_773,2,3,"('disgust', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_774,5,11,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_775,3,14,"('joy', 'neutral', 'surprise')",neutral,10,0.7142857142857143,MELD
+train_776,2,8,"('joy', 'neutral')",neutral,5,0.625,MELD
+train_777,3,14,"('joy', 'neutral', 'surprise')",neutral,8,0.5714285714285714,MELD
+train_778,4,11,"('anger', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_779,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_78,5,6,"('anger', 'fear', 'joy', 'neutral', 'surprise')",anger,2,0.3333333333333333,MELD
+train_780,4,8,"('anger', 'neutral', 'sadness', 'surprise')",neutral,4,0.5,MELD
+train_781,2,2,"('joy', 'neutral')",neutral,1,0.5,MELD
+train_782,4,12,"('fear', 'joy', 'neutral', 'surprise')",neutral,4,0.3333333333333333,MELD
+train_783,3,9,"('joy', 'neutral', 'sadness')",joy,5,0.5555555555555556,MELD
+train_784,2,2,"('neutral', 'sadness')",neutral,1,0.5,MELD
+train_785,2,2,"('anger', 'neutral')",neutral,1,0.5,MELD
+train_786,2,4,"('anger', 'neutral')",anger,3,0.75,MELD
+train_787,1,11,"('neutral',)",neutral,11,1.0,MELD
+train_788,3,5,"('fear', 'joy', 'neutral')",neutral,3,0.6,MELD
+train_789,5,10,"('anger', 'fear', 'joy', 'neutral', 'surprise')",joy,4,0.4,MELD
+train_79,4,8,"('disgust', 'joy', 'neutral', 'surprise')",neutral,4,0.5,MELD
+train_790,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_791,4,22,"('joy', 'neutral', 'sadness', 'surprise')",neutral,13,0.5909090909090909,MELD
+train_792,6,21,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",joy,6,0.2857142857142857,MELD
+train_793,3,11,"('anger', 'joy', 'neutral')",joy,9,0.8181818181818182,MELD
+train_794,3,11,"('anger', 'neutral', 'sadness')",anger,8,0.7272727272727273,MELD
+train_795,3,9,"('anger', 'neutral', 'surprise')",neutral,5,0.5555555555555556,MELD
+train_796,5,21,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.3333333333333333,MELD
+train_797,4,14,"('joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.5714285714285714,MELD
+train_798,5,7,"('disgust', 'fear', 'neutral', 'sadness', 'surprise')",neutral,2,0.2857142857142857,MELD
+train_799,2,7,"('fear', 'neutral')",neutral,5,0.7142857142857143,MELD
+train_8,2,7,"('joy', 'neutral')",neutral,5,0.7142857142857143,MELD
+train_80,3,6,"('joy', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_800,2,2,"('fear', 'neutral')",fear,1,0.5,MELD
+train_801,3,9,"('anger', 'fear', 'neutral')",neutral,6,0.6666666666666666,MELD
+train_802,2,5,"('joy', 'neutral')",joy,3,0.6,MELD
+train_803,4,7,"('anger', 'joy', 'sadness', 'surprise')",joy,3,0.42857142857142855,MELD
+train_804,6,10,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",anger,4,0.4,MELD
+train_805,4,8,"('anger', 'joy', 'neutral', 'surprise')",joy,3,0.375,MELD
+train_806,5,18,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,5,0.2777777777777778,MELD
+train_807,2,2,"('anger', 'neutral')",neutral,1,0.5,MELD
+train_808,3,8,"('disgust', 'joy', 'neutral')",neutral,5,0.625,MELD
+train_809,5,16,"('anger', 'fear', 'joy', 'neutral', 'surprise')",joy,8,0.5,MELD
+train_81,5,17,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,7,0.4117647058823529,MELD
+train_810,5,18,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.4444444444444444,MELD
+train_811,4,11,"('fear', 'joy', 'neutral', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_812,3,14,"('anger', 'joy', 'neutral')",neutral,7,0.5,MELD
+train_813,4,11,"('anger', 'neutral', 'sadness', 'surprise')",neutral,7,0.6363636363636364,MELD
+train_814,2,5,"('joy', 'neutral')",neutral,3,0.6,MELD
+train_815,1,4,"('neutral',)",neutral,4,1.0,MELD
+train_816,2,5,"('neutral', 'sadness')",sadness,4,0.8,MELD
+train_817,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.6,MELD
+train_818,4,8,"('disgust', 'joy', 'neutral', 'sadness')",neutral,5,0.625,MELD
+train_819,6,19,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,13,0.6842105263157895,MELD
+train_82,4,11,"('anger', 'disgust', 'neutral', 'sadness')",neutral,6,0.5454545454545454,MELD
+train_820,4,22,"('joy', 'neutral', 'sadness', 'surprise')",joy,9,0.4090909090909091,MELD
+train_821,3,15,"('joy', 'neutral', 'surprise')",neutral,7,0.4666666666666667,MELD
+train_822,3,9,"('joy', 'neutral', 'sadness')",neutral,7,0.7777777777777778,MELD
+train_823,4,15,"('disgust', 'joy', 'neutral', 'surprise')",neutral,6,0.4,MELD
+train_824,1,2,"('joy',)",joy,2,1.0,MELD
+train_825,2,3,"('neutral', 'surprise')",neutral,2,0.6666666666666666,MELD
+train_826,3,5,"('joy', 'neutral', 'sadness')",joy,3,0.6,MELD
+train_827,3,14,"('fear', 'joy', 'neutral')",neutral,7,0.5,MELD
+train_828,5,16,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",anger,6,0.375,MELD
+train_829,2,3,"('anger', 'joy')",anger,2,0.6666666666666666,MELD
+train_83,2,4,"('anger', 'neutral')",neutral,3,0.75,MELD
+train_830,3,8,"('anger', 'joy', 'sadness')",joy,5,0.625,MELD
+train_831,4,8,"('anger', 'joy', 'neutral', 'sadness')",anger,5,0.625,MELD
+train_832,5,16,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.4375,MELD
+train_833,3,7,"('anger', 'joy', 'neutral')",anger,4,0.5714285714285714,MELD
+train_834,3,16,"('joy', 'neutral', 'surprise')",neutral,13,0.8125,MELD
+train_835,5,12,"('anger', 'disgust', 'neutral', 'sadness', 'surprise')",anger,5,0.4166666666666667,MELD
+train_836,4,13,"('anger', 'joy', 'neutral', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_837,2,3,"('joy', 'neutral')",joy,2,0.6666666666666666,MELD
+train_838,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_839,5,14,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",disgust,5,0.35714285714285715,MELD
+train_84,4,7,"('anger', 'fear', 'neutral', 'sadness')",anger,3,0.42857142857142855,MELD
+train_840,5,16,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,9,0.5625,MELD
+train_841,5,23,"('anger', 'fear', 'joy', 'neutral', 'sadness')",neutral,13,0.5652173913043478,MELD
+train_842,4,11,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_843,4,15,"('anger', 'neutral', 'sadness', 'surprise')",neutral,8,0.5333333333333333,MELD
+train_844,6,21,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.47619047619047616,MELD
+train_845,3,12,"('fear', 'joy', 'neutral')",joy,6,0.5,MELD
+train_846,1,5,"('neutral',)",neutral,5,1.0,MELD
+train_847,1,6,"('joy',)",joy,6,1.0,MELD
+train_848,3,12,"('neutral', 'sadness', 'surprise')",surprise,6,0.5,MELD
+train_849,4,12,"('anger', 'disgust', 'joy', 'neutral')",joy,7,0.5833333333333334,MELD
+train_85,1,5,"('neutral',)",neutral,5,1.0,MELD
+train_850,3,7,"('joy', 'neutral', 'surprise')",neutral,4,0.5714285714285714,MELD
+train_851,3,21,"('joy', 'neutral', 'surprise')",neutral,16,0.7619047619047619,MELD
+train_852,3,9,"('anger', 'neutral', 'sadness')",neutral,5,0.5555555555555556,MELD
+train_853,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,8,0.5333333333333333,MELD
+train_854,3,6,"('anger', 'fear', 'neutral')",neutral,3,0.5,MELD
+train_855,6,8,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",joy,3,0.375,MELD
+train_856,4,5,"('joy', 'neutral', 'sadness', 'surprise')",neutral,2,0.4,MELD
+train_857,3,12,"('joy', 'neutral', 'surprise')",neutral,10,0.8333333333333334,MELD
+train_858,3,14,"('joy', 'neutral', 'surprise')",neutral,10,0.7142857142857143,MELD
+train_859,2,4,"('neutral', 'surprise')",surprise,2,0.5,MELD
+train_86,3,11,"('joy', 'neutral', 'surprise')",neutral,8,0.7272727272727273,MELD
+train_860,5,16,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,9,0.5625,MELD
+train_861,6,19,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.3157894736842105,MELD
+train_862,2,4,"('neutral', 'surprise')",neutral,2,0.5,MELD
+train_863,3,8,"('joy', 'neutral', 'surprise')",neutral,6,0.75,MELD
+train_864,3,5,"('anger', 'joy', 'neutral')",neutral,3,0.6,MELD
+train_865,4,7,"('anger', 'joy', 'neutral', 'sadness')",neutral,3,0.42857142857142855,MELD
+train_866,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.45454545454545453,MELD
+train_867,5,8,"('anger', 'fear', 'joy', 'neutral', 'surprise')",anger,3,0.375,MELD
+train_868,2,4,"('anger', 'neutral')",neutral,3,0.75,MELD
+train_869,6,18,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'surprise')",anger,5,0.2777777777777778,MELD
+train_87,3,10,"('joy', 'neutral', 'sadness')",joy,4,0.4,MELD
+train_870,1,8,"('neutral',)",neutral,8,1.0,MELD
+train_871,2,11,"('neutral', 'sadness')",neutral,9,0.8181818181818182,MELD
+train_872,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.6,MELD
+train_873,4,6,"('anger', 'joy', 'neutral', 'surprise')",neutral,3,0.5,MELD
+train_874,4,16,"('anger', 'neutral', 'sadness', 'surprise')",sadness,8,0.5,MELD
+train_875,4,11,"('anger', 'joy', 'neutral', 'surprise')",neutral,4,0.36363636363636365,MELD
+train_876,2,3,"('anger', 'surprise')",anger,2,0.6666666666666666,MELD
+train_877,2,5,"('joy', 'surprise')",joy,4,0.8,MELD
+train_878,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+train_879,1,3,"('neutral',)",neutral,3,1.0,MELD
+train_88,2,4,"('joy', 'neutral')",neutral,3,0.75,MELD
+train_880,3,3,"('joy', 'neutral', 'surprise')",surprise,1,0.3333333333333333,MELD
+train_881,1,1,"('joy',)",joy,1,1.0,MELD
+train_882,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_883,1,8,"('neutral',)",neutral,8,1.0,MELD
+train_884,6,18,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.3333333333333333,MELD
+train_885,3,5,"('anger', 'joy', 'neutral')",neutral,2,0.4,MELD
+train_886,5,21,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",joy,9,0.42857142857142855,MELD
+train_887,3,14,"('anger', 'neutral', 'surprise')",neutral,6,0.42857142857142855,MELD
+train_888,4,20,"('anger', 'joy', 'neutral', 'sadness')",neutral,10,0.5,MELD
+train_889,2,6,"('neutral', 'surprise')",neutral,5,0.8333333333333334,MELD
+train_89,5,14,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,5,0.35714285714285715,MELD
+train_890,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_891,3,7,"('joy', 'neutral', 'surprise')",joy,3,0.42857142857142855,MELD
+train_892,5,17,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.6470588235294118,MELD
+train_893,5,18,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",joy,9,0.5,MELD
+train_894,1,1,"('joy',)",joy,1,1.0,MELD
+train_895,5,11,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_896,3,6,"('neutral', 'sadness', 'surprise')",neutral,3,0.5,MELD
+train_897,5,11,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.6363636363636364,MELD
+train_898,3,5,"('disgust', 'joy', 'neutral')",joy,3,0.6,MELD
+train_899,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_9,4,14,"('anger', 'disgust', 'joy', 'neutral')",neutral,10,0.7142857142857143,MELD
+train_90,1,1,"('surprise',)",surprise,1,1.0,MELD
+train_900,3,16,"('joy', 'neutral', 'surprise')",neutral,11,0.6875,MELD
+train_901,6,18,"('anger', 'disgust', 'fear', 'neutral', 'sadness', 'surprise')",neutral,7,0.3888888888888889,MELD
+train_902,4,17,"('anger', 'joy', 'neutral', 'surprise')",joy,8,0.47058823529411764,MELD
+train_903,3,3,"('anger', 'joy', 'neutral')",neutral,1,0.3333333333333333,MELD
+train_904,5,8,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",neutral,2,0.25,MELD
+train_905,5,17,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",joy,7,0.4117647058823529,MELD
+train_906,2,6,"('neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_907,5,14,"('anger', 'disgust', 'fear', 'neutral', 'surprise')",anger,6,0.42857142857142855,MELD
+train_908,5,17,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,7,0.4117647058823529,MELD
+train_909,2,9,"('joy', 'neutral')",neutral,8,0.8888888888888888,MELD
+train_91,1,1,"('anger',)",anger,1,1.0,MELD
+train_910,3,15,"('joy', 'neutral', 'surprise')",joy,8,0.5333333333333333,MELD
+train_911,5,6,"('disgust', 'fear', 'joy', 'neutral', 'surprise')",neutral,2,0.3333333333333333,MELD
+train_912,3,8,"('anger', 'neutral', 'surprise')",surprise,4,0.5,MELD
+train_913,3,15,"('anger', 'joy', 'neutral')",neutral,9,0.6,MELD
+train_914,2,3,"('joy', 'neutral')",neutral,2,0.6666666666666666,MELD
+train_915,2,10,"('fear', 'neutral')",neutral,6,0.6,MELD
+train_916,5,14,"('fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.42857142857142855,MELD
+train_917,4,6,"('anger', 'joy', 'neutral', 'surprise')",joy,3,0.5,MELD
+train_918,4,13,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.46153846153846156,MELD
+train_919,2,2,"('neutral', 'surprise')",surprise,1,0.5,MELD
+train_92,2,2,"('anger', 'neutral')",anger,1,0.5,MELD
+train_920,3,5,"('neutral', 'sadness', 'surprise')",surprise,2,0.4,MELD
+train_921,5,11,"('anger', 'disgust', 'fear', 'sadness', 'surprise')",sadness,5,0.45454545454545453,MELD
+train_922,4,9,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.6666666666666666,MELD
+train_923,7,14,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.21428571428571427,MELD
+train_924,3,7,"('joy', 'neutral', 'sadness')",neutral,3,0.42857142857142855,MELD
+train_925,2,9,"('joy', 'neutral')",neutral,7,0.7777777777777778,MELD
+train_926,5,18,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,10,0.5555555555555556,MELD
+train_927,2,5,"('neutral', 'surprise')",neutral,3,0.6,MELD
+train_928,4,6,"('anger', 'disgust', 'joy', 'neutral')",neutral,3,0.5,MELD
+train_929,3,6,"('anger', 'joy', 'neutral')",neutral,4,0.6666666666666666,MELD
+train_93,3,8,"('disgust', 'neutral', 'surprise')",neutral,4,0.5,MELD
+train_930,3,16,"('anger', 'joy', 'neutral')",neutral,12,0.75,MELD
+train_931,3,3,"('anger', 'disgust', 'joy')",joy,1,0.3333333333333333,MELD
+train_932,4,17,"('anger', 'fear', 'joy', 'neutral')",anger,6,0.35294117647058826,MELD
+train_933,5,20,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,11,0.55,MELD
+train_934,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD
+train_935,4,14,"('anger', 'joy', 'neutral', 'sadness')",neutral,7,0.5,MELD
+train_936,6,22,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",sadness,8,0.36363636363636365,MELD
+train_937,1,7,"('neutral',)",neutral,7,1.0,MELD
+train_938,4,10,"('joy', 'neutral', 'sadness', 'surprise')",neutral,4,0.4,MELD
+train_939,6,21,"('anger', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,7,0.3333333333333333,MELD
+train_94,6,16,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",neutral,7,0.4375,MELD
+train_940,3,9,"('joy', 'neutral', 'sadness')",neutral,6,0.6666666666666666,MELD
+train_941,3,15,"('joy', 'neutral', 'surprise')",neutral,12,0.8,MELD
+train_942,2,9,"('neutral', 'surprise')",neutral,6,0.6666666666666666,MELD
+train_943,3,6,"('anger', 'neutral', 'surprise')",neutral,4,0.6666666666666666,MELD
+train_944,2,2,"('anger', 'neutral')",neutral,1,0.5,MELD
+train_945,6,16,"('anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness')",joy,4,0.25,MELD
+train_946,4,17,"('anger', 'joy', 'neutral', 'surprise')",neutral,5,0.29411764705882354,MELD
+train_947,5,16,"('anger', 'disgust', 'joy', 'neutral', 'surprise')",neutral,9,0.5625,MELD
+train_948,3,16,"('joy', 'neutral', 'surprise')",neutral,8,0.5,MELD
+train_949,3,13,"('joy', 'neutral', 'sadness')",neutral,8,0.6153846153846154,MELD
+train_95,4,18,"('anger', 'joy', 'neutral', 'surprise')",neutral,10,0.5555555555555556,MELD
+train_950,6,18,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",joy,9,0.5,MELD
+train_951,2,2,"('anger', 'surprise')",anger,1,0.5,MELD
+train_952,3,7,"('disgust', 'joy', 'neutral')",neutral,5,0.7142857142857143,MELD
+train_953,5,23,"('anger', 'fear', 'neutral', 'sadness', 'surprise')",neutral,13,0.5652173913043478,MELD
+train_954,4,6,"('joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.5,MELD
+train_955,3,7,"('anger', 'neutral', 'surprise')",anger,5,0.7142857142857143,MELD
+train_956,3,17,"('anger', 'neutral', 'surprise')",neutral,13,0.7647058823529411,MELD
+train_957,1,2,"('sadness',)",sadness,2,1.0,MELD
+train_958,1,1,"('sadness',)",sadness,1,1.0,MELD
+train_959,3,10,"('joy', 'neutral', 'sadness')",neutral,7,0.7,MELD
+train_96,1,5,"('neutral',)",neutral,5,1.0,MELD
+train_960,4,11,"('anger', 'disgust', 'neutral', 'surprise')",neutral,4,0.36363636363636365,MELD
+train_961,4,15,"('anger', 'neutral', 'sadness', 'surprise')",neutral,6,0.4,MELD
+train_962,2,6,"('joy', 'neutral')",joy,4,0.6666666666666666,MELD
+train_963,4,10,"('anger', 'disgust', 'neutral', 'surprise')",anger,6,0.6,MELD
+train_964,6,18,"('anger', 'disgust', 'joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.3333333333333333,MELD
+train_965,4,7,"('fear', 'joy', 'neutral', 'surprise')",neutral,3,0.42857142857142855,MELD
+train_966,3,8,"('joy', 'neutral', 'surprise')",surprise,4,0.5,MELD
+train_967,3,10,"('joy', 'neutral', 'surprise')",surprise,6,0.6,MELD
+train_968,4,8,"('joy', 'neutral', 'sadness', 'surprise')",neutral,3,0.375,MELD
+train_969,3,7,"('anger', 'joy', 'neutral')",neutral,4,0.5714285714285714,MELD
+train_97,2,4,"('anger', 'neutral')",neutral,3,0.75,MELD
+train_970,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_971,3,3,"('anger', 'neutral', 'sadness')",neutral,1,0.3333333333333333,MELD
+train_972,4,12,"('joy', 'neutral', 'sadness', 'surprise')",neutral,6,0.5,MELD
+train_973,5,19,"('anger', 'disgust', 'joy', 'neutral', 'sadness')",neutral,11,0.5789473684210527,MELD
+train_974,1,2,"('neutral',)",neutral,2,1.0,MELD
+train_975,2,7,"('joy', 'neutral')",neutral,6,0.8571428571428571,MELD
+train_976,6,13,"('disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise')",neutral,8,0.6153846153846154,MELD
+train_977,5,15,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",neutral,5,0.3333333333333333,MELD
+train_978,3,11,"('joy', 'neutral', 'surprise')",joy,4,0.36363636363636365,MELD
+train_979,3,7,"('joy', 'neutral', 'surprise')",joy,3,0.42857142857142855,MELD
+train_98,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_980,5,12,"('anger', 'disgust', 'fear', 'neutral', 'sadness')",neutral,7,0.5833333333333334,MELD
+train_981,3,5,"('neutral', 'sadness', 'surprise')",sadness,2,0.4,MELD
+train_982,3,11,"('joy', 'neutral', 'surprise')",neutral,6,0.5454545454545454,MELD
+train_983,4,8,"('anger', 'neutral', 'sadness', 'surprise')",anger,3,0.375,MELD
+train_984,2,6,"('joy', 'neutral')",neutral,4,0.6666666666666666,MELD
+train_985,4,5,"('anger', 'neutral', 'sadness', 'surprise')",sadness,2,0.4,MELD
+train_986,3,17,"('joy', 'neutral', 'surprise')",neutral,10,0.5882352941176471,MELD
+train_987,1,1,"('neutral',)",neutral,1,1.0,MELD
+train_988,3,8,"('neutral', 'sadness', 'surprise')",neutral,3,0.375,MELD
+train_989,4,12,"('fear', 'neutral', 'sadness', 'surprise')",fear,5,0.4166666666666667,MELD
+train_99,4,19,"('anger', 'fear', 'joy', 'neutral')",neutral,9,0.47368421052631576,MELD
+train_990,4,20,"('anger', 'joy', 'neutral', 'sadness')",neutral,17,0.85,MELD
+train_991,3,15,"('joy', 'neutral', 'surprise')",neutral,10,0.6666666666666666,MELD
+train_992,4,16,"('disgust', 'joy', 'neutral', 'sadness')",neutral,10,0.625,MELD
+train_993,2,4,"('joy', 'neutral')",joy,2,0.5,MELD
+train_994,4,7,"('anger', 'fear', 'neutral', 'sadness')",neutral,3,0.42857142857142855,MELD
+train_995,2,2,"('anger', 'neutral')",anger,1,0.5,MELD
+train_996,5,21,"('anger', 'joy', 'neutral', 'sadness', 'surprise')",anger,13,0.6190476190476191,MELD
+train_997,5,10,"('anger', 'fear', 'joy', 'neutral', 'surprise')",neutral,4,0.4,MELD
+train_998,2,3,"('neutral', 'surprise')",surprise,2,0.6666666666666666,MELD
+train_999,2,5,"('neutral', 'surprise')",neutral,4,0.8,MELD

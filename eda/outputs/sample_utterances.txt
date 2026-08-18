@@ -1,0 +1,159 @@
+
+######################################################################
+# [IEMOCAP] 감정별 예시 발화 (각 5개)
+######################################################################
+
+  ──   (n=2707) ──
+     [Ses03F_script01_2_] Believe, Joe. You above all people have got to believe.
+     [Ses01M_script03_2_] So am I. I'm bored stiff. You want some brandy?
+     [Ses04F_script01_3_] You think this is wrong, this chair, this yard. I want you to be ready for me. I don't want to win you away from anythin
+     [Ses01M_script01_1_] You know.
+     [Ses05F_impro03_F  ] No.
+
+  ── ang  (n=1103) ──
+     [Ses02M_script01_1_] See it isn't just my business-
+     [Ses05M_script01_1b] what to hell with that!
+     [Ses03F_impro08_M  ] What? It's my phone. You can't even call me on it. I don't have another phone.
+     [Ses03M_impro05b_M ] I'm going to San Diego tomorrow to stay with my family. What do I need hotel lodging for hmmm? Can you tell me that?
+     [Ses03M_script02_2_] Augie, god dammit, don't ask me that. You always ask me that. I hate it when you ask me that. It's insulting.
+
+  ── exc  (n=1041) ──
+     [Ses01M_script02_2_] Well, so? What do you think?
+     [Ses04F_script02_1_] No one sent them a map or an invitation. Just some little instinctual time release firecracker went off in their little 
+     [Ses02F_impro07_F  ] I don't mind worrying about all the paperwork. You know--
+     [Ses01F_script02_2_] Look at this, all of the hairs are standing up on my arm.
+     [Ses04M_impro07_M  ] Yeah, yeah.
+
+  ── fru  (n=1849) ──
+     [Ses02M_script01_2_] Nobody in this house dares take her faith away Joe. Strangers might, but not his father, not his brother.
+     [Ses04M_impro02_M  ] But I've been trained. You have no training.
+     [Ses03F_impro04_F  ] So I'll have to wait twenty five years-
+     [Ses04F_script02_2_] No, of course not.
+     [Ses04F_impro08_M  ] Yeah, um. I have been trying to reach somebody who will refund, uh, my money.
+
+  ── hap  (n=595) ──
+     [Ses02M_impro03_M  ] I got to freak her out.
+     [Ses02M_script03_1_] Things that ought to matter dreadfully don't matter at all when one's is happy, do they?
+     [Ses05F_impro03_F  ] [LAUGHTER]
+     [Ses05F_impro03_M  ] Exactly, "laugh".
+     [Ses02F_script03_1_] It burned my comb too and all the towels in the bathroom.
+
+  ── neu  (n=1708) ──
+     [Ses02F_script03_1_] If I laugh at everything, then I must laugh at us too.
+     [Ses05F_impro01_M  ] ahh Yeah, this is the wrong line. I'm sorry. You need to go back over to line two B. That's where you should have starte
+     [Ses05F_impro04_M  ] I mean are you going in for interviews?
+     [Ses01F_impro06_F  ] There's another one, I can't remember.
+     [Ses02F_impro06_M  ] I know. It doesn't bring him back, but--
+
+  ── sad  (n=1084) ──
+     [Ses03M_script02_2_] If anybody wants to be with anybody else it's probably you. Probably somebody who enjoys herself a little more and is no
+     [Ses01F_script01_3_] And I didn't want any of it. I guess that included you.
+     [Ses02M_impro02_F  ] I'll miss you too.
+     [Ses05M_impro06_M  ] Thanks.
+     [Ses02F_impro02_F  ] I have no choice. There's nothing I can do.
+
+######################################################################
+# [MELD] 감정별 예시 발화 (각 5개)
+######################################################################
+
+  ── anger  (n=1607) ──
+     [Joey              ] Yeah, we both auditioned for the part, and uh, as it turned out, they ah, they liked the stupid gay thing and cast him.
+     [Ross              ] Oh, what are you going to do, follow me down there?
+     [Monica            ] Look at you. All jealous.
+     [Rachel            ] Well, I wouldn't know because I got so freaked out that I hung up the phone.
+     [Dr. Green         ] Is it because that punk Ross won’t marry you?!
+
+  ── disgust  (n=361) ──
+     [All               ] Nooo..
+     [Rachel            ] I mean that ain’t a pretty picture in the morning, y’know what I mean.
+     [Chandler          ] No, no, you’re right, it is a ridiculous name!
+     [Monica            ] No.
+     [Danny             ] so we finally get to the top of the mountain and airhead here  forgets the camera!
+
+  ── fear  (n=358) ──
+     [Phoebe            ] Oh!  Ok, um, ok, um,
+     [Rachel            ] Monica, betting the apartment, I don’t know about this.
+     [Chandler          ] Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!
+     [Rachel            ] Noooooo!!
+     [Ross              ] Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here—but do you think it w
+
+  ── joy  (n=2308) ──
+     [Ross              ] You are totally jealous.
+     [Phoebe            ] Okay, I can do that! Oh, by the way, I
+     [Monica            ] Yes!
+     [Phoebe            ] Thanks.
+     [Rachel            ] We can help each other out!
+
+  ── neutral  (n=6436) ──
+     [Rachel            ] Oh, my-my new assistant was very happy that I hired my new assistant.
+     [Joey              ] Hey Rach! Hey, you mind if I read my comic books in here?
+     [Joey              ] What people think or how you feel, huh?
+     [Chandler          ] Yeah, well, she's probably talking to Richard.
+     [Tag               ] Okay.
+
+  ── sadness  (n=1002) ──
+     [Rachel            ] Ohh, ohh.
+     [Joey              ] Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me.
+     [Joey              ] God, it’s gonna so weird like when I come home and you’re not here.
+     [Joey              ] Come on! When you go away, you-you have to play, it’s like a law!
+     [Chandler          ] Hey, no way! Come on, this is you guys, call her and work it out.
+
+  ── surprise  (n=1636) ──
+     [Joey              ] Oh! Ohh! Oh!!
+     [Joey              ] That was a great scene! And-and-and that slap looks so real! How do you do that?
+     [Joey              ] Boyfriend?
+     [Rachel            ] I can't believe you don't want to know.
+     [Phoebe            ] Oh no!
+
+######################################################################
+# [K-MIND] 감정별 예시 발화 (각 5개)
+######################################################################
+
+  ── 기쁨  (n=6694) ──
+     [SET069_M001_S002_S] 그래서 나 차라리 은수누나같은 그런 방식이 얘기할 때는 훨씬 좋은 거 같애 내가 봤을땐.
+     [SET015_M006_S004_S] 역시 돼지가 짱이다 아 역시 돼지고기가 짱이다
+     [SET149_M001_S003_S] 먹을 거를 주면 그 먹을 거 앞에서 교육이 좀 잘 돼요
+     [SET049_M006_S003_S] 괜찮아?
+     [SET164_M005_S002_S] 아/ 필라테스는 속 근육과 외부 근육을 키워 주는데 너무 좋았어요.
+
+  ── 놀람  (n=10941) ──
+     [SET010_M012_S005_S] 무슨 색깔 입었어요?
+     [SET068_M005_S002_S] 혹시 이 얘기는 어떻게 들리셨을까요?
+     [SET095_M002_S003_S] 너는 엇/ 어떤 거 같애, 각자 막 도서관에서 책 읽는 데이트는?
+     [SET060_M003_S002_S] 사야지
+     [SET127_M006_S003_S] 최근에 해병대 병사 살해 뭐야 사/ 사고 사고 사망 사건이 있었잖아요?
+
+  ── 무서움  (n=1596) ──
+     [SET100_M005_S002_S] 얼른 가자
+     [SET159_M005_S005_S] 그렇게 하다 보면 그게 한두 번은 괜찮을지 몰라도 그게 진짜 1년이 되고 2년이 되다 보면은 틀림없이 그게 무릎 관절이 오게 올 수밖에 없는 거거든요
+     [SET159_M005_S001_S] 집에서 나와야 뭣/ 뭔가가 보여
+     [SET028_M003_S004_S] 그래서 뭔가 나름대로 얘기는 해 줬지만 그 학생이 또 거쳐 가야 할 여러 가지 풍파와  여러/ 여러 가지 어려움들 그런 게 계속될 거라는 생각에 좀 여러 가지로 걱정이 됐었고 네 그랬었던 케이스였습니다.
+     [SET079_M001_S004_S] 어 그 사소한 거에 집착하지마
+
+  ── 슬픔  (n=3140) ──
+     [SET092_M001_S004_S] 근데 그게 저는 더 너무 상처를 받고 아 얘가 진짜 인제 사춘기 와서 인제 엄마가 막 뽀뽀도 하고 막 이쁘다고 막 엉덩이도 두들겨 주고 막 이러면 귀찮아하더라구요
+     [SET119_M003_S004_S] 그렇게 되면 엄청난 집중력을 요구하는데 지치죠
+     [SET059_M004_S001_S] 그래서 약간 좀 뭔가 그런 게 없었는데 이거 뭐/ 나 혼자서 막 이렇게 막 그 주의를 맴돌면서 막 어/ 어떡하지 나 저 자리 뺏기면 되는데 막 이런 이런 게 뭔가 약간 불안하면서도
+     [SET069_M001_S001_S] 계속 이렇게 잘 들어줬는데 친구가 어느 순간 그런다고 하면 뭔가 배신감 느낄 수 있을 것 같고 상처 받을 수도 있고
+     [SET129_M002_S004_S] 음/그러다 보니까 이 좋아하는 마음을 주체하지 못하다 보니까 부담감을 느껴서 그런지 좀 짧게 짧게 연애가 끝났던 거 같습니다
+
+  ── 중립  (n=47050) ──
+     [SET151_M002_S001_S] 꼭 그리고 성격적으로 착한 거를 보/ 착하면 좋치만 그니깐 착했으면 좋겠다
+     [SET129_M002_S001_S] 그리고 그 외모들 중에는 여러 가지가 있는데 네/ 어떤 헤어나 피부나 그런 몸적인 것들 다 이제 종합적으로 영향을 미치니까요
+     [SET088_M003_S001_S] 긋/
+     [SET074_M003_S003_S] 여조명 팀은 이렇게 부르고 또 뭐 다른 조명 팀은 또 이렇게 부르고 다 다르기 때문에 어/ 뭐/ 그거에 대해서 적응하는 시간은 그 팀에서도 어느 정도 줄 거니까 뭐/ 딱 말했는데 바로 못 알아들었다고 바로 뭐라 하고
+     [SET089_M001_S003_S] 그 좋네요
+
+  ── 혐오  (n=850) ──
+     [SET118_M002_S005_S] 아니면 이제 주말에 가야 되는데 사람이 많은 걸 또 싫어해서 그분이
+     [SET062_M006_S001_S] 아니야 아니야 약간 진짜 별로야
+     [SET008_M016_S004_S] 어 차라리 차라리 그게 낫긴 한데 근데 사실 호텔은 다 똑같이 생겼잖아 뭐 어딜 가도 다 똑같이 생겼어
+     [SET004_M013_S004_S] 아/ 니글니글 해
+     [SET004_M013_S001_S] 근데 혼자 살면 쓰레기 분리수거 하는 것도 너무 귀찮지 않아?
+
+  ── 화남  (n=1434) ──
+     [SET016_M006_S004_S] 막 그렇게 얘기하는데 나는 속으론 한편으로는 너무 이 사람이 가증스럽게 느껴지는거야
+     [SET040_M003_S003_S] 그거를 다 개인 돈인 것 마냥 그렇게 사용을 했어 친구가 그래서
+     [SET160_M005_S002_S] 옛날에는 뭐/ 떨어질 때 그래 이미지가 아니었나보다 내 역할이 아니었나보다 이렇게 했는데 이게 이 3년이 막 지나가니까 아니 도대체 이미지가 뭔데? 이렇게 되는 거예요 도대체
+     [SET040_M003_S004_S] 음/ 근데 이제 다른 사람의 어떤 약점이나 그런 것들을 음/ 이제 까발려서
+     [SET133_M005_S005_S] 솔직히 이거 말도 안 되잖아요?

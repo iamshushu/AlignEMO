@@ -1,0 +1,4 @@
+dataset,n_dialogues,avg_N_per_dlg,avg_total_shifts,avg_shift_rate_pct,avg_non_neu_shifts,avg_same_spk_shifts,avg_cross_spk_shifts
+IEMOCAP,151,48.9,21.25,44.0,21.25,3.52,17.73
+MELD,1344,10.1,5.45,59.8,5.45,0.92,4.53
+K-MIND,817,87.8,39.94,46.8,39.94,15.06,24.88

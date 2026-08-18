@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "AlignEMO"
+abstract: >-
+  Two-stage multimodal Emotion Recognition in Conversation framework combining
+  Cross-Modal Knowledge Distillation with a dataset-specific teacher modality,
+  Hierarchical Multimodal Fusion, and Emotion Label Anchored Contrastive Learning.
+authors:
+  - family-names: Hwang
+    given-names: Sooyeon
+    affiliation: Seoul National University
+  - family-names: Choi
+    given-names: Han-Jun
+    affiliation: Korea Electronics Technology Institute
+  - family-names: Kim
+    given-names: Hoemin
+    affiliation: Seoul National University
+  - family-names: Gweon
+    given-names: Gahgene
+    affiliation: Seoul National University
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    AlignEMO: Teacher-Guided Multimodal Emotion Representation Learning and Emotion
+    Label Anchored Contrastive Learning for Emotion Recognition in Conversation
+  authors:
+    - family-names: Hwang
+      given-names: Sooyeon
+    - family-names: Choi
+      given-names: Han-Jun
+    - family-names: Kim
+      given-names: Hoemin
+    - family-names: Gweon
+      given-names: Gahgene
+  journal: "Computers, Materials & Continua"
+  year: 2026

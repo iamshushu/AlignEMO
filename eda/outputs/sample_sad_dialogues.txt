@@ -1,0 +1,147 @@
+로딩...
+
+======================================================================
+[IEMOCAP]  focal = 'sad'
+======================================================================
+
+  [LOW]  dlg_id=dev_13  N=58  sad=2  ratio=3.4%
+    sequence:  NNNSFFFFAAAAAFNFNNFANAFAAFAFFFFNNNAFFFNNNNFSAAFAAAANANAFAF
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [   neutral] (spk=Ses04M_script01_1_M) He was out here when it broke.
+     ▶ [       sad] (spk=Ses04M_script01_1_F) He's getting just like after he died. What's the meaning in that?
+       [frustrated] (spk=Ses04M_script01_1_M) I don't know the meaning of it, mom. But I know one thing; we made a terrible mi
+      ...
+       [frustrated] (spk=Ses04M_script01_1_M) I've given it three years' of thought. I'd hope that if
+     ▶ [       sad] (spk=Ses04M_script01_1_M) father forgot about Larry, we'd have a regular wedding and everything happy. If 
+       [     anger] (spk=Ses04M_script01_1_F) What the hell is this?
+
+  [MEDIAN]  dlg_id=train_25  N=79  sad=18  ratio=22.8%
+    sequence:  EENEFFFFFFFFNAAFFFANAFAAFFFFFNNNNSNNSNSNSNNNFFFFAAFASSANANSSSSSSSSSSSJNJNJSJJNN
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [   neutral] (spk=Ses01M_script02_2_F) Do you remember the first year we came here? It's about four years ago right aft
+     ▶ [       sad] (spk=Ses01M_script02_2_F) And I remember thinking this is it. finally, finally I'm as happy as I'm suppose
+       [   neutral] (spk=Ses01M_script02_2_M) Wait a minute, I've got it.
+      ...
+       [   neutral] (spk=Ses01M_script02_2_M) It was when we were driving passed that knickerbocker liquor locker and you woul
+     ▶ [       sad] (spk=Ses01M_script02_2_F) I'd rather not remember some things. I'd rather not hope for some things.
+       [   neutral] (spk=Ses01M_script02_2_M) Oh right sure, of course.
+      ...
+       [   neutral] (spk=Ses01M_script02_2_M) Oh right sure, of course.
+     ▶ [       sad] (spk=Ses01M_script02_2_F) No.
+       [   neutral] (spk=Ses01M_script02_2_M) You want me to go get some champagne?
+      ...
+       [   neutral] (spk=Ses01M_script02_2_M) You want me to go get some champagne?
+     ▶ [       sad] (spk=Ses01M_script02_2_F) No.
+       [   neutral] (spk=Ses01M_script02_2_M) Do you want to take off our shoes?
+      ...
+       [     anger] (spk=Ses01M_script02_2_M) You think nothing turns out how it's supposed to. You think I had some grand ide
+     ▶ [       sad] (spk=Ses01M_script02_2_M) No, no I'm just like you, I thought it was going to be all rosy cheeks and the b
+       [       sad] (spk=Ses01M_script02_2_M) No. You know what you get? You know what you get? You get this.
+
+  [HIGH]  dlg_id=train_74  N=63  sad=37  ratio=58.7%
+    sequence:  SSJSJSSSSFFFFFFSSSNSSSNSSFFFSFFFFFFSSSSSSSSSSSSSSSSSSSSFSFFFFFF
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+     ▶ [       sad] (spk=Ses03M_impro02_M) Hey sweetie.
+       [       sad] (spk=Ses03M_impro02_M) Hey.
+      ...
+       [       sad] (spk=Ses03M_impro02_M) Hey sweetie.
+     ▶ [       sad] (spk=Ses03M_impro02_M) Hey.
+       [     happy] (spk=Ses03M_impro02_F) Um.
+      ...
+       [     happy] (spk=Ses03M_impro02_F) Um.
+     ▶ [       sad] (spk=Ses03M_impro02_M) Uh, -Um
+       [     happy] (spk=Ses03M_impro02_F) Why the sad face?
+      ...
+       [     happy] (spk=Ses03M_impro02_F) Why the sad face?
+     ▶ [       sad] (spk=Ses03M_impro02_M) they need me out there sooner than I thought
+       [       sad] (spk=Ses03M_impro02_M) They want to deploy me next week.
+      ...
+       [       sad] (spk=Ses03M_impro02_M) they need me out there sooner than I thought
+     ▶ [       sad] (spk=Ses03M_impro02_M) They want to deploy me next week.
+       [       sad] (spk=Ses03M_impro02_M) For--
+
+======================================================================
+[MELD]  focal = 'sadness'
+======================================================================
+
+  [LOW]  dlg_id=dev_1  N=16  sad=1  ratio=6.2%
+    sequence:  NJSNNJNUNNUANJNN
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [       joy] (spk=Chandler) You’re a genius!
+     ▶ [   sadness] (spk=Joey) Aww, man, now we won’t be bank buddies!
+       [   neutral] (spk=Chandler) Now, there’s two reasons.
+
+  [MEDIAN]  dlg_id=dev_90  N=7  sad=1  ratio=14.3%
+    sequence:  JNXNNAS
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [     anger] (spk=Joey) Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?
+     ▶ [   sadness] (spk=Rachel) Oh God, I know I'm a pathetic loser.
+
+  [HIGH]  dlg_id=train_938  N=10  sad=2  ratio=20.0%
+    sequence:  NSSJJNNUUN
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [   neutral] (spk=Joey) Well, so anyway Beth, what I’m saying is I should’ve considered your feelings be
+     ▶ [   sadness] (spk=Joey) I’ve ah, I’ve recently learned what’s it like to be on your side of it, and I’m 
+       [   sadness] (spk=Joey) So, do you think you can forgive me?
+      ...
+       [   sadness] (spk=Joey) I’ve ah, I’ve recently learned what’s it like to be on your side of it, and I’m 
+     ▶ [   sadness] (spk=Joey) So, do you think you can forgive me?
+       [       joy] (spk=Joey) Great.
+
+======================================================================
+[K-MIND]  focal = 'sad'
+======================================================================
+
+  [LOW]  dlg_id=train_281  N=137  sad=2  ratio=1.5%
+    sequence:  UNJJJNUNNNUNNNNNJNNNNNNNNNNNNSNNNNNSNNNNNNNNNNNNNNNNNNNJJNNNNNNNNNNNJJNNNNNNNNNJNJNNNNNDNNJNNNJNNNNNNNNNNNNNNUNUNNUDNNNNNJNNNNNNNNNNNDNNN
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [   neutral] (spk=SET102_M002_S001_S2) 사실상 이제 되게 저랑 다른 사람을 만나는 거잖아요
+     ▶ [       sad] (spk=SET102_M002_S001_S2) 살아온 방식이 아예 다른 사람을 만나는 거다 보니까 하나부터 열까지 다 맞춰야 되고 뭔가 이런 감정노동이 저는 사실 연애를 하면서 되게 힘들더라
+       [   neutral] (spk=SET102_M002_S001_S2) 물론 좋은 점이 커서 만난 건 맞지만 그게 지속적으로 유지는 안되는 느낌이었어요
+      ...
+       [   neutral] (spk=SET102_M002_S001_S2) 제가 막 써도 되고 이런 건데 뭔가 하나부터 열까지 조금이라도 틀어지면은 커지잖아요
+     ▶ [       sad] (spk=SET102_M002_S001_S2) 연애 관계에 있어서 그런 게 힘들더라고요
+       [   neutral] (spk=SET102_M002_S001_S1) 그래서 6년동안 일단은
+
+  [MEDIAN]  dlg_id=train_579  N=45  sad=2  ratio=4.4%
+    sequence:  UNNNNUJNUNNNUJUJUNJUNJUNNJNUNUNUNNSUUNSUNNNJJ
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [   neutral] (spk=SET178_M002_S004_S2) 아무래도 길/ 오래오래 봤었다가 이케 짧게 짧게 짧게 봐야 한다는 게 근데 그것만이 또 애틋함이 있더라고요
+     ▶ [       sad] (spk=SET178_M002_S004_S2) 그래서 네 열심히 그러/ 그런 생각하면서 네 버티고 있습니다
+       [  surprise] (spk=SET178_M002_S004_S1) 근데 횟수가 줄면 아무래도 조그만 갈등 사항이 커지기도 하잖아요 눈을 보고 얘기하면 바로 풀얼 수 있 있었던 사람들이 얼굴을 보지 못하고 통화가
+      ...
+       [   neutral] (spk=SET178_M002_S004_S2) 음/ 뭔가 확실히 말씀해주신 것처럼 제가 쫌 연애에 있어서 서툴고 불안하다 보니까 같이 있는 게 아니면은 항상 항상 혼자 고민하고 뭔가 심연에 
+     ▶ [       sad] (spk=SET178_M002_S004_S2) 그런 부분에 있어서는 아쉬움을 좀 느끼는 거 같애요 약간
+       [  surprise] (spk=SET178_M002_S004_S1) 못 본 사이에 자그마한 대화들 속에서 서운함을 느꼈는데 그게 좀 오래 갔던 경우도 있나요?
+
+  [HIGH]  dlg_id=train_133  N=93  sad=40  ratio=43.0%
+    sequence:  NSSSNNNNSNSSUNNNSSNSSSSSSSSSUNNNSSNSSSSNJSNNNNNNUUUUUSNNXNSNNSSNSJSSSJSSSSNJNNNNSNUSSUXUSNJNJ
+    legend:    S=sad/sadness  N=neutral  J=joy/happy  A=anger  E=excited  F=frustrated  U=surprise  X=fear  D=disgust
+    Sad utterances + context (앞뒤 1턴):
+       [   neutral] (spk=SET042_M005_S001_S1) 언니는 요즘에 잠 잘 자요?
+     ▶ [       sad] (spk=SET042_M005_S001_S2) 나 잠 못 자 요새 자다가 너무 자주 중간에 깨고 막 이래 가지고
+       [       sad] (spk=SET042_M005_S001_S2) 아침에 애들 보내려고
+      ...
+       [       sad] (spk=SET042_M005_S001_S2) 나 잠 못 자 요새 자다가 너무 자주 중간에 깨고 막 이래 가지고
+     ▶ [       sad] (spk=SET042_M005_S001_S2) 아침에 애들 보내려고
+       [       sad] (spk=SET042_M005_S001_S2) 그/ 여섯 시에서 여섯 시 반 정도에는 일어나야 되는데 맨날 피곤해 가지고 그러니까 잠을 깊숙이 못 자니까
+      ...
+       [       sad] (spk=SET042_M005_S001_S2) 아침에 애들 보내려고
+     ▶ [       sad] (spk=SET042_M005_S001_S2) 그/ 여섯 시에서 여섯 시 반 정도에는 일어나야 되는데 맨날 피곤해 가지고 그러니까 잠을 깊숙이 못 자니까
+       [   neutral] (spk=SET042_M005_S001_S2) 그래 가지고  내가 어제 사실은 그/ 침대 매트리스를 바꿨거든
+      ...
+       [   neutral] (spk=SET042_M005_S001_S2) 그/ 크게 못 느끼겠더라고 더 써 봐야지 알 것 같아 그래 가지고는
+     ▶ [       sad] (spk=SET042_M005_S001_S2) 여하튼 잠자는 거는 많이 힘들어
+       [   neutral] (spk=SET042_M005_S001_S2) 그렇고 병원에 갔을 때도 저번에 이제 건강 검진할 때 뭐/ 우리 기본 문진하잖아 잠 잘 자는지 뭐/ 수면의 질이 어떤지
+      ...
+       [   neutral] (spk=SET042_M005_S001_S2) 그렇고 병원에 갔을 때도 저번에 이제 건강 검진할 때 뭐/ 우리 기본 문진하잖아 잠 잘 자는지 뭐/ 수면의 질이 어떤지
+     ▶ [       sad] (spk=SET042_M005_S001_S2) 근데 거의 나는 수면의 질이 그/ 뭐/ 1번부터 5번까지 있으면은 4번 5번 좋지 않다
+       [       sad] (spk=SET042_M005_S001_S2) 어 항상 보면은 그런 것 같아 그래 가지고서는 많이 잠/ 깊숙이 질적인 잠은 못 자

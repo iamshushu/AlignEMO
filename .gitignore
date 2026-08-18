@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# Model weights / checkpoints (재현 가능 — generate_anchors.py)
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+save_model/
+checkpoints/
+
+# Cache (학습 시 자동 생성 / 로컬 symlink)
+*_cache/
+.cache/
+K-MIND/cache_total_multimodal_rowwise*
+
+# Outputs / logs (학습 로그 — 용량 큼)
+*.out
+*.log
+*.err
+wandb/
+runs/
+lightning_logs/
+
+# Dataset (저작권 / 용량)
+EACL/data/
+dataset/
+*.pkl
+*.npy
+*.h5
+*.wav
+*.mp4
+*.avi
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sensitive
+.env
+*.key
+
+# Preflight / provenance artifacts written at run time
+K-MIND/projector/
+scripts/analysis/fusion_cache_*.pt
+scripts/analysis/fusion_ablation_results.csv
+logs/
