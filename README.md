@@ -164,13 +164,6 @@ python -m unittest discover -s tests -v
 ```
 
 ## Acknowledgement
-
-This codebase builds on the TelME framework (Yun et al., NAACL 2024). The gated
-displacement formulation in Stage 1B follows MAG (Rahman et al., ACL 2020), and the
-label-anchored contrastive objective in Stage 2 extends EACL (Yu et al., NAACL Findings
-2024) to multimodal representations. The Korean dataset K-MIND is from Yang et al.
-(LREC 2026).
-
 This work was supported by Institute of Information & Communications Technology Planning
 & Evaluation (IITP) grants funded by the Korea government (MSIT), including the Artificial
 Intelligence Graduate School Program (Seoul National University), under grants
